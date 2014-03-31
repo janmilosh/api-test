@@ -2,7 +2,7 @@ from urllib2 import urlopen
 from json import load, dumps
 
 url = 'http://api.npr.org/query?apiKey=' 
-key = 'MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001'
+key = ''
 url = url + key
 url += '&numResults=1&format=json&id=1007' #1007 is science
 url += '&requiredAssets=text,audio,image'
