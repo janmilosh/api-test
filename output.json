@@ -1,0 +1,1197 @@
+{
+    "version": "0.94", 
+    "list": {
+        "teaser": {
+            "$text": "The latest health and science news. Updates on medicine, healthy living, nutrition, drugs, diet, and advances in science and technology. Subscribe to the Health & Science podcast."
+        }, 
+        "miniTeaser": {}, 
+        "link": [
+            {
+                "$text": "http://api.npr.org/query?id=1007&apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001", 
+                "type": "api"
+            }, 
+            {
+                "$text": "http://www.npr.org/sections/science/?ft=3&f=1007", 
+                "type": "html"
+            }
+        ], 
+        "story": [
+            {
+                "miniTeaser": {}, 
+                "subtitle": {}, 
+                "show": [
+                    {
+                        "segNum": {
+                            "$text": "17"
+                        }, 
+                        "program": {
+                            "code": "ME", 
+                            "$text": "Morning Edition", 
+                            "id": "3"
+                        }, 
+                        "showDate": {
+                            "$text": "Mon, 24 Mar 2014 05:00:00 -0400"
+                        }
+                    }
+                ], 
+                "text": {
+                    "paragraph": [
+                        {
+                            "num": "1", 
+                            "$text": "On March 24, 1989, the tanker Exxon Valdez struck a reef in Prince William Sound, Alaska, spilling 11 million gallons of crude oil into the pristine water. At the time, it was the single biggest spill in U.S. history. In a series of stories, NPR is examining the lasting social and economic impacts of the disaster, as well as the policy, regulation and scientific research that came out of it."
+                        }, 
+                        {
+                            "num": "2", 
+                            "$text": "It's a blustery, snowy March day when Michelle Hahn O'Leary offers a tour of Cordova, Alaska, situated on the eastern shore of Prince William Sound."
+                        }, 
+                        {
+                            "num": "3", 
+                            "$text": "Starting at the fishing harbor on Orca Inlet, she passes a row of canneries. Commercial fishing is the lifeblood of this town of 2,200."
+                        }, 
+                        {
+                            "num": "4", 
+                            "$text": "O'Leary and her late husband were preparing for the spring herring season in March 1989, when the giant oil tanker Exxon Valdez took a very wrong turn."
+                        }, 
+                        {
+                            "num": "5", 
+                            "$text": "The ship ran aground on Bligh Reef in the early morning hours of March 24, leaking oil into the sound's frigid waters. When the ship's captain, Joseph Hazelwood, made a call to the Coast Guard just after midnight, he said the ship was \"evidently leaking some oil.\""
+                        }, 
+                        {
+                            "num": "6", 
+                            "$text": "The ruptured tanker subsequently oozed 11 million gallons of crude into Prince William Sound."
+                        }, 
+                        {
+                            "num": "7", 
+                            "$text": "\"It just felt like I'd been kicked in the stomach,\" says O'Leary. \"This was one of those turning points in life, where you measure things before and after.\""
+                        }, 
+                        {
+                            "num": "8", 
+                            "$text": "O'Leary hasn't fished since."
+                        }, 
+                        {
+                            "num": "9", 
+                            "$text": "Native Alaskan Tom Andersen, once a commercial fisherman, no longer makes his living from the sea, either. \"You can't fix it. Once you break that egg, sometimes that's it,\" he says."
+                        }, 
+                        {
+                            "num": "10", 
+                            "$text": "Andersen, 71, says the waters here have sustained his people, the Chugach, for generations. He now picks up odd construction jobs hanging drywall. A whole way of living has changed, he says, making a wiping motion with his arm."
+                        }, 
+                        {
+                            "num": "11", 
+                            "$text": "\"You pretty much lived there \u2014 you got your clams and crabs and fish,\" he says. \"And then somebody come and dumped oil all over it, you know? That's really hitting home.\""
+                        }, 
+                        {
+                            "num": "12", 
+                            "$text": "'The Dead Zone'"
+                        }, 
+                        {
+                            "num": "13", 
+                            "$text": "Because the oil company and government agencies were ill-prepared to respond, oil from the Exxon Valdez stretched for 11,000 square miles. It fouled beaches, destroyed fisheries and killed hundreds of thousands of birds and all kinds of sea life, including whales and sea otters."
+                        }, 
+                        {
+                            "num": "14", 
+                            "$text": "Exxon eventually set up a voluntary program to compensate oil spill victims, and hired local fishermen for the cleanup \u2013 including Andersen, who worked a sea otter rescue crew."
+                        }, 
+                        {
+                            "num": "15", 
+                            "$text": "\"You could smell [the oil] before you ever saw it,\" he recalls. Prince William Sound, he says, was silenced. \"There was no fish, no birds chasing fish. You could sit there and it'd just be dead quiet. So everybody called it the dead zone.\""
+                        }, 
+                        {
+                            "num": "16", 
+                            "$text": "The disaster upended life in Cordova for years. Fishermen were docked. Businesses went bankrupt. Drug and alcohol abuse went up, along with reports of domestic violence and depression. The mayor committed suicide. Those paid by Exxon to work the cleanup were jealously labeled \"spillionaires.\""
+                        }, 
+                        {
+                            "num": "17", 
+                            "$text": "This once close-knit community changed, says Patience Andersen Faulkner, Andersen's sister. \"You couldn't look at your neighbor to help you. You didn't trust your neighbor, you didn't trust your brother. It was very, very sad.\""
+                        }, 
+                        {
+                            "num": "18", 
+                            "$text": "Faulkner is now part of a citizens' advisory council put in place to monitor the recovery and readiness for potential future oil spills. The panel is still tracking lingering oil from the Exxon Valdez."
+                        }, 
+                        {
+                            "num": "19", 
+                            "$text": "Dave Janka captains the Auklet, a 58-foot wooden boat he uses for private charters. Most of his clients are scientists studying the oil spill's impact. Along the way, Janka has collected his own samples."
+                        }, 
+                        {
+                            "num": "20", 
+                            "$text": "He opens a jar labeled \"February 19, 2014.\" Janka collected the dark black oily-water mixture from Eleanor Island in Prince William Sound, digging down about 6 inches beneath the rocky shoreline. It smells like your hand after pumping gas at a service station."
+                        }, 
+                        {
+                            "num": "21", 
+                            "$text": "\"Looks like oil, smells like oil. It's oil,\" Janka says. \"If you or I, in our backyard or at our mom and pop gas station, had a fuel tank leak, we would be held to the point of bankruptcy to clean that up.\""
+                        }, 
+                        {
+                            "num": "22", 
+                            "$text": "'I'll Never Get Over It'"
+                        }, 
+                        {
+                            "num": "23", 
+                            "$text": "Exxon, now Exxon Mobil Corp., spent a total of $4.3 billion in cleanup costs, legal damages, settlements and fines."
+                        }, 
+                        {
+                            "num": "24", 
+                            "$text": "Exxon Mobil spokesman Richard Keil says the company regrets that the incident took place. \"Without doubt, it was a tragic event. But it's something we have learned from, and we live those lessons each and every day.\""
+                        }, 
+                        {
+                            "num": "25", 
+                            "$text": "A class-action lawsuit wasn't resolved until 2008, when the U.S. Supreme Court slashed an initial jury award of $5 billion to $507 million, plus $470 million in interest."
+                        }, 
+                        {
+                            "num": "26", 
+                            "$text": "Jim Kallander, a fisherman and former mayor of Cordova, does not blame Exxon for mounting a defense. \"We all need oil; accidents are going to happen,\" he says."
+                        }, 
+                        {
+                            "num": "27", 
+                            "$text": "But after 19 years of drawn-out litigation, he continues, the final Supreme Court verdict was the hardest blow."
+                        }, 
+                        {
+                            "num": "28", 
+                            "$text": "\"Justice was not served,\" he says. \"All my life, I'd been brought up to think that, you know, you get to the Supreme Court and everything is made right. People are made whole. Issues are corrected. And I'm still disappointed. I'll never get over it.\""
+                        }, 
+                        {
+                            "num": "29", 
+                            "$text": "Now, 25 years later, Kallander says the town of Cordova has nearly come full circle, even if the environmental recovery is incomplete."
+                        }, 
+                        {
+                            "num": "30", 
+                            "$text": "An orca pod in Prince William Sound is near extinction and the local herring fishery isn't back. But the harbor is bustling again with a fishing fleet getting ready to harvest salmon, halibut and cod."
+                        }, 
+                        {
+                            "num": "31", 
+                            "$text": "Kallander's boat, the Miss Emily, is now part of a stand-by fleet ready to respond to oil spills."
+                        }, 
+                        {
+                            "num": "32", 
+                            "$text": "\"We have to be fueled up, and watered up, and have groceries on board; be ready to go 24/7,\" he says."
+                        }, 
+                        {
+                            "num": "33", 
+                            "$text": "Back out at Orca Inlet, Michelle O'Leary warns that, even with the new readiness, the lesson from Exxon Valdez is that there's no way to put the oil back once it spills."
+                        }, 
+                        {
+                            "num": "34", 
+                            "$text": "\"Right now, we've got one of the safest ports in the world, and we've got one of the best oil spill response plans,\" she says. \"But the weather we're having today \u2014 nothing could be done, absolutely nothing.\""
+                        }, 
+                        {
+                            "num": "35", 
+                            "$text": "She's talking about the winds that are gusting to 60 miles an hour \u2014 winds that just canceled a planned oil spill response drill. Dispersants don't work in these conditions, O'Leary says, and the oil would be nearly impossible to contain."
+                        }, 
+                        {
+                            "num": "36", 
+                            "$text": "Here in Alaska, the best-laid plans are still at the mercy of Mother Nature. [Copyright 2014 NPR]"
+                        }
+                    ]
+                }, 
+                "storyDate": {
+                    "$text": "Mon, 24 Mar 2014 05:00:00 -0400"
+                }, 
+                "keywords": {}, 
+                "textWithHtml": {
+                    "paragraph": [
+                        {
+                            "num": "1", 
+                            "$text": "<em>On March 24, 1989, the tanker Exxon Valdez struck a reef in Prince William Sound, Alaska, spilling 11 million gallons of crude oil into the pristine water. At the time, it was the single biggest spill in U.S. history. In a series of stories, NPR is examining the lasting social and economic impacts of the disaster, as well as the policy, regulation and scientific research that came out of it.</em>"
+                        }, 
+                        {
+                            "num": "2", 
+                            "$text": "It's a blustery, snowy March day when Michelle Hahn O'Leary offers a tour of Cordova, Alaska, situated on the eastern shore of Prince William Sound."
+                        }, 
+                        {
+                            "num": "3", 
+                            "$text": "Starting at the fishing harbor on Orca Inlet, she passes a row of canneries. Commercial fishing is the lifeblood of this town of 2,200."
+                        }, 
+                        {
+                            "num": "4", 
+                            "$text": "O'Leary and her late husband were preparing for the spring herring season in March 1989, when the giant oil tanker Exxon Valdez took a very wrong turn."
+                        }, 
+                        {
+                            "num": "5", 
+                            "$text": "The ship ran aground on Bligh Reef in the early morning hours of March 24, leaking oil into the sound's frigid waters. When the ship's captain, Joseph Hazelwood, made a call to the Coast Guard just after midnight, he said the ship was \"evidently leaking some oil.\""
+                        }, 
+                        {
+                            "num": "6", 
+                            "$text": "The ruptured tanker subsequently oozed 11 million gallons of crude into Prince William Sound."
+                        }, 
+                        {
+                            "num": "7", 
+                            "$text": "\"It just felt like I'd been kicked in the stomach,\" says O'Leary. \"This was one of those turning points in life, where you measure things before and after.\""
+                        }, 
+                        {
+                            "num": "8", 
+                            "$text": "O'Leary hasn't fished since."
+                        }, 
+                        {
+                            "num": "9", 
+                            "$text": "Native Alaskan Tom Andersen, once a commercial fisherman, no longer makes his living from the sea, either. \"You can't fix it. Once you break that egg, sometimes that's it,\" he says."
+                        }, 
+                        {
+                            "num": "10", 
+                            "$text": "Andersen, 71, says the waters here have sustained his people, the Chugach, for generations. He now picks up odd construction jobs hanging drywall. A whole way of living has changed, he says, making a wiping motion with his arm."
+                        }, 
+                        {
+                            "num": "11", 
+                            "$text": "\"You pretty much lived there \u2014 you got your clams and crabs and fish,\" he says. \"And then somebody come and dumped oil all over it, you know? That's really hitting home.\""
+                        }, 
+                        {
+                            "num": "12", 
+                            "$text": "<strong>'The Dead Zone'</strong>"
+                        }, 
+                        {
+                            "num": "13", 
+                            "$text": "Because the oil company and government agencies were ill-prepared to respond, oil from the Exxon Valdez stretched for 11,000 square miles. It fouled beaches, destroyed fisheries and killed hundreds of thousands of birds and all kinds of sea life, including whales and sea otters."
+                        }, 
+                        {
+                            "num": "14", 
+                            "$text": "Exxon eventually set up a voluntary program to compensate oil spill victims, and hired local fishermen for the cleanup \u2013 including Andersen, who worked a sea otter rescue crew."
+                        }, 
+                        {
+                            "num": "15", 
+                            "$text": "\"You could smell [the oil] before you ever saw it,\" he recalls. Prince William Sound, he says, was silenced. \"There was no fish, no birds chasing fish. You could sit there and it'd just be dead quiet. So everybody called it the dead zone.\""
+                        }, 
+                        {
+                            "num": "16", 
+                            "$text": "The disaster upended life in Cordova for years. Fishermen were docked. Businesses went bankrupt. Drug and alcohol abuse went up, along with reports of domestic violence and depression. The mayor committed suicide. Those paid by Exxon to work the cleanup were jealously labeled \"spillionaires.\""
+                        }, 
+                        {
+                            "num": "17", 
+                            "$text": "This once close-knit community changed, says Patience Andersen Faulkner, Andersen's sister. \"You couldn't look at your neighbor to help you. You didn't trust your neighbor, you didn't trust your brother. It was very, very sad.\""
+                        }, 
+                        {
+                            "num": "18", 
+                            "$text": "Faulkner is now part of a citizens' advisory council put in place to monitor the recovery and readiness for potential future oil spills. The panel is still tracking lingering oil from the Exxon Valdez."
+                        }, 
+                        {
+                            "num": "19", 
+                            "$text": "Dave Janka captains the Auklet, a 58-foot wooden boat he uses for private charters. Most of his clients are scientists studying the oil spill's impact. Along the way, Janka has collected his own samples."
+                        }, 
+                        {
+                            "num": "20", 
+                            "$text": "He opens a jar labeled \"February 19, 2014.\" Janka collected the dark black oily-water mixture from Eleanor Island in Prince William Sound, digging down about 6 inches beneath the rocky shoreline. It smells like your hand after pumping gas at a service station."
+                        }, 
+                        {
+                            "num": "21", 
+                            "$text": "\"Looks like oil, smells like oil. It's oil,\" Janka says. \"If you or I, in our backyard or at our mom and pop gas station, had a fuel tank leak, we would be held to the point of bankruptcy to clean that up.\""
+                        }, 
+                        {
+                            "num": "22", 
+                            "$text": "<strong>'I'll Never Get Over It'</strong>"
+                        }, 
+                        {
+                            "num": "23", 
+                            "$text": "Exxon, now Exxon Mobil Corp., spent a total of $4.3 billion in cleanup costs, legal damages, settlements and fines."
+                        }, 
+                        {
+                            "num": "24", 
+                            "$text": "Exxon Mobil spokesman Richard Keil says the company regrets that the incident took place. \"Without doubt, it was a tragic event. But it's something we have learned from, and we live those lessons each and every day.\""
+                        }, 
+                        {
+                            "num": "25", 
+                            "$text": "A class-action lawsuit wasn't resolved until 2008, when the U.S. Supreme Court slashed an initial jury award of $5 billion to $507 million, plus $470 million in interest."
+                        }, 
+                        {
+                            "num": "26", 
+                            "$text": "Jim Kallander, a fisherman and former mayor of Cordova, does not blame Exxon for mounting a defense. \"We all need oil; accidents are going to happen,\" he says."
+                        }, 
+                        {
+                            "num": "27", 
+                            "$text": "But after 19 years of drawn-out litigation, he continues, the final Supreme Court verdict was the hardest blow."
+                        }, 
+                        {
+                            "num": "28", 
+                            "$text": "\"Justice was not served,\" he says. \"All my life, I'd been brought up to think that, you know, you get to the Supreme Court and everything is made right. People are made whole. Issues are corrected. And I'm still disappointed. I'll never get over it.\""
+                        }, 
+                        {
+                            "num": "29", 
+                            "$text": "Now, 25 years later, Kallander says the town of Cordova has nearly come full circle, even if the environmental recovery is incomplete."
+                        }, 
+                        {
+                            "num": "30", 
+                            "$text": "An orca pod in Prince William Sound is near extinction and the local herring fishery isn't back. But the harbor is bustling again with a fishing fleet getting ready to harvest salmon, halibut and cod."
+                        }, 
+                        {
+                            "num": "31", 
+                            "$text": "Kallander's boat, the Miss Emily, is now part of a stand-by fleet ready to respond to oil spills."
+                        }, 
+                        {
+                            "num": "32", 
+                            "$text": "\"We have to be fueled up, and watered up, and have groceries on board; be ready to go 24/7,\" he says."
+                        }, 
+                        {
+                            "num": "33", 
+                            "$text": "Back out at Orca Inlet, Michelle O'Leary warns that, even with the new readiness, the lesson from Exxon Valdez is that there's no way to put the oil back once it spills."
+                        }, 
+                        {
+                            "num": "34", 
+                            "$text": "\"Right now, we've got one of the safest ports in the world, and we've got one of the best oil spill response plans,\" she says. \"But the weather we're having today \u2014 nothing could be done, absolutely nothing.\""
+                        }, 
+                        {
+                            "num": "35", 
+                            "$text": "She's talking about the winds that are gusting to 60 miles an hour \u2014 winds that just canceled a planned oil spill response drill. Dispersants don't work in these conditions, O'Leary says, and the oil would be nearly impossible to contain."
+                        }, 
+                        {
+                            "num": "36", 
+                            "$text": "Here in Alaska, the best-laid plans are still at the mercy of Mother Nature.  <div class=\"fullattribution\">Copyright 2014 NPR. To see more, visit <a href=\"http://www.npr.org/\">http://www.npr.org/</a>.<img src=\"http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=25+Years+After+Spill%2C+Alaska+Town+Struggles+Back+From+%27Dead+Zone%27&utme=8(APIKey)9(MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001)\"/></div>"
+                        }
+                    ]
+                }, 
+                "id": "292411071", 
+                "byline": [
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/people/95270598/marisa-penaloza?ft=3&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=95270598&apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "id": "292439391", 
+                        "name": {
+                            "personId": "95270598", 
+                            "$text": "Marisa Pe\u00f1aloza"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/people/2100438/debbie-elliott?ft=3&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=2100438&apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "id": "292439386", 
+                        "name": {
+                            "personId": "2100438", 
+                            "$text": "Debbie Elliott"
+                        }
+                    }
+                ], 
+                "container": [
+                    {
+                        "colSpan": {
+                            "$text": "1"
+                        }, 
+                        "introText": {
+                            "$text": "An excerpt from Exxon Valdez Capt. Joseph Hazelwood's radio call to the U.S. Coast Guard after striking Bligh Reef."
+                        }, 
+                        "id": "292560682", 
+                        "displayOptions": {
+                            "typeId": "2", 
+                            "$text": "Display Both"
+                        }, 
+                        "title": {
+                            "$text": "'We're Leaking Some Oil'"
+                        }
+                    }
+                ], 
+                "pubDate": {
+                    "$text": "Mon, 24 Mar 2014 12:25:00 -0400"
+                }, 
+                "title": {
+                    "$text": "25 Years After Spill, Alaska Town Struggles Back From 'Dead Zone'"
+                }, 
+                "image": [
+                    {
+                        "src": "http://media.npr.org/assets/img/2014/03/21/exxon01_slide-6be44eded00c6568e1864be1efc9e5062744fd12.jpg?s=12", 
+                        "enlargement": {
+                            "src": "http://media.npr.org/assets/img/2014/03/21/exxon01_slide-6be44eded00c6568e1864be1efc9e5062744fd12.jpg", 
+                            "caption": {}
+                        }, 
+                        "copyright": {}, 
+                        "producer": {
+                            "$text": "Alan Levenson"
+                        }, 
+                        "title": {
+                            "$text": "A cleanup worker lifts an oar near a boom in Prince William Sound, Alaska, after the Exxon Valdez oil spill in March 1989. "
+                        }, 
+                        "hasBorder": "false", 
+                        "crop": [
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/exxon01-b7dd5326780a34b7b484eab328bb176b593e3984.jpg", 
+                                "type": "standard", 
+                                "width": "1700", 
+                                "height": "1133"
+                            }, 
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/exxon01_slide-6be44eded00c6568e1864be1efc9e5062744fd12.jpg", 
+                                "type": "enlargement", 
+                                "width": "1620", 
+                                "height": "1079"
+                            }, 
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/exxon01_slide-6be44eded00c6568e1864be1efc9e5062744fd12.jpg", 
+                                "type": "slide", 
+                                "width": "1620", 
+                                "primary": "true", 
+                                "height": "1079"
+                            }
+                        ], 
+                        "width": "200", 
+                        "link": {
+                            "url": ""
+                        }, 
+                        "provider": {
+                            "url": "", 
+                            "$text": "Time & Life Pictures/Getty Images"
+                        }, 
+                        "caption": {
+                            "$text": "A cleanup worker lifts an oar near a boom in Prince William Sound, Alaska, after the Exxon Valdez oil spill in March 1989. "
+                        }, 
+                        "type": "standard", 
+                        "id": "292449434"
+                    }, 
+                    {
+                        "src": "http://media.npr.org/assets/img/2014/03/21/exxon03_slide-63a552a81340e7468b80da18cdb5bf43035066d7.jpg?s=12", 
+                        "enlargement": {
+                            "src": "http://media.npr.org/assets/img/2014/03/21/exxon03_slide-63a552a81340e7468b80da18cdb5bf43035066d7.jpg", 
+                            "caption": {}
+                        }, 
+                        "copyright": {}, 
+                        "producer": {
+                            "$text": "Bill Swersey"
+                        }, 
+                        "title": {
+                            "$text": "In March 1989, former Exxon Valdez Capt. Joseph Hazelwood is escorted to his arraignment inside Suffolk County courthouse on charges stemming from the spill."
+                        }, 
+                        "hasBorder": "false", 
+                        "crop": [
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/exxon03-8526c6e957a1a4c54d26092b0a08669928f6069a.jpg", 
+                                "type": "standard", 
+                                "width": "1700", 
+                                "height": "1454"
+                            }, 
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/exxon03_slide-63a552a81340e7468b80da18cdb5bf43035066d7.jpg", 
+                                "type": "enlargement", 
+                                "width": "1552", 
+                                "height": "1034"
+                            }, 
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/exxon03_custom-8526c6e957a1a4c54d26092b0a08669928f6069a.jpg", 
+                                "type": "custom", 
+                                "width": "1700", 
+                                "height": "1454"
+                            }, 
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/exxon03_slide-63a552a81340e7468b80da18cdb5bf43035066d7.jpg", 
+                                "type": "slide", 
+                                "width": "1552", 
+                                "primary": "true", 
+                                "height": "1034"
+                            }
+                        ], 
+                        "width": "200", 
+                        "link": {
+                            "url": ""
+                        }, 
+                        "provider": {
+                            "url": "", 
+                            "$text": "AFP/Getty Images"
+                        }, 
+                        "caption": {
+                            "$text": "In March 1989, former Exxon Valdez Capt. Joseph Hazelwood is escorted to his arraignment inside Suffolk County courthouse on charges stemming from the spill."
+                        }, 
+                        "type": "standard", 
+                        "id": "292449440"
+                    }, 
+                    {
+                        "src": "http://media.npr.org/assets/img/2014/03/21/exxon04_slide-a13df5d795557baa6fa6a6eafb2663e15ad67fbb.jpg?s=12", 
+                        "enlargement": {
+                            "src": "http://media.npr.org/assets/img/2014/03/21/exxon04_slide-a13df5d795557baa6fa6a6eafb2663e15ad67fbb.jpg", 
+                            "caption": {}
+                        }, 
+                        "copyright": {}, 
+                        "producer": {
+                            "$text": "Chris Wilkins"
+                        }, 
+                        "title": {
+                            "$text": "One week after the tanker ran aground, cleanup workers scrub rocks on the oil-covered beach of Naked Island."
+                        }, 
+                        "hasBorder": "false", 
+                        "crop": [
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/exxon04-06e0fc348ff858c75397554450bb32c83edcb25f.jpg", 
+                                "type": "standard", 
+                                "width": "1700", 
+                                "height": "1135"
+                            }, 
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/exxon04_slide-a13df5d795557baa6fa6a6eafb2663e15ad67fbb.jpg", 
+                                "type": "enlargement", 
+                                "width": "1700", 
+                                "height": "1132"
+                            }, 
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/exxon04_slide-a13df5d795557baa6fa6a6eafb2663e15ad67fbb.jpg", 
+                                "type": "slide", 
+                                "width": "1700", 
+                                "primary": "true", 
+                                "height": "1132"
+                            }
+                        ], 
+                        "width": "200", 
+                        "link": {
+                            "url": ""
+                        }, 
+                        "provider": {
+                            "url": "", 
+                            "$text": "AFP/Getty Images"
+                        }, 
+                        "caption": {
+                            "$text": "One week after the tanker ran aground, cleanup workers scrub rocks on the oil-covered beach of Naked Island."
+                        }, 
+                        "type": "standard", 
+                        "id": "292449443"
+                    }, 
+                    {
+                        "src": "http://media.npr.org/assets/img/2014/03/21/exxon08_slide-b883fc1aa679ee84d0ce656491207d8b15e6d0a2.jpg?s=12", 
+                        "enlargement": {
+                            "src": "http://media.npr.org/assets/img/2014/03/21/exxon08_slide-b883fc1aa679ee84d0ce656491207d8b15e6d0a2.jpg", 
+                            "caption": {}
+                        }, 
+                        "copyright": {}, 
+                        "producer": {
+                            "$text": "Bob Hallinen"
+                        }, 
+                        "title": {
+                            "$text": "A worker cleans birds soiled by crude oil in Prince William Sound."
+                        }, 
+                        "hasBorder": "false", 
+                        "crop": [
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/exxon08-b46192153ac9fa18dae39b860a7894bbb602d45a.jpg", 
+                                "type": "standard", 
+                                "width": "1700", 
+                                "height": "1143"
+                            }, 
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/exxon08_slide-b883fc1aa679ee84d0ce656491207d8b15e6d0a2.jpg", 
+                                "type": "enlargement", 
+                                "width": "1700", 
+                                "height": "1132"
+                            }, 
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/exxon08_slide-b883fc1aa679ee84d0ce656491207d8b15e6d0a2.jpg", 
+                                "type": "slide", 
+                                "width": "1700", 
+                                "primary": "true", 
+                                "height": "1132"
+                            }
+                        ], 
+                        "width": "200", 
+                        "link": {
+                            "url": ""
+                        }, 
+                        "provider": {
+                            "url": "", 
+                            "$text": "Anchorage Daily News/MCT/Landov"
+                        }, 
+                        "caption": {
+                            "$text": "A worker cleans birds soiled by crude oil in Prince William Sound."
+                        }, 
+                        "type": "standard", 
+                        "id": "292449461"
+                    }, 
+                    {
+                        "src": "http://media.npr.org/assets/img/2014/03/21/cordova03_wide-e992b4f3d057af9ff033044a71ed24f20c4c49f7.jpg?s=12", 
+                        "enlargement": {
+                            "src": "http://media.npr.org/assets/img/2014/03/21/cordova03_wide-e992b4f3d057af9ff033044a71ed24f20c4c49f7.jpg", 
+                            "caption": {}
+                        }, 
+                        "copyright": {}, 
+                        "producer": {
+                            "$text": "Marisa Pe\u00f1aloza"
+                        }, 
+                        "title": {
+                            "$text": "Orca Inlet, Cordova's fishing harbor, on a blustery day this month. Commercial fishing is the small Alaskan town's primary industry."
+                        }, 
+                        "hasBorder": "false", 
+                        "crop": [
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/cordova03-4fdccf3c4c3d4fa75d6e7f00f7f7dbbfc366c4c7.jpg", 
+                                "type": "standard", 
+                                "width": "2446", 
+                                "height": "1833"
+                            }, 
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/cordova03_sq-df4d964188ae0d60a6b39688510828e39ff5e475.jpg", 
+                                "type": "square", 
+                                "width": "1526", 
+                                "height": "1526"
+                            }, 
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/cordova03_wide-e992b4f3d057af9ff033044a71ed24f20c4c49f7.jpg", 
+                                "type": "wide", 
+                                "width": "2974", 
+                                "primary": "true", 
+                                "height": "1674"
+                            }, 
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/cordova03_wide-e992b4f3d057af9ff033044a71ed24f20c4c49f7.jpg", 
+                                "type": "enlargement", 
+                                "width": "2974", 
+                                "height": "1674"
+                            }
+                        ], 
+                        "width": "200", 
+                        "link": {
+                            "url": ""
+                        }, 
+                        "provider": {
+                            "url": "", 
+                            "$text": "NPR"
+                        }, 
+                        "caption": {
+                            "$text": "Orca Inlet, Cordova's fishing harbor, on a blustery day this month. Commercial fishing is the small Alaskan town's primary industry."
+                        }, 
+                        "type": "primary", 
+                        "id": "292471972"
+                    }, 
+                    {
+                        "src": "http://media.npr.org/assets/img/2014/03/21/cordova02-c3e0dac0dc3381d46375ac54741b6c233f8f1c08.jpg?s=12", 
+                        "enlargement": {
+                            "src": "http://media.npr.org/assets/img/2014/03/21/cordova02-c3e0dac0dc3381d46375ac54741b6c233f8f1c08.jpg", 
+                            "caption": {}
+                        }, 
+                        "copyright": {}, 
+                        "producer": {
+                            "$text": "Debbie Elliott"
+                        }, 
+                        "title": {
+                            "$text": "David Janka uses his boat for private charters. Many of his clients are scientists studying the spill's impact."
+                        }, 
+                        "hasBorder": "false", 
+                        "crop": [
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/cordova02-c3e0dac0dc3381d46375ac54741b6c233f8f1c08.jpg", 
+                                "type": "standard", 
+                                "width": "4170", 
+                                "primary": "true", 
+                                "height": "3125"
+                            }, 
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/cordova02_wide-586082efedec34da95117b9d9aae4dda6a7affaa.jpg", 
+                                "type": "wide", 
+                                "width": "4416", 
+                                "height": "2480"
+                            }, 
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/cordova02-c3e0dac0dc3381d46375ac54741b6c233f8f1c08.jpg", 
+                                "type": "enlargement", 
+                                "width": "4170", 
+                                "height": "3125"
+                            }
+                        ], 
+                        "width": "200", 
+                        "link": {
+                            "url": ""
+                        }, 
+                        "provider": {
+                            "url": "", 
+                            "$text": "NPR"
+                        }, 
+                        "caption": {
+                            "$text": "David Janka uses his boat for private charters. Many of his clients are scientists studying the spill's impact."
+                        }, 
+                        "type": "standard", 
+                        "id": "292471611"
+                    }, 
+                    {
+                        "src": "http://media.npr.org/assets/img/2014/03/21/cordova01-f640dbe99262249a6b778e6e178ad29f812ac5e6.jpg?s=12", 
+                        "enlargement": {
+                            "src": "http://media.npr.org/assets/img/2014/03/21/cordova01-f640dbe99262249a6b778e6e178ad29f812ac5e6.jpg", 
+                            "caption": {}
+                        }, 
+                        "copyright": {}, 
+                        "producer": {
+                            "$text": "Debbie Elliott"
+                        }, 
+                        "title": {
+                            "$text": "Patience Andersen Faulkner says the disaster changed the town. \"You didn't trust your neighbor, you didn't trust your brother. It was very, very sad.\""
+                        }, 
+                        "hasBorder": "false", 
+                        "crop": [
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/cordova01-f640dbe99262249a6b778e6e178ad29f812ac5e6.jpg", 
+                                "type": "standard", 
+                                "width": "4116", 
+                                "primary": "true", 
+                                "height": "3087"
+                            }, 
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/cordova01_sq-dee86c985d25b6407ccbd313a01ce598555bc0bc.jpg", 
+                                "type": "square", 
+                                "width": "2795", 
+                                "height": "2795"
+                            }, 
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/cordova01_wide-85c9eebf0dd20522469166a01275055642186ea5.jpg", 
+                                "type": "wide", 
+                                "width": "4247", 
+                                "height": "2388"
+                            }, 
+                            {
+                                "src": "http://media.npr.org/assets/img/2014/03/21/cordova01-f640dbe99262249a6b778e6e178ad29f812ac5e6.jpg", 
+                                "type": "enlargement", 
+                                "width": "4116", 
+                                "height": "3087"
+                            }
+                        ], 
+                        "width": "200", 
+                        "link": {
+                            "url": ""
+                        }, 
+                        "provider": {
+                            "url": "", 
+                            "$text": "NPR"
+                        }, 
+                        "caption": {
+                            "$text": "Patience Andersen Faulkner says the disaster changed the town. \"You didn't trust your neighbor, you didn't trust your brother. It was very, very sad.\""
+                        }, 
+                        "type": "standard", 
+                        "id": "292471280"
+                    }
+                ], 
+                "member": [
+                    {
+                        "image": {
+                            "num": "2", 
+                            "refId": "292449434", 
+                            "crop": "slide"
+                        }, 
+                        "id": "292449378", 
+                        "title": {
+                            "num": "1", 
+                            "$text": "A cleanup worker lifts an oar near a boom in Prince William Sound, Alaska, after the Exxon Valdez..."
+                        }
+                    }, 
+                    {
+                        "id": "292449435", 
+                        "title": {
+                            "num": "1", 
+                            "$text": "Tugboats pull the crippled Exxon Valdez tanker toward Naked Island. The ship spilled 11 million g..."
+                        }
+                    }, 
+                    {
+                        "image": {
+                            "num": "2", 
+                            "refId": "292449440", 
+                            "crop": "slide"
+                        }, 
+                        "id": "292449438", 
+                        "title": {
+                            "num": "1", 
+                            "$text": "In March 1989, former Exxon Valdez Capt. Joseph Hazelwood is escorted to his arraignment inside S..."
+                        }
+                    }, 
+                    {
+                        "image": {
+                            "num": "2", 
+                            "refId": "292449443", 
+                            "crop": "slide"
+                        }, 
+                        "id": "292449441", 
+                        "title": {
+                            "num": "1", 
+                            "$text": "One week after the tanker ran aground, cleanup workers scrub rocks on the oil-covered beach of Na..."
+                        }
+                    }, 
+                    {
+                        "id": "292449444", 
+                        "title": {
+                            "num": "1", 
+                            "$text": "Sea lions, many slicked with oil, about 50 miles from the grounded tanker. Sea otters, deer, eagl..."
+                        }
+                    }, 
+                    {
+                        "id": "292449447", 
+                        "title": {
+                            "num": "1", 
+                            "$text": "A rescued sea otter is restrained and washed by workers at an animal facility. Many local fisherm..."
+                        }
+                    }, 
+                    {
+                        "id": "292449450", 
+                        "title": {
+                            "num": "1", 
+                            "$text": "In May 1989, hundreds of people gathered in Anchorage to protest the disaster. In 2008, the U.S. ..."
+                        }
+                    }, 
+                    {
+                        "image": {
+                            "num": "2", 
+                            "refId": "292449461", 
+                            "crop": "slide"
+                        }, 
+                        "id": "292449453", 
+                        "title": {
+                            "num": "1", 
+                            "$text": "A worker cleans birds soiled by crude oil in Prince William Sound."
+                        }
+                    }, 
+                    {
+                        "id": "292449465", 
+                        "title": {
+                            "num": "1", 
+                            "$text": "An oil slick swirls over Prince William Sound in 1989, about 50 miles from where the tanker ran a..."
+                        }
+                    }
+                ], 
+                "thumbnail": {
+                    "large": {
+                        "$text": "http://media.npr.org/assets/img/2014/03/21/cordova03_sq-df4d964188ae0d60a6b39688510828e39ff5e475.jpg?s=11"
+                    }, 
+                    "medium": {
+                        "$text": "http://media.npr.org/assets/img/2014/03/21/cordova03_sq-df4d964188ae0d60a6b39688510828e39ff5e475.jpg?s=13"
+                    }, 
+                    "provider": {
+                        "$text": "NPR"
+                    }
+                }, 
+                "parent": [
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/series/293753978/remembering-the-exxon-valdez-oil-spill?ft=3&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=293753978&apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "title": {
+                            "$text": "Remembering The Exxon Valdez Oil Spill"
+                        }, 
+                        "type": "series", 
+                        "id": "293753978", 
+                        "slug": "true"
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/programs/morning-edition/2014/03/24/293673883/morning-edition-for-march-24-2014?ft=3&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=293673883&apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "unknown", 
+                        "id": "293673883", 
+                        "title": {
+                            "$text": "Morning Edition for March 24, 2014"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/series/191676894/most-popular?ft=3&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=191676894&apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "collection", 
+                        "id": "191676894", 
+                        "title": {
+                            "$text": "Most Popular"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/around-the-nation/?ft=3&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1091&apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "primaryTopic", 
+                        "id": "1091", 
+                        "title": {
+                            "$text": "Around the Nation"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/around-the-nation/?ft=3&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1091&apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1091", 
+                        "title": {
+                            "$text": "Around the Nation"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/environment/?ft=3&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1025&apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1025", 
+                        "title": {
+                            "$text": "Environment"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/science/?ft=3&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1007&apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1007", 
+                        "title": {
+                            "$text": "Science"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/us/?ft=3&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1003&apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1003", 
+                        "title": {
+                            "$text": "U.S."
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/?ft=3&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1002&apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1002", 
+                        "title": {
+                            "$text": "Home Page Top Stories"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/news/?ft=3&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=1001&apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "topic", 
+                        "id": "1001", 
+                        "title": {
+                            "$text": "News"
+                        }
+                    }, 
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/programs/morning-edition/?ft=3&f=1007", 
+                                "type": "html"
+                            }, 
+                            {
+                                "$text": "http://api.npr.org/query?id=3&apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001", 
+                                "type": "api"
+                            }
+                        ], 
+                        "type": "program", 
+                        "id": "3", 
+                        "title": {
+                            "$text": "Morning Edition"
+                        }
+                    }
+                ], 
+                "priorityKeywords": {}, 
+                "lastModifiedDate": {
+                    "$text": "Mon, 24 Mar 2014 11:38:24 -0400"
+                }, 
+                "collection": [
+                    {
+                        "title": {
+                            "$text": "Exxon Valdez photos"
+                        }, 
+                        "member": [
+                            {
+                                "num": "1", 
+                                "refId": "292449378", 
+                                "label": "1"
+                            }, 
+                            {
+                                "num": "2", 
+                                "refId": "292449435", 
+                                "label": "2"
+                            }, 
+                            {
+                                "num": "3", 
+                                "refId": "292449438", 
+                                "label": "3"
+                            }, 
+                            {
+                                "num": "4", 
+                                "refId": "292449441", 
+                                "label": "4"
+                            }, 
+                            {
+                                "num": "5", 
+                                "refId": "292449444", 
+                                "label": "5"
+                            }, 
+                            {
+                                "num": "6", 
+                                "refId": "292449447", 
+                                "label": "6"
+                            }, 
+                            {
+                                "num": "7", 
+                                "refId": "292449453", 
+                                "label": "7"
+                            }, 
+                            {
+                                "num": "8", 
+                                "refId": "292449450", 
+                                "label": "8"
+                            }, 
+                            {
+                                "num": "9", 
+                                "refId": "292449465", 
+                                "label": "9"
+                            }
+                        ], 
+                        "displayType": "Slideshow", 
+                        "introText": {}, 
+                        "type": "list", 
+                        "id": "292449297"
+                    }
+                ], 
+                "teaser": {
+                    "$text": "The tiny fishing town of Cordova, Alaska, has weathered disruption in every facet of life since an oil tanker ran aground in 1989, spilling millions of gallons of oil into Prince William Sound."
+                }, 
+                "link": [
+                    {
+                        "$text": "http://www.npr.org/2014/03/24/292411071/25-years-after-spill-alaska-town-struggles-back-from-dead-zone?ft=3&f=1007", 
+                        "type": "html"
+                    }, 
+                    {
+                        "$text": "http://api.npr.org/query?id=292411071&apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001", 
+                        "type": "api"
+                    }, 
+                    {
+                        "$text": "http://n.pr/1eZtenJ", 
+                        "type": "short"
+                    }
+                ], 
+                "transcript": {
+                    "link": {
+                        "$text": "http://api.npr.org/transcript?id=292411071&apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001", 
+                        "type": "api"
+                    }
+                }, 
+                "slug": {
+                    "$text": "Remembering The Exxon Valdez Oil Spill"
+                }, 
+                "shortTitle": {}, 
+                "organization": [
+                    {
+                        "orgAbbr": "NPR", 
+                        "website": {
+                            "$text": "http://www.npr.org/"
+                        }, 
+                        "orgId": "1", 
+                        "name": {
+                            "$text": "NPR"
+                        }
+                    }
+                ], 
+                "audio": [
+                    {
+                        "rightsHolder": {}, 
+                        "description": {}, 
+                        "stream": {
+                            "active": "false"
+                        }, 
+                        "format": {
+                            "wm": {
+                                "$text": "http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=293673999&type=1&mtype=WM&orgId=1&topicId=1091&aggIds=293753978&ft=3&f=1007"
+                            }, 
+                            "mediastream": {
+                                "$text": "rtmp://flash.npr.org/ondemand/mp3:anon.npr-mp3/npr/me/2014/03/20140324_me_25_years_after_spill_alaska_town_struggles_back_from_dead_zone.mp3"
+                            }, 
+                            "mp3": [
+                                {
+                                    "$text": "http://api.npr.org/m3u/1293673999-df778d.m3u?orgId=1&topicId=1091&aggIds=293753978&ft=3&f=1007", 
+                                    "type": "m3u"
+                                }
+                            ], 
+                            "mp4": {
+                                "$text": "http://pd.npr.org/npr-mp4/npr/me/2014/03/20140324_me_25_years_after_spill_alaska_town_struggles_back_from_dead_zone.mp4?orgId=1&topicId=1091&aggIds=293753978&ft=3&f=1007"
+                            }
+                        }, 
+                        "title": {}, 
+                        "duration": {
+                            "$text": "440"
+                        }, 
+                        "type": "primary", 
+                        "id": "293673999", 
+                        "permissions": {
+                            "download": {
+                                "allow": "true"
+                            }, 
+                            "embed": {
+                                "allow": "true"
+                            }, 
+                            "stream": {
+                                "allow": "true"
+                            }
+                        }
+                    }
+                ]
+            }
+        ], 
+        "title": {
+            "$text": "NPR Topics: Science"
+        }
+    }
+}
