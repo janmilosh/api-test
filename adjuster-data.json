@@ -1,0 +1,3307 @@
+[
+    {
+        "city": "littleton", 
+        "state": "CO", 
+        "number": 5
+    }, 
+    {
+        "city": "greenfield", 
+        "state": "IN", 
+        "number": 2
+    }, 
+    {
+        "city": "wichita falls", 
+        "state": "TX", 
+        "number": 3
+    }, 
+    {
+        "city": "peyton", 
+        "state": "CO", 
+        "number": 2
+    }, 
+    {
+        "city": "el paso", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "tomball", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "dallas", 
+        "state": "TX", 
+        "number": 4
+    }, 
+    {
+        "city": "brandon", 
+        "state": "MS", 
+        "number": 1
+    }, 
+    {
+        "city": "rockford", 
+        "state": "IL", 
+        "number": 1
+    }, 
+    {
+        "city": "waskom", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "indianapolis", 
+        "state": "IN", 
+        "number": 2
+    }, 
+    {
+        "city": "south elgin", 
+        "state": "IL", 
+        "number": 1
+    }, 
+    {
+        "city": "casselberry", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "erie", 
+        "state": "CO", 
+        "number": 2
+    }, 
+    {
+        "city": "phoenix", 
+        "state": "AZ", 
+        "number": 3
+    }, 
+    {
+        "city": "sylvania", 
+        "state": "OH", 
+        "number": 2
+    }, 
+    {
+        "city": "tampa", 
+        "state": "FL", 
+        "number": 4
+    }, 
+    {
+        "city": "milton", 
+        "state": "FL", 
+        "number": 4
+    }, 
+    {
+        "city": "flower mound", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "austin", 
+        "state": "TX", 
+        "number": 6
+    }, 
+    {
+        "city": "saratoga", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
+        "city": "devine", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "lexington", 
+        "state": "KY", 
+        "number": 3
+    }, 
+    {
+        "city": "ocala", 
+        "state": "FL", 
+        "number": 2
+    }, 
+    {
+        "city": "plainfield", 
+        "state": "IL", 
+        "number": 1
+    }, 
+    {
+        "city": "des moines", 
+        "state": "IA", 
+        "number": 1
+    }, 
+    {
+        "city": "asheville", 
+        "state": "NC", 
+        "number": 2
+    }, 
+    {
+        "city": "joplin", 
+        "state": "MO", 
+        "number": 2
+    }, 
+    {
+        "city": "bozeman", 
+        "state": "MT", 
+        "number": 1
+    }, 
+    {
+        "city": "pompano beach", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "tifton", 
+        "state": "GA", 
+        "number": 2
+    }, 
+    {
+        "city": "wadsworth", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "aubrey", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "richardson", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "houston", 
+        "state": "TX", 
+        "number": 16
+    }, 
+    {
+        "city": "denton", 
+        "state": "TX", 
+        "number": 5
+    }, 
+    {
+        "city": "denver", 
+        "state": "CO", 
+        "number": 13
+    }, 
+    {
+        "city": "cape coral", 
+        "state": "FL", 
+        "number": 4
+    }, 
+    {
+        "city": "orange beach", 
+        "state": "AL", 
+        "number": 1
+    }, 
+    {
+        "city": "destrehan", 
+        "state": "LA", 
+        "number": 1
+    }, 
+    {
+        "city": "brooksville", 
+        "state": "FL", 
+        "number": 3
+    }, 
+    {
+        "city": "montgomery", 
+        "state": "AL", 
+        "number": 1
+    }, 
+    {
+        "city": "canton", 
+        "state": "GA", 
+        "number": 1
+    }, 
+    {
+        "city": "valrico", 
+        "state": "FL", 
+        "number": 2
+    }, 
+    {
+        "city": "appleton", 
+        "state": "WI", 
+        "number": 1
+    }, 
+    {
+        "city": "tega cay", 
+        "state": "SC", 
+        "number": 1
+    }, 
+    {
+        "city": "bolingbrook", 
+        "state": "IL", 
+        "number": 1
+    }, 
+    {
+        "city": "asheeville", 
+        "state": "NC", 
+        "number": 1
+    }, 
+    {
+        "city": "walker", 
+        "state": "LA", 
+        "number": 1
+    }, 
+    {
+        "city": "colorado springs", 
+        "state": "CO", 
+        "number": 14
+    }, 
+    {
+        "city": "port st. lucie", 
+        "state": "FL", 
+        "number": 3
+    }, 
+    {
+        "city": "normal", 
+        "state": "IL", 
+        "number": 1
+    }, 
+    {
+        "city": "aurora", 
+        "state": "CO", 
+        "number": 5
+    }, 
+    {
+        "city": "atlantic beach", 
+        "state": "NC", 
+        "number": 1
+    }, 
+    {
+        "city": "dillon", 
+        "state": "CO", 
+        "number": 1
+    }, 
+    {
+        "city": "rockledge", 
+        "state": "PA", 
+        "number": 1
+    }, 
+    {
+        "city": "clarkston", 
+        "state": "MI", 
+        "number": 1
+    }, 
+    {
+        "city": "camp wood", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "pass christian", 
+        "state": "MS", 
+        "number": 1
+    }, 
+    {
+        "city": "lumberton", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "frisco", 
+        "state": "TX", 
+        "number": 5
+    }, 
+    {
+        "city": "tayor", 
+        "state": "AZ", 
+        "number": 1
+    }, 
+    {
+        "city": "owasso", 
+        "state": "OK", 
+        "number": 1
+    }, 
+    {
+        "city": "league city", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "valencia", 
+        "state": "CA", 
+        "number": 3
+    }, 
+    {
+        "city": "panama city", 
+        "state": "FL", 
+        "number": 2
+    }, 
+    {
+        "city": "franklin", 
+        "state": "TN", 
+        "number": 1
+    }, 
+    {
+        "city": "ralston", 
+        "state": "NE", 
+        "number": 1
+    }, 
+    {
+        "city": "largo", 
+        "state": "FL", 
+        "number": 2
+    }, 
+    {
+        "city": "niceville", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "irving", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "springtown", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "midland", 
+        "state": "TX", 
+        "number": 4
+    }, 
+    {
+        "city": "lake jackson", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "coshocton", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "bradenton", 
+        "state": "FL", 
+        "number": 5
+    }, 
+    {
+        "city": "spicewood", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "garland", 
+        "state": "TX", 
+        "number": 3
+    }, 
+    {
+        "city": "graham", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "dyersburg", 
+        "state": "TN", 
+        "number": 2
+    }, 
+    {
+        "city": "lancaster", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "ellisville", 
+        "state": "MS", 
+        "number": 1
+    }, 
+    {
+        "city": "warren", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "boise", 
+        "state": "ID", 
+        "number": 1
+    }, 
+    {
+        "city": "tallahassee", 
+        "state": "FL", 
+        "number": 3
+    }, 
+    {
+        "city": "celebration", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "conway", 
+        "state": "AR", 
+        "number": 1
+    }, 
+    {
+        "city": "nashville", 
+        "state": "TN", 
+        "number": 1
+    }, 
+    {
+        "city": "mount dora", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "hichcock", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "sugar land", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "pottsboro", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "mcminnville", 
+        "state": "OR", 
+        "number": 1
+    }, 
+    {
+        "city": "san antonio", 
+        "state": "TX", 
+        "number": 11
+    }, 
+    {
+        "city": "charleston", 
+        "state": "SC", 
+        "number": 3
+    }, 
+    {
+        "city": "santa clarita", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
+        "city": "lockport", 
+        "state": "NY", 
+        "number": 1
+    }, 
+    {
+        "city": "north richland hills", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "lebanon", 
+        "state": "IN", 
+        "number": 2
+    }, 
+    {
+        "city": "maplewood", 
+        "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "detroit", 
+        "state": "MI", 
+        "number": 1
+    }, 
+    {
+        "city": "belt buckle", 
+        "state": "TN", 
+        "number": 1
+    }, 
+    {
+        "city": "boca raton", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "ormond beach", 
+        "state": "FL", 
+        "number": 3
+    }, 
+    {
+        "city": "maurfreesboro", 
+        "state": "TN", 
+        "number": 1
+    }, 
+    {
+        "city": "las vegas", 
+        "state": "NV", 
+        "number": 2
+    }, 
+    {
+        "city": "mongomery", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "dunedin", 
+        "state": "FL", 
+        "number": 3
+    }, 
+    {
+        "city": "oklahoma city", 
+        "state": "OK", 
+        "number": 4
+    }, 
+    {
+        "city": "port orange", 
+        "state": "FL", 
+        "number": 2
+    }, 
+    {
+        "city": "bloomington", 
+        "state": "IL", 
+        "number": 1
+    }, 
+    {
+        "city": "concordia", 
+        "state": "KS", 
+        "number": 1
+    }, 
+    {
+        "city": "jacksonville", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "stuart", 
+        "state": "FL", 
+        "number": 4
+    }, 
+    {
+        "city": "haines city", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "smyrna", 
+        "state": "TN", 
+        "number": 1
+    }, 
+    {
+        "city": "park city", 
+        "state": "UT", 
+        "number": 1
+    }, 
+    {
+        "city": "west chester", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "buford", 
+        "state": "GA", 
+        "number": 1
+    }, 
+    {
+        "city": "kasson", 
+        "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "azle", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "jordan", 
+        "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "miami beach", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "west valley", 
+        "state": "UT", 
+        "number": 1
+    }, 
+    {
+        "city": "aledo", 
+        "state": "TX", 
+        "number": 4
+    }, 
+    {
+        "city": "los angeles", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
+        "city": "keller", 
+        "state": "TX", 
+        "number": 6
+    }, 
+    {
+        "city": "cypress", 
+        "state": "TX", 
+        "number": 3
+    }, 
+    {
+        "city": "griffin", 
+        "state": "GA", 
+        "number": 1
+    }, 
+    {
+        "city": "palm beach gardens", 
+        "state": "FL", 
+        "number": 2
+    }, 
+    {
+        "city": "oak grove", 
+        "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "hollywood", 
+        "state": "FL", 
+        "number": 2
+    }, 
+    {
+        "city": "midlothian", 
+        "state": "VA", 
+        "number": 2
+    }, 
+    {
+        "city": "walnut", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
+        "city": "merritt island", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "greenwood village", 
+        "state": "CO", 
+        "number": 1
+    }, 
+    {
+        "city": "henrietta", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "topeka", 
+        "state": "KS", 
+        "number": 2
+    }, 
+    {
+        "city": "salisbury", 
+        "state": "NC", 
+        "number": 1
+    }, 
+    {
+        "city": "pleasant view", 
+        "state": "TN", 
+        "number": 1
+    }, 
+    {
+        "city": "euless", 
+        "state": "TX", 
+        "number": 3
+    }, 
+    {
+        "city": "webster", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "prescott", 
+        "state": "AZ", 
+        "number": 2
+    }, 
+    {
+        "city": "arlington", 
+        "state": "TX", 
+        "number": 6
+    }, 
+    {
+        "city": "lewisville", 
+        "state": "TX", 
+        "number": 3
+    }, 
+    {
+        "city": "lawrenceville", 
+        "state": "GA", 
+        "number": 2
+    }, 
+    {
+        "city": "providence village", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "story", 
+        "state": "WY", 
+        "number": 1
+    }, 
+    {
+        "city": "hillsboro", 
+        "state": "TN", 
+        "number": 1
+    }, 
+    {
+        "city": "caldwell", 
+        "state": "ID", 
+        "number": 1
+    }, 
+    {
+        "city": "scottsdale", 
+        "state": "AZ", 
+        "number": 2
+    }, 
+    {
+        "city": "juno beach", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "broomfield", 
+        "state": "CO", 
+        "number": 2
+    }, 
+    {
+        "city": "rio verde", 
+        "state": "AZ", 
+        "number": 1
+    }, 
+    {
+        "city": "gulf shores", 
+        "state": "AL", 
+        "number": 2
+    }, 
+    {
+        "city": "middletown", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "christine", 
+        "state": "ND", 
+        "number": 1
+    }, 
+    {
+        "city": "weyers cave", 
+        "state": "VA", 
+        "number": 1
+    }, 
+    {
+        "city": "altadena", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
+        "city": "n. richland hills", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "wrenshall", 
+        "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "burkburnett", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "bowie", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "conyers", 
+        "state": "GA", 
+        "number": 1
+    }, 
+    {
+        "city": "stephenville", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "clyde", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "westminster", 
+        "state": "CO", 
+        "number": 4
+    }, 
+    {
+        "city": "trenton", 
+        "state": "TN", 
+        "number": 1
+    }, 
+    {
+        "city": "elgin", 
+        "state": "SC", 
+        "number": 1
+    }, 
+    {
+        "city": "bolivar", 
+        "state": "MO", 
+        "number": 1
+    }, 
+    {
+        "city": "crowley", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "statesboro", 
+        "state": "GA", 
+        "number": 1
+    }, 
+    {
+        "city": "baton rouge", 
+        "state": "LA", 
+        "number": 3
+    }, 
+    {
+        "city": "metairie", 
+        "state": "LA", 
+        "number": 3
+    }, 
+    {
+        "city": "weatherford", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "marshfield", 
+        "state": "MO", 
+        "number": 1
+    }, 
+    {
+        "city": "lubbock", 
+        "state": "TX", 
+        "number": 5
+    }, 
+    {
+        "city": "talco", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "columbia", 
+        "state": "MO", 
+        "number": 2
+    }, 
+    {
+        "city": "allentown", 
+        "state": "PA", 
+        "number": 1
+    }, 
+    {
+        "city": "conroe", 
+        "state": "TX", 
+        "number": 3
+    }, 
+    {
+        "city": "holly hill", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "lehigh acres", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "pensacola", 
+        "state": "FL", 
+        "number": 3
+    }, 
+    {
+        "city": "crystal river", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "chino hills", 
+        "state": "CA", 
+        "number": 2
+    }, 
+    {
+        "city": "tylie", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "bristol", 
+        "state": "TN", 
+        "number": 2
+    }, 
+    {
+        "city": "addison", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "moore", 
+        "state": "SC", 
+        "number": 1
+    }, 
+    {
+        "city": "avilla", 
+        "state": "IN", 
+        "number": 1
+    }, 
+    {
+        "city": "avon by the sea", 
+        "state": "NJ", 
+        "number": 1
+    }, 
+    {
+        "city": "texarkana", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "mobile", 
+        "state": "AL", 
+        "number": 8
+    }, 
+    {
+        "city": "plano", 
+        "state": "TX", 
+        "number": 3
+    }, 
+    {
+        "city": "san marcos", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "windermere", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "springfield", 
+        "state": "MA", 
+        "number": 1
+    }, 
+    {
+        "city": "silver creek", 
+        "state": "WA", 
+        "number": 1
+    }, 
+    {
+        "city": "tucson", 
+        "state": "AZ", 
+        "number": 1
+    }, 
+    {
+        "city": "oviedo", 
+        "state": "FL", 
+        "number": 2
+    }, 
+    {
+        "city": "winchester", 
+        "state": "VA", 
+        "number": 1
+    }, 
+    {
+        "city": "hammond", 
+        "state": "LA", 
+        "number": 2
+    }, 
+    {
+        "city": "wichita", 
+        "state": "KS", 
+        "number": 1
+    }, 
+    {
+        "city": "jacksonville", 
+        "state": "FL", 
+        "number": 3
+    }, 
+    {
+        "city": "cibolo", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "omaha", 
+        "state": "NE", 
+        "number": 3
+    }, 
+    {
+        "city": "silverhill", 
+        "state": "AL", 
+        "number": 1
+    }, 
+    {
+        "city": "atlanta", 
+        "state": "GA", 
+        "number": 3
+    }, 
+    {
+        "city": "boulder city", 
+        "state": "NV", 
+        "number": 1
+    }, 
+    {
+        "city": "grove city", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "altamonte springs", 
+        "state": "FL", 
+        "number": 2
+    }, 
+    {
+        "city": "park city", 
+        "state": "KY", 
+        "number": 1
+    }, 
+    {
+        "city": "waxahachie", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "newberg", 
+        "state": "OR", 
+        "number": 1
+    }, 
+    {
+        "city": "toledo", 
+        "state": "OH", 
+        "number": 2
+    }, 
+    {
+        "city": "billings", 
+        "state": "MT", 
+        "number": 1
+    }, 
+    {
+        "city": "columbus", 
+        "state": "OH", 
+        "number": 6
+    }, 
+    {
+        "city": "northport", 
+        "state": "AL", 
+        "number": 1
+    }, 
+    {
+        "city": "boerne", 
+        "state": "TX", 
+        "number": 3
+    }, 
+    {
+        "city": "kissimmee", 
+        "state": "FL", 
+        "number": 3
+    }, 
+    {
+        "city": "wylie", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "mission viejo", 
+        "state": "CA", 
+        "number": 2
+    }, 
+    {
+        "city": "agate", 
+        "state": "CO", 
+        "number": 1
+    }, 
+    {
+        "city": "withee", 
+        "state": "WI", 
+        "number": 1
+    }, 
+    {
+        "city": "natalia", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "golden", 
+        "state": "CO", 
+        "number": 1
+    }, 
+    {
+        "city": "englewood", 
+        "state": "CO", 
+        "number": 1
+    }, 
+    {
+        "city": "pearl river", 
+        "state": "LA", 
+        "number": 1
+    }, 
+    {
+        "city": "cleveland", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "daytona beach", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "akron", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "hesperia", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
+        "city": "lafayette", 
+        "state": "LA", 
+        "number": 2
+    }, 
+    {
+        "city": "buffalo", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "corpus christi", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "conover", 
+        "state": "NC", 
+        "number": 1
+    }, 
+    {
+        "city": "watkinsville", 
+        "state": "GA", 
+        "number": 2
+    }, 
+    {
+        "city": "richmond", 
+        "state": "KY", 
+        "number": 1
+    }, 
+    {
+        "city": "mt. vernon", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "mckinney", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "kingwood", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "peoria", 
+        "state": "AZ", 
+        "number": 1
+    }, 
+    {
+        "city": "valley village", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
+        "city": "ooltewah", 
+        "state": "TN", 
+        "number": 2
+    }, 
+    {
+        "city": "sea bright", 
+        "state": "NJ", 
+        "number": 1
+    }, 
+    {
+        "city": "clovis", 
+        "state": "NM", 
+        "number": 1
+    }, 
+    {
+        "city": "castle rock", 
+        "state": "CO", 
+        "number": 2
+    }, 
+    {
+        "city": "centennial", 
+        "state": "CO", 
+        "number": 2
+    }, 
+    {
+        "city": "imperial", 
+        "state": "MO", 
+        "number": 1
+    }, 
+    {
+        "city": "key biscayne", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "rocky mount", 
+        "state": "NC", 
+        "number": 1
+    }, 
+    {
+        "city": "durango", 
+        "state": "CO", 
+        "number": 2
+    }, 
+    {
+        "city": "boynton beach", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "knoxville", 
+        "state": "TN", 
+        "number": 2
+    }, 
+    {
+        "city": "silsbee", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "webster", 
+        "state": "NY", 
+        "number": 1
+    }, 
+    {
+        "city": "monson", 
+        "state": "MA", 
+        "number": 1
+    }, 
+    {
+        "city": "winchester", 
+        "state": "KY", 
+        "number": 1
+    }, 
+    {
+        "city": "spring hope", 
+        "state": "NC", 
+        "number": 1
+    }, 
+    {
+        "city": "benton", 
+        "state": "KY", 
+        "number": 1
+    }, 
+    {
+        "city": "washington", 
+        "state": "MI", 
+        "number": 1
+    }, 
+    {
+        "city": "plymouth", 
+        "state": "NC", 
+        "number": 1
+    }, 
+    {
+        "city": "traverse city", 
+        "state": "MI", 
+        "number": 1
+    }, 
+    {
+        "city": "miami", 
+        "state": "FL", 
+        "number": 5
+    }, 
+    {
+        "city": "elkhart", 
+        "state": "IN", 
+        "number": 1
+    }, 
+    {
+        "city": "brownsburg", 
+        "state": "IN", 
+        "number": 1
+    }, 
+    {
+        "city": "starke", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "rosemount", 
+        "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "breckenridge", 
+        "state": "CO", 
+        "number": 1
+    }, 
+    {
+        "city": "wellington", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "bells", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "montgomery", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "waco", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "minnetonka", 
+        "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "hephzibah", 
+        "state": "GA", 
+        "number": 1
+    }, 
+    {
+        "city": "allen", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "chatfield", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "fort pierce", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "missouri city", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "coral springs", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "port richey", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "monroe", 
+        "state": "LA", 
+        "number": 1
+    }, 
+    {
+        "city": "new orleans", 
+        "state": "LA", 
+        "number": 2
+    }, 
+    {
+        "city": "katy", 
+        "state": "TX", 
+        "number": 3
+    }, 
+    {
+        "city": "glenallen", 
+        "state": "MO", 
+        "number": 1
+    }, 
+    {
+        "city": "swansboro", 
+        "state": "NC", 
+        "number": 1
+    }, 
+    {
+        "city": "muleshoe", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "redwing", 
+        "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "pasadena", 
+        "state": "MD", 
+        "number": 1
+    }, 
+    {
+        "city": "overland park", 
+        "state": "KS", 
+        "number": 1
+    }, 
+    {
+        "city": "cottage grove", 
+        "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "pembroke pines", 
+        "state": "FL", 
+        "number": 3
+    }, 
+    {
+        "city": "temple", 
+        "state": "GA", 
+        "number": 1
+    }, 
+    {
+        "city": "magnolia", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "gibsonton", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "medina", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "hobe sound", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "mesquite", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "dodgeville", 
+        "state": "WI", 
+        "number": 1
+    }, 
+    {
+        "city": "beavercreek", 
+        "state": "OR", 
+        "number": 2
+    }, 
+    {
+        "city": "seffner", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "luling", 
+        "state": "LA", 
+        "number": 1
+    }, 
+    {
+        "city": "fort worth", 
+        "state": "TX", 
+        "number": 7
+    }, 
+    {
+        "city": "millsboro", 
+        "state": "DE", 
+        "number": 1
+    }, 
+    {
+        "city": "henderson", 
+        "state": "NV", 
+        "number": 2
+    }, 
+    {
+        "city": "desoto", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "ennis", 
+        "state": "MT", 
+        "number": 1
+    }, 
+    {
+        "city": "bethlehem", 
+        "state": "PA", 
+        "number": 1
+    }, 
+    {
+        "city": "hendersonville", 
+        "state": "TN", 
+        "number": 1
+    }, 
+    {
+        "city": "big spring", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "seminole", 
+        "state": "FL", 
+        "number": 2
+    }, 
+    {
+        "city": "sandy springs", 
+        "state": "GA", 
+        "number": 1
+    }, 
+    {
+        "city": "jennings", 
+        "state": "LA", 
+        "number": 1
+    }, 
+    {
+        "city": "bardstown", 
+        "state": "KY", 
+        "number": 1
+    }, 
+    {
+        "city": "temple", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "gulfport", 
+        "state": "MS", 
+        "number": 2
+    }, 
+    {
+        "city": "highlands ranch", 
+        "state": "CO", 
+        "number": 4
+    }, 
+    {
+        "city": "cleveland", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "leadville", 
+        "state": "CO", 
+        "number": 1
+    }, 
+    {
+        "city": "athens", 
+        "state": "AL", 
+        "number": 1
+    }, 
+    {
+        "city": "georgetown", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "ferndale", 
+        "state": "WA", 
+        "number": 1
+    }, 
+    {
+        "city": "port o\\'connor", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "rockvale", 
+        "state": "TN", 
+        "number": 1
+    }, 
+    {
+        "city": "brighton", 
+        "state": "CO", 
+        "number": 1
+    }, 
+    {
+        "city": "greencove springs", 
+        "state": "FL", 
+        "number": 2
+    }, 
+    {
+        "city": "alpharetta", 
+        "state": "GA", 
+        "number": 1
+    }, 
+    {
+        "city": "bronson", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "boones mill", 
+        "state": "VA", 
+        "number": 1
+    }, 
+    {
+        "city": "charlotte", 
+        "state": "NC", 
+        "number": 3
+    }, 
+    {
+        "city": "slaton", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "breckenridge", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "summerfield", 
+        "state": "FL", 
+        "number": 2
+    }, 
+    {
+        "city": "platteville", 
+        "state": "CO", 
+        "number": 1
+    }, 
+    {
+        "city": "williamsburg", 
+        "state": "AV", 
+        "number": 1
+    }, 
+    {
+        "city": "arvada", 
+        "state": "CO", 
+        "number": 2
+    }, 
+    {
+        "city": "lakewood", 
+        "state": "CO", 
+        "number": 3
+    }, 
+    {
+        "city": "decatur", 
+        "state": "GA", 
+        "number": 1
+    }, 
+    {
+        "city": "cedar creek", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "memphis", 
+        "state": "TN", 
+        "number": 2
+    }, 
+    {
+        "city": "yorkville", 
+        "state": "IL", 
+        "number": 1
+    }, 
+    {
+        "city": "sarasota", 
+        "state": "FL", 
+        "number": 2
+    }, 
+    {
+        "city": "somerset", 
+        "state": "KY", 
+        "number": 1
+    }, 
+    {
+        "city": "ardmore", 
+        "state": "OK", 
+        "number": 1
+    }, 
+    {
+        "city": "reeds spring", 
+        "state": "MO", 
+        "number": 1
+    }, 
+    {
+        "city": "redding", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
+        "city": "wenatchee", 
+        "state": "WA", 
+        "number": 1
+    }, 
+    {
+        "city": "palm harbor", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "wilson", 
+        "state": "OK", 
+        "number": 2
+    }, 
+    {
+        "city": "ward", 
+        "state": "CO", 
+        "number": 1
+    }, 
+    {
+        "city": "leander", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "hialeah", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "leland", 
+        "state": "NC", 
+        "number": 2
+    }, 
+    {
+        "city": "fort lauderdale", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "marietta", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "lakeland", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "mesa", 
+        "state": "AZ", 
+        "number": 1
+    }, 
+    {
+        "city": "krum", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "baytown", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "saint charles", 
+        "state": "MO", 
+        "number": 1
+    }, 
+    {
+        "city": "monclova", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "mead", 
+        "state": "CO", 
+        "number": 1
+    }, 
+    {
+        "city": "hendersonville", 
+        "state": "NC", 
+        "number": 1
+    }, 
+    {
+        "city": "floyds knobs", 
+        "state": "IN", 
+        "number": 1
+    }, 
+    {
+        "city": "humble", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "decatur", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "rock island", 
+        "state": "TN", 
+        "number": 1
+    }, 
+    {
+        "city": "gulf breeze", 
+        "state": "FL", 
+        "number": 3
+    }, 
+    {
+        "city": "milliken", 
+        "state": "CO", 
+        "number": 1
+    }, 
+    {
+        "city": "kodak", 
+        "state": "TN", 
+        "number": 1
+    }, 
+    {
+        "city": "safford", 
+        "state": "AZ", 
+        "number": 1
+    }, 
+    {
+        "city": "hawkins", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "stillwater", 
+        "state": "OK", 
+        "number": 3
+    }, 
+    {
+        "city": "pittsburg", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
+        "city": "palmetto", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "fort myers", 
+        "state": "FL", 
+        "number": 2
+    }, 
+    {
+        "city": "round rock", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "englishtown", 
+        "state": "NJ", 
+        "number": 1
+    }, 
+    {
+        "city": "springboro", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "kemp", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "everett", 
+        "state": "WA", 
+        "number": 1
+    }, 
+    {
+        "city": "custer", 
+        "state": "SD", 
+        "number": 1
+    }, 
+    {
+        "city": "myrtle beach", 
+        "state": "SC", 
+        "number": 2
+    }, 
+    {
+        "city": "fort walton beach", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "ball", 
+        "state": "LA", 
+        "number": 1
+    }, 
+    {
+        "city": "friendswood", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "casper", 
+        "state": "WY", 
+        "number": 1
+    }, 
+    {
+        "city": "edgewood", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "plainview", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "grand prairie", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "albany", 
+        "state": "NY", 
+        "number": 1
+    }, 
+    {
+        "city": "saint petersburg", 
+        "state": "FL", 
+        "number": 3
+    }, 
+    {
+        "city": "willis", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "clearwater", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "kettering", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "cincinnati", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "mullica hill", 
+        "state": "NJ", 
+        "number": 1
+    }, 
+    {
+        "city": "cross plains", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "spring", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "portland", 
+        "state": "OR", 
+        "number": 1
+    }, 
+    {
+        "city": "chandler", 
+        "state": "AZ", 
+        "number": 2
+    }, 
+    {
+        "city": "dallas", 
+        "state": "GA", 
+        "number": 2
+    }, 
+    {
+        "city": "palacios", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "tavares", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "alvin", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "davenport", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "bastrop", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "lake mary", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "richmond", 
+        "state": "VA", 
+        "number": 1
+    }, 
+    {
+        "city": "marquand", 
+        "state": "MO", 
+        "number": 1
+    }, 
+    {
+        "city": "texarkana", 
+        "state": "AR", 
+        "number": 1
+    }, 
+    {
+        "city": "stouffville", 
+        "state": "ON", 
+        "number": 1
+    }, 
+    {
+        "city": "columbia", 
+        "state": "SC", 
+        "number": 1
+    }, 
+    {
+        "city": "guntersville", 
+        "state": "AL", 
+        "number": 1
+    }, 
+    {
+        "city": "sour lake", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "birdsboro", 
+        "state": "PA", 
+        "number": 1
+    }, 
+    {
+        "city": "brandon", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "prattville", 
+        "state": "AL", 
+        "number": 1
+    }, 
+    {
+        "city": "sulphur", 
+        "state": "LA", 
+        "number": 1
+    }, 
+    {
+        "city": "thackerville", 
+        "state": "OK", 
+        "number": 1
+    }, 
+    {
+        "city": "rogers", 
+        "state": "AR", 
+        "number": 1
+    }, 
+    {
+        "city": "sherman", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "blue ridge", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "downington", 
+        "state": "PA", 
+        "number": 1
+    }, 
+    {
+        "city": "calgary", 
+        "state": "AL", 
+        "number": 1
+    }, 
+    {
+        "city": "wrightsville beach", 
+        "state": "NC", 
+        "number": 1
+    }, 
+    {
+        "city": "morristown", 
+        "state": "TN", 
+        "number": 1
+    }, 
+    {
+        "city": "southfield", 
+        "state": "MI", 
+        "number": 1
+    }, 
+    {
+        "city": "sanford", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "sylmar", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
+        "city": "kalispell", 
+        "state": "MT", 
+        "number": 1
+    }, 
+    {
+        "city": "corinth", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "wilcox", 
+        "state": "NE", 
+        "number": 1
+    }, 
+    {
+        "city": "st. paul", 
+        "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "green cove springs", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "parrish", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "virginia beach", 
+        "state": "VA", 
+        "number": 1
+    }, 
+    {
+        "city": "cedar rapids", 
+        "state": "IA", 
+        "number": 1
+    }, 
+    {
+        "city": "port st lucie", 
+        "state": "FL", 
+        "number": 2
+    }, 
+    {
+        "city": "the woodlands", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "fairfield", 
+        "state": "IA", 
+        "number": 1
+    }, 
+    {
+        "city": "stanford", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "marquette", 
+        "state": "MI", 
+        "number": 1
+    }, 
+    {
+        "city": "east longmeadow", 
+        "state": "MA", 
+        "number": 1
+    }, 
+    {
+        "city": "south hill", 
+        "state": "VA", 
+        "number": 1
+    }, 
+    {
+        "city": "deer park", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "winona", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "laporte", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "vincent", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "liverpool", 
+        "state": "NY", 
+        "number": 1
+    }, 
+    {
+        "city": "woodland park", 
+        "state": "CO", 
+        "number": 1
+    }, 
+    {
+        "city": "archer city", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "fargo", 
+        "state": "ND", 
+        "number": 1
+    }, 
+    {
+        "city": "new branfels", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "loveland", 
+        "state": "CO", 
+        "number": 2
+    }, 
+    {
+        "city": "lebaon", 
+        "state": "TN", 
+        "number": 1
+    }, 
+    {
+        "city": "woodstock", 
+        "state": "GA", 
+        "number": 1
+    }, 
+    {
+        "city": "columbia", 
+        "state": "LA", 
+        "number": 1
+    }, 
+    {
+        "city": "pine knoll shores", 
+        "state": "NC", 
+        "number": 1
+    }, 
+    {
+        "city": "lamesa", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "murietta", 
+        "state": "GA", 
+        "number": 1
+    }, 
+    {
+        "city": "morgantown", 
+        "state": "WV", 
+        "number": 1
+    }, 
+    {
+        "city": "milwaukee", 
+        "state": "WI", 
+        "number": 1
+    }, 
+    {
+        "city": "pinckney", 
+        "state": "MI", 
+        "number": 1
+    }, 
+    {
+        "city": "myrtle", 
+        "state": "MS", 
+        "number": 1
+    }, 
+    {
+        "city": "mission", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "lucedale", 
+        "state": "MS", 
+        "number": 1
+    }, 
+    {
+        "city": "indialantic", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "poolville", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "tappahannock", 
+        "state": "VA", 
+        "number": 1
+    }, 
+    {
+        "city": "worthington", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "port saint lucie", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "san ant5onio", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "evergreen", 
+        "state": "CO", 
+        "number": 2
+    }, 
+    {
+        "city": "mesquite", 
+        "state": "NM", 
+        "number": 1
+    }, 
+    {
+        "city": "palm bay", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "loudonville", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "hastings", 
+        "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "kenner", 
+        "state": "LA", 
+        "number": 1
+    }, 
+    {
+        "city": "fort collins", 
+        "state": "CO", 
+        "number": 2
+    }, 
+    {
+        "city": "pylesville", 
+        "state": "MD", 
+        "number": 1
+    }, 
+    {
+        "city": "rochester", 
+        "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "shoreacres", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "frederick", 
+        "state": "MD", 
+        "number": 1
+    }, 
+    {
+        "city": "oxford", 
+        "state": "AL", 
+        "number": 1
+    }, 
+    {
+        "city": "larkspur", 
+        "state": "CO", 
+        "number": 1
+    }, 
+    {
+        "city": "jackson", 
+        "state": "GA", 
+        "number": 1
+    }, 
+    {
+        "city": "knox", 
+        "state": "IN", 
+        "number": 1
+    }, 
+    {
+        "city": "shawnee", 
+        "state": "KS", 
+        "number": 1
+    }, 
+    {
+        "city": "slidell", 
+        "state": "LA", 
+        "number": 1
+    }, 
+    {
+        "city": "sonora", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "ponchatoula", 
+        "state": "LA", 
+        "number": 2
+    }, 
+    {
+        "city": "wallingford", 
+        "state": "KY", 
+        "number": 1
+    }, 
+    {
+        "city": "corsicana", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "longmont", 
+        "state": "CO", 
+        "number": 2
+    }, 
+    {
+        "city": "coppell", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "southlake", 
+        "state": "TN", 
+        "number": 1
+    }, 
+    {
+        "city": "carrollton", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "mansfield", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "queen creek", 
+        "state": "AZ", 
+        "number": 1
+    }, 
+    {
+        "city": "covington", 
+        "state": "LA", 
+        "number": 2
+    }, 
+    {
+        "city": "saint cloud", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "albuquerque", 
+        "state": "NM", 
+        "number": 1
+    }, 
+    {
+        "city": "ojai", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
+        "city": "weeki wachee", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "hixson", 
+        "state": "TN", 
+        "number": 2
+    }, 
+    {
+        "city": "lake hopatcong", 
+        "state": "NJ", 
+        "number": 1
+    }, 
+    {
+        "city": "snellville", 
+        "state": "GA", 
+        "number": 1
+    }, 
+    {
+        "city": "beaumont", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
+        "city": "milner", 
+        "state": "GA", 
+        "number": 1
+    }, 
+    {
+        "city": "apopka", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "tacoma", 
+        "state": "WA", 
+        "number": 1
+    }, 
+    {
+        "city": "prior lake", 
+        "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "laplace", 
+        "state": "LA", 
+        "number": 1
+    }, 
+    {
+        "city": "saraland", 
+        "state": "AL", 
+        "number": 1
+    }, 
+    {
+        "city": "tonganoxie", 
+        "state": "KS", 
+        "number": 1
+    }, 
+    {
+        "city": "springfield", 
+        "state": "OR", 
+        "number": 2
+    }, 
+    {
+        "city": "dumont", 
+        "state": "CO", 
+        "number": 1
+    }, 
+    {
+        "city": "olivia", 
+        "state": "NC", 
+        "number": 1
+    }, 
+    {
+        "city": "new hope", 
+        "state": "AL", 
+        "number": 1
+    }, 
+    {
+        "city": "dandridge", 
+        "state": "TN", 
+        "number": 1
+    }, 
+    {
+        "city": "tiverton", 
+        "state": "RI", 
+        "number": 1
+    }, 
+    {
+        "city": "bedford", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "anton", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "seguin", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "new london", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "hellertown", 
+        "state": "PA", 
+        "number": 1
+    }, 
+    {
+        "city": "lodi", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
+        "city": "jensen beach", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "elizabethtown", 
+        "state": "KY", 
+        "number": 2
+    }, 
+    {
+        "city": "salem", 
+        "state": "AL", 
+        "number": 1
+    }, 
+    {
+        "city": "coldwater", 
+        "state": "MS", 
+        "number": 1
+    }, 
+    {
+        "city": "prosper", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "brookfield", 
+        "state": "CT", 
+        "number": 1
+    }, 
+    {
+        "city": "perrysburg", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "harrah", 
+        "state": "OK", 
+        "number": 1
+    }, 
+    {
+        "city": "moorestown", 
+        "state": "NJ", 
+        "number": 1
+    }, 
+    {
+        "city": "jefferson", 
+        "state": "WI", 
+        "number": 1
+    }, 
+    {
+        "city": "saint augustine", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "poplar bluff", 
+        "state": "MO", 
+        "number": 1
+    }, 
+    {
+        "city": "fort mill", 
+        "state": "SC", 
+        "number": 1
+    }, 
+    {
+        "city": "livingston", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "marble falls", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "burlington", 
+        "state": "NC", 
+        "number": 1
+    }, 
+    {
+        "city": "hempstead", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "lacombe", 
+        "state": "LA", 
+        "number": 1
+    }, 
+    {
+        "city": "north fort myers", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "poncha springs", 
+        "state": "CO", 
+        "number": 1
+    }, 
+    {
+        "city": "cheyenne", 
+        "state": "WY", 
+        "number": 1
+    }, 
+    {
+        "city": "bullard", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "bailey", 
+        "state": "CO", 
+        "number": 1
+    }, 
+    {
+        "city": "burbank", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
+        "city": "kenosha", 
+        "state": "WI", 
+        "number": 1
+    }, 
+    {
+        "city": "van buren", 
+        "state": "AR", 
+        "number": 1
+    }, 
+    {
+        "city": "lake havasu city", 
+        "state": "AZ", 
+        "number": 1
+    }, 
+    {
+        "city": "elk river", 
+        "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "ocean springs", 
+        "state": "MS", 
+        "number": 1
+    }, 
+    {
+        "city": "lilburn", 
+        "state": "GA", 
+        "number": 1
+    }, 
+    {
+        "city": "avondale", 
+        "state": "LA", 
+        "number": 1
+    }, 
+    {
+        "city": "newburgh", 
+        "state": "IN", 
+        "number": 1
+    }, 
+    {
+        "city": "maple grove", 
+        "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "fairmont", 
+        "state": "WV", 
+        "number": 1
+    }, 
+    {
+        "city": "burlington", 
+        "state": "KY", 
+        "number": 1
+    }, 
+    {
+        "city": "cedar park", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "madison", 
+        "state": "SD", 
+        "number": 1
+    }, 
+    {
+        "city": "rockmart", 
+        "state": "GA", 
+        "number": 1
+    }, 
+    {
+        "city": "freeport", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "indianola", 
+        "state": "OK", 
+        "number": 1
+    }, 
+    {
+        "city": "weir", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "deerfield", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "floral city", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "wolfforth", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "cookeville", 
+        "state": "TN", 
+        "number": 1
+    }, 
+    {
+        "city": "sunapee", 
+        "state": "NH", 
+        "number": 1
+    }, 
+    {
+        "city": "canal winchester", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "e providence", 
+        "state": "RI", 
+        "number": 1
+    }, 
+    {
+        "city": "oceanside", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
+        "city": "easton", 
+        "state": "PA", 
+        "number": 1
+    }, 
+    {
+        "city": "ft. mill", 
+        "state": "SC", 
+        "number": 1
+    }, 
+    {
+        "city": "cary", 
+        "state": "NC", 
+        "number": 1
+    }, 
+    {
+        "city": "st george island", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "shreveport", 
+        "state": "LA", 
+        "number": 1
+    }, 
+    {
+        "city": "greenville", 
+        "state": "SC", 
+        "number": 1
+    }, 
+    {
+        "city": "seabrook", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "san diego", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
+        "city": "pinehurst", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "s. cottage grove", 
+        "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "sheffield", 
+        "state": "AL", 
+        "number": 1
+    }, 
+    {
+        "city": "puyallup", 
+        "state": "WA", 
+        "number": 1
+    }, 
+    {
+        "city": "napa", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
+        "city": "rineyville", 
+        "state": "KY", 
+        "number": 1
+    }, 
+    {
+        "city": "prairieville", 
+        "state": "LA", 
+        "number": 1
+    }, 
+    {
+        "city": "mineral wells", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "clermont", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "selkirk", 
+        "state": "NY", 
+        "number": 1
+    }, 
+    {
+        "city": "caballo", 
+        "state": "NM", 
+        "number": 1
+    }, 
+    {
+        "city": "abeline", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "bonner springs", 
+        "state": "KS", 
+        "number": 1
+    }, 
+    {
+        "city": "menifee", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
+        "city": "onancock", 
+        "state": "VA", 
+        "number": 1
+    }, 
+    {
+        "city": "bellevue", 
+        "state": "WA", 
+        "number": 1
+    }, 
+    {
+        "city": "midland", 
+        "state": "NC", 
+        "number": 1
+    }, 
+    {
+        "city": "harrison", 
+        "state": "TN", 
+        "number": 1
+    }, 
+    {
+        "city": "chicago", 
+        "state": "IL", 
+        "number": 1
+    }, 
+    {
+        "city": "simpsonville", 
+        "state": "SC", 
+        "number": 1
+    }, 
+    {
+        "city": "weston", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "bloomington", 
+        "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "long beach", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
+        "city": "georgetown", 
+        "state": "KY", 
+        "number": 1
+    }, 
+    {
+        "city": "stella", 
+        "state": "NC", 
+        "number": 1
+    }, 
+    {
+        "city": "ft. myers", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "winston", 
+        "state": "GA", 
+        "number": 1
+    }, 
+    {
+        "city": "glenn heights", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "cocoa", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "littlefield", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "anaconda", 
+        "state": "MT", 
+        "number": 1
+    }, 
+    {
+        "city": "florence", 
+        "state": "AL", 
+        "number": 1
+    }, 
+    {
+        "city": "murfreesboro", 
+        "state": "TN", 
+        "number": 3
+    }, 
+    {
+        "city": "moss point", 
+        "state": "MS", 
+        "number": 1
+    }, 
+    {
+        "city": "seymour", 
+        "state": "MO", 
+        "number": 1
+    }, 
+    {
+        "city": "orlando", 
+        "state": "FL", 
+        "number": 2
+    }, 
+    {
+        "city": "crystal", 
+        "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "mooresville", 
+        "state": "IN", 
+        "number": 1
+    }, 
+    {
+        "city": "abelene", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "dexter", 
+        "state": "MO", 
+        "number": 1
+    }, 
+    {
+        "city": "edmond", 
+        "state": "OK", 
+        "number": 2
+    }, 
+    {
+        "city": "pollock", 
+        "state": "LA", 
+        "number": 1
+    }, 
+    {
+        "city": "marietta", 
+        "state": "GA", 
+        "number": 1
+    }, 
+    {
+        "city": "fountain hills", 
+        "state": "AZ", 
+        "number": 1
+    }, 
+    {
+        "city": "kings mountain", 
+        "state": "NC", 
+        "number": 1
+    }, 
+    {
+        "city": "ingleside", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "fairburn", 
+        "state": "GA", 
+        "number": 1
+    }, 
+    {
+        "city": "port aransas", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "yankton", 
+        "state": "SD", 
+        "number": 1
+    }, 
+    {
+        "city": "rathdrum", 
+        "state": "ID", 
+        "number": 1
+    }, 
+    {
+        "city": "calgary", 
+        "state": "AB", 
+        "number": 1
+    }, 
+    {
+        "city": "richmond", 
+        "state": "MO", 
+        "number": 1
+    }, 
+    {
+        "city": "hampton", 
+        "state": "VA", 
+        "number": 1
+    }, 
+    {
+        "city": "suffolk", 
+        "state": "VA", 
+        "number": 1
+    }, 
+    {
+        "city": "franklin", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "cocoa beach", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "sandy", 
+        "state": "UT", 
+        "number": 1
+    }, 
+    {
+        "city": "st. charles", 
+        "state": "IL", 
+        "number": 1
+    }, 
+    {
+        "city": "kyle", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "custer", 
+        "state": "WI", 
+        "number": 1
+    }, 
+    {
+        "city": "olathe", 
+        "state": "KS", 
+        "number": 1
+    }, 
+    {
+        "city": "minneapolis", 
+        "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "north miami beach", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "wolfeboro", 
+        "state": "NH", 
+        "number": 1
+    }, 
+    {
+        "city": "brookfield", 
+        "state": "MO", 
+        "number": 1
+    }, 
+    {
+        "city": "mandeville", 
+        "state": "LA", 
+        "number": 1
+    }, 
+    {
+        "city": "lake wales", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "lenoir city", 
+        "state": "TN", 
+        "number": 1
+    }, 
+    {
+        "city": "king of prussia", 
+        "state": "PA", 
+        "number": 1
+    }, 
+    {
+        "city": "wilsonville", 
+        "state": "OR", 
+        "number": 1
+    }, 
+    {
+        "city": "vero beach", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "greeley", 
+        "state": "CO", 
+        "number": 1
+    }, 
+    {
+        "city": "reynoldsburg", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "new braunfels", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "boutte", 
+        "state": "LA", 
+        "number": 1
+    }
+]
