@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR Programs: Fresh Air]]></title>
+    <teaser><![CDATA[This one-hour program features Terry Gross' in-depth interviews with prominent cultural and entertainment figures, as well as distinguished experts on current affairs and news.]]></teaser>
+    <miniTeaser><![CDATA[This one-hour program features Terry Gross' in-depth interviews.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?id=13&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+    <link type="html">http://www.npr.org/programs/fresh-air/?ft=3&amp;f=13</link>
+    <story id="299139823">
+      <link type="html">http://www.npr.org/2014/04/05/299139823/fresh-air-weekend-michael-lewis-jon-langford-and-a-housekeeping-how-to?ft=3&amp;f=13</link>
+      <link type="api">http://api.npr.org/query?id=299139823&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      <link type="short">http://n.pr/OibsVx</link>
+      <title><![CDATA[Fresh Air Weekend: Michael Lewis, Jon Langford, And A Housekeeping How-To]]></title>
+      <subtitle/>
+      <shortTitle/>
+      <teaser><![CDATA[On a "rigged" Wall Street, milliseconds make all the difference. Jon Langford sings our impulse to destroy. And new cleaning guide that will help even with the embarrassing stains.]]></teaser>
+      <miniTeaser/>
+      <slug>Fresh Air Weekend</slug>
+      <thumbnail>
+        <medium>http://media.npr.org/assets/img/2014/04/04/istock_000015615543small_sq-096d1eaa959b8d4531f8fdf6be6dd57667879746.jpg?s=13</medium>
+        <large>http://media.npr.org/assets/img/2014/04/04/istock_000015615543small_sq-096d1eaa959b8d4531f8fdf6be6dd57667879746.jpg?s=11</large>
+        <provider>iStockphoto</provider>
+      </thumbnail>
+      <storyDate>Sat, 05 Apr 2014 09:03:00 -0400</storyDate>
+      <pubDate>Sat, 05 Apr 2014 13:16:00 -0400</pubDate>
+      <lastModifiedDate>Sat, 05 Apr 2014 13:14:53 -0400</lastModifiedDate>
+      <show>
+        <program id="13" code="FA">Fresh Air</program>
+        <showDate>Sat, 05 Apr 2014 11:00:00 -0400</showDate>
+        <segNum>1</segNum>
+      </show>
+      <keywords/>
+      <priorityKeywords/>
+      <organization orgId="1" orgAbbr="NPR">
+        <name>NPR</name>
+        <website>http://www.npr.org/</website>
+      </organization>
+      <parent id="299171092" type="unknown">
+        <title>Fresh Air for April 5, 2014</title>
+        <link type="html">http://www.npr.org/programs/fresh-air/2014/04/05/299171092/fresh-air-for-april-5-2014?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=299171092&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="139029251" type="series" slug="true">
+        <title>Fresh Air Weekend</title>
+        <link type="html">http://www.npr.org/series/139029251/fresh-air-weekend?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=139029251&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="1022" type="primaryTopic">
+        <title>Interviews</title>
+        <link type="html">http://www.npr.org/sections/interviews/?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=1022&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="1022" type="topic">
+        <title>Interviews</title>
+        <link type="html">http://www.npr.org/sections/interviews/?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=1022&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="13" type="program">
+        <title>Fresh Air</title>
+        <link type="html">http://www.npr.org/programs/fresh-air/?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=13&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <audio id="299483744" type="primary">
+        <title/>
+        <duration>2849</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1299483744-9d89e7.m3u?orgId=1&amp;topicId=1022&amp;aggIds=139029251&amp;ft=3&amp;f=13</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=299483744&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1022&amp;aggIds=139029251&amp;ft=3&amp;f=13</wm>
+          <mp4>http://pd.npr.org/npr-mp4/npr/fa/2014/04/20140405_fa_01.mp4?orgId=1&amp;topicId=1022&amp;aggIds=139029251&amp;ft=3&amp;f=13</mp4>
+          <mediastream>rtmp://flash.npr.org/ondemand/mp3:anon.npr-mp3/npr/fa/2014/04/20140405_fa_01.mp3</mediastream>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+        <stream active="false"/>
+      </audio>
+      <image id="299169606" type="primary" width="200" src="http://media.npr.org/assets/img/2014/04/04/istock_000015615543small_custom-4421e2b845c8fa3bf18868cc929c3c71d6d58ff0.jpg?s=12" hasBorder="false">
+        <title>Jolie Kerr says when you have a fresh red wine stain, pouring table salt — no water — on it will suck it right up. "You can go pour some wine on your carpet tonight and try it out!" she says.</title>
+        <caption>Jolie Kerr says when you have a fresh red wine stain, pouring table salt — no water — on it will suck it right up. "You can go pour some wine on your carpet tonight and try it out!" she says.</caption>
+        <link url=""/>
+        <producer/>
+        <provider url="">iStockphoto</provider>
+        <copyright/>
+        <enlargement src="http://media.npr.org/assets/img/2014/04/04/istock_000015615543small_custom-4421e2b845c8fa3bf18868cc929c3c71d6d58ff0.jpg">
+          <caption/>
+        </enlargement>
+        <crop type="standard" src="http://media.npr.org/assets/img/2014/04/04/istock_000015615543small-30d57f4ed390ce7c1ddaf4f282ffe6ec37d04894.jpg" height="565" width="754"/>
+        <crop type="square" src="http://media.npr.org/assets/img/2014/04/04/istock_000015615543small_sq-096d1eaa959b8d4531f8fdf6be6dd57667879746.jpg" height="565" width="565"/>
+        <crop type="wide" src="http://media.npr.org/assets/img/2014/04/04/istock_000015615543small_wide-33a0bd164c0af6e73c1780d08684c5468f257d8e.jpg" height="476" width="849"/>
+        <crop type="enlargement" src="http://media.npr.org/assets/img/2014/04/04/istock_000015615543small_custom-4421e2b845c8fa3bf18868cc929c3c71d6d58ff0.jpg" height="565" width="849"/>
+        <crop type="custom" src="http://media.npr.org/assets/img/2014/04/04/istock_000015615543small_custom-4421e2b845c8fa3bf18868cc929c3c71d6d58ff0.jpg" height="565" width="849" primary="true"/>
+      </image>
+      <text>
+        <paragraph num="1"><![CDATA[Fresh Air Weekend highlights some of the best interviews and reviews from past weeks, and new program elements specially paced for weekends. Our weekend show emphasizes interviews with writers, filmmakers, actors, and musicians, and often includes excerpts from live in-studio concerts. This week:]]></paragraph>
+        <paragraph num="2"><![CDATA[On A 'Rigged' Wall Street, Milliseconds Make All The Difference: "The stock market is rigged," Michael Lewis says. In his new book Flash Boys, he describes how computerized transactions known as high-frequency trading are creating an uneven playing field.]]></paragraph>
+        <paragraph num="3"><![CDATA[Jon Langford Sings Our Impulse To Destroy: The Mekons and Waco Brothers veteran often places his left-wing politics front and center in his music and his art. Here Be Monsters has a way of mixing pretty melodies with harsh criticisms.]]></paragraph>
+        <paragraph num="4"><![CDATA[Embarrassing Stains? This Housekeeping Guide Gets That Life Is Messy: Jerry Seinfeld joked that if you have bloodstains on your clothes, you have bigger problems than the laundry. But Jolie Kerr helps with all the stains in a new book, My Boyfriend Barfed in My Handbag.]]></paragraph>
+        <paragraph num="5"><![CDATA[You can listen to the original interviews here:]]></paragraph>
+        <paragraph num="6"/>
+        <paragraph num="7"><![CDATA[On A 'Rigged' Wall Street, Milliseconds Make All The Difference]]></paragraph>
+        <paragraph num="8"><![CDATA[Jon Langford Sings Our Impulse To Destroy]]></paragraph>
+        <paragraph num="9"><![CDATA[Embarrassing Stains? This Housekeeping Guide Gets That Life Is Messy]]></paragraph>
+        <paragraph num="10"><![CDATA[ [Copyright 2014 NPR]]]></paragraph>
+      </text>
+      <textWithHtml>
+        <paragraph num="1"><![CDATA[Fresh Air Weekend<em> </em><em>highlights some of the best interviews and reviews from past weeks, and new program elements specially paced for weekends. Our weekend show emphasizes interviews with writers, filmmakers, actors, and musicians, and often includes excerpts from live in-studio concerts. This week:</em>]]></paragraph>
+        <paragraph num="2"><![CDATA[<strong>On A 'Rigged' Wall Street, Milliseconds Make All The Difference: </strong>"The stock market is rigged," Michael Lewis says. In his new book <em>Flash Boys</em>, he describes how computerized transactions known as high-frequency trading are creating an uneven playing field.]]></paragraph>
+        <paragraph num="3"><![CDATA[<strong>Jon Langford Sings Our Impulse To Destroy: </strong>The Mekons and Waco Brothers veteran often places his left-wing politics front and center in his music and his art. <em>Here Be Monsters</em> has a way of mixing pretty melodies with harsh criticisms.]]></paragraph>
+        <paragraph num="4"><![CDATA[<strong>Embarrassing Stains? This Housekeeping Guide Gets That Life Is Messy: </strong>Jerry Seinfeld joked that if you have bloodstains on your clothes, you have bigger problems than the laundry. But Jolie Kerr helps with <em>all</em> the stains in a new book, <em>My Boyfriend Barfed in My Handbag.</em>]]></paragraph>
+        <paragraph num="5"><![CDATA[You can listen to the original interviews here:]]></paragraph>
+        <paragraph num="6"><![CDATA[<ul>]]></paragraph>
+        <paragraph num="7"><![CDATA[<li><a href="http://www.npr.org/2014/04/01/297686724/on-a-rigged-wall-street-milliseconds-make-all-the-difference">On A 'Rigged' Wall Street, Milliseconds Make All The Difference</a></li>]]></paragraph>
+        <paragraph num="8"><![CDATA[<li><a href="http://www.npr.org/2014/04/02/298323623/jon-langford-sings-our-impulse-to-destroy">Jon Langford Sings Our Impulse To Destroy</a></li>]]></paragraph>
+        <paragraph num="9"><![CDATA[<li><a href="http://www.npr.org/2014/04/03/298375948/embarrassing-stains-this-housekeeping-guide-gets-that-life-is-messy">Embarrassing Stains? This Housekeeping Guide Gets That Life Is Messy</a></li>]]></paragraph>
+        <paragraph num="10"><![CDATA[</ul>  <div class="fullattribution">Copyright 2014 NPR. To see more, visit <a href="http://www.npr.org/">http://www.npr.org/</a>.<img src="http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Fresh+Air+Weekend%3A+Michael+Lewis%2C+Jon+Langford%2C+And+A+Housekeeping+How-To&utme=8(APIKey)9(MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001)"/></div>]]></paragraph>
+      </textWithHtml>
+    </story>
+    <story id="299063588">
+      <link type="html">http://www.npr.org/2014/04/04/299063588/the-politics-of-passing-1964s-civil-rights-act?ft=3&amp;f=13</link>
+      <link type="api">http://api.npr.org/query?id=299063588&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      <link type="short">http://n.pr/OhO36y</link>
+      <title><![CDATA[The Politics Of Passing 1964's Civil Rights Act]]></title>
+      <subtitle/>
+      <shortTitle/>
+      <teaser><![CDATA[The act, which turns 50 this year, ended the era of legal segregation in public accommodations, like restaurants and hotels.]]></teaser>
+      <miniTeaser/>
+      <slug>Interviews</slug>
+      <thumbnail>
+        <medium>http://media.npr.org/assets/img/2014/04/04/53016750_sq-17017ec95fe5bf6699d08cff3d500c88462126bf.jpg?s=13</medium>
+        <large>http://media.npr.org/assets/img/2014/04/04/53016750_sq-17017ec95fe5bf6699d08cff3d500c88462126bf.jpg?s=11</large>
+        <provider>Getty Images</provider>
+      </thumbnail>
+      <storyDate>Fri, 04 Apr 2014 12:03:00 -0400</storyDate>
+      <pubDate>Fri, 04 Apr 2014 14:05:00 -0400</pubDate>
+      <lastModifiedDate>Fri, 04 Apr 2014 14:05:28 -0400</lastModifiedDate>
+      <show>
+        <program id="13" code="FA">Fresh Air</program>
+        <showDate>Fri, 04 Apr 2014 11:00:00 -0400</showDate>
+        <segNum>1</segNum>
+      </show>
+      <keywords/>
+      <priorityKeywords/>
+      <organization orgId="1" orgAbbr="NPR">
+        <name>NPR</name>
+        <website>http://www.npr.org/</website>
+      </organization>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=299063588&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </transcript>
+      <parent id="299065098" type="unknown">
+        <title>Fresh Air for April 4, 2014</title>
+        <link type="html">http://www.npr.org/programs/fresh-air/2014/04/04/299065098/fresh-air-for-april-4-2014?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=299065098&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="263486544" type="bookSubject">
+        <title>HISTORY / Social History</title>
+        <link type="html">http://www.npr.org/templates/story/story.php?storyId=263486544&amp;ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=263486544&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="263486542" type="bookSubject">
+        <title>POLITICAL SCIENCE / Political Freedom &amp; Security / Civil Rights</title>
+        <link type="html">http://www.npr.org/templates/story/story.php?storyId=263486542&amp;ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=263486542&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="263486540" type="bookSubject">
+        <title>HISTORY / United States / 20th Century</title>
+        <link type="html">http://www.npr.org/templates/story/story.php?storyId=263486540&amp;ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=263486540&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="263486538" type="bookSubject">
+        <title>Politics and government</title>
+        <link type="html">http://www.npr.org/templates/story/story.php?storyId=263486538&amp;ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=263486538&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="263486536" type="bookSubject">
+        <title>United States</title>
+        <link type="html">http://www.npr.org/templates/story/story.php?storyId=263486536&amp;ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=263486536&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="263486534" type="bookSubject">
+        <title>Politics and government</title>
+        <link type="html">http://www.npr.org/templates/story/story.php?storyId=263486534&amp;ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=263486534&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="263486532" type="bookSubject">
+        <title>United States</title>
+        <link type="html">http://www.npr.org/templates/story/story.php?storyId=263486532&amp;ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=263486532&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="263486530" type="bookSubject">
+        <title>20th century</title>
+        <link type="html">http://www.npr.org/templates/story/story.php?storyId=263486530&amp;ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=263486530&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="263486528" type="bookSubject">
+        <title>History</title>
+        <link type="html">http://www.npr.org/templates/story/story.php?storyId=263486528&amp;ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=263486528&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="263486526" type="bookSubject">
+        <title>United States</title>
+        <link type="html">http://www.npr.org/templates/story/story.php?storyId=263486526&amp;ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=263486526&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="263486524" type="bookSubject">
+        <title>Civil rights</title>
+        <link type="html">http://www.npr.org/templates/story/story.php?storyId=263486524&amp;ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=263486524&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="263486503" type="author">
+        <title>Todd S. Purdum</title>
+        <link type="html">http://www.npr.org/books/authors/263486503/todd-s-purdum?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=263486503&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="263486498" type="book">
+        <title>An Idea Whose Time Has Come</title>
+        <link type="html">http://www.npr.org/books/titles/263486498/an-idea-whose-time-has-come-two-presidents-two-parties-and-the-battle-for-the-ci?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=263486498&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="10117" type="bookGenre">
+        <title>Politics &amp; Public Affairs</title>
+        <link type="html">http://www.npr.org/books/genres/10117/politics-public-affairs/?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=10117&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="10115" type="bookGenre">
+        <title>Nonfiction</title>
+        <link type="html">http://www.npr.org/books/genres/10115/nonfiction/?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=10115&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="10109" type="bookGenre">
+        <title>History &amp; Society</title>
+        <link type="html">http://www.npr.org/books/genres/10109/history-society/?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=10109&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="1022" type="primaryTopic" slug="true">
+        <title>Interviews</title>
+        <link type="html">http://www.npr.org/sections/interviews/?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=1022&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="1022" type="topic">
+        <title>Interviews</title>
+        <link type="html">http://www.npr.org/sections/interviews/?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=1022&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="13" type="program">
+        <title>Fresh Air</title>
+        <link type="html">http://www.npr.org/programs/fresh-air/?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=13&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <audio id="299081911" type="primary">
+        <title/>
+        <duration>2239</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1299081911-ad7e81.m3u?orgId=1&amp;topicId=1022&amp;ft=3&amp;f=13</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=299081911&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1022&amp;ft=3&amp;f=13</wm>
+          <mp4>http://pd.npr.org/npr-mp4/npr/fa/2014/04/20140404_fa_01.mp4?orgId=1&amp;topicId=1022&amp;ft=3&amp;f=13</mp4>
+          <mediastream>rtmp://flash.npr.org/ondemand/mp3:anon.npr-mp3/npr/fa/2014/04/20140404_fa_01.mp3</mediastream>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+        <stream active="false"/>
+      </audio>
+      <image id="299063985" type="primary" width="200" src="http://media.npr.org/assets/img/2014/04/04/53016750_wide-70b3d978cc12760cd12aa83b99a258443cbca709.jpg?s=12" hasBorder="false">
+        <title>Demonstrators march down Constitution Avenue during the March on Washington on Aug. 28, 1963.</title>
+        <caption>Demonstrators march down Constitution Avenue during the March on Washington on Aug. 28, 1963.</caption>
+        <link url=""/>
+        <producer>Hulton Archive</producer>
+        <provider url="">Getty Images</provider>
+        <copyright/>
+        <enlargement src="http://media.npr.org/assets/img/2014/04/04/53016750_wide-70b3d978cc12760cd12aa83b99a258443cbca709.jpg">
+          <caption/>
+        </enlargement>
+        <crop type="standard" src="http://media.npr.org/assets/img/2014/04/04/53016750-49d85b804c7bfbbb66084296cbb260b642b8c4f7.jpg" height="3037" width="4054"/>
+        <crop type="square" src="http://media.npr.org/assets/img/2014/04/04/53016750_sq-17017ec95fe5bf6699d08cff3d500c88462126bf.jpg" height="2284" width="2284"/>
+        <crop type="wide" src="http://media.npr.org/assets/img/2014/04/04/53016750_wide-70b3d978cc12760cd12aa83b99a258443cbca709.jpg" height="2277" width="4054" primary="true"/>
+        <crop type="enlargement" src="http://media.npr.org/assets/img/2014/04/04/53016750_wide-70b3d978cc12760cd12aa83b99a258443cbca709.jpg" height="2277" width="4054"/>
+      </image>
+      <promoArt id="263486523" type="standard" width="200" src="http://media.npr.org/assets/bakertaylor/covers/a/an-idea-whose-time-has-come/9780805096729_custom-ee0920a78bfa719fa1defc102ab879d8e3dc15cb.jpg?s=12" bookEditionId="263486514" hasBorder="false">
+        <title>An Idea Whose Time Has Come</title>
+        <caption/>
+        <link url=""/>
+        <producer/>
+        <provider url=""/>
+        <copyright>2014</copyright>
+        <crop type="custom" src="http://media.npr.org/assets/bakertaylor/covers/a/an-idea-whose-time-has-come/9780805096729_custom-ee0920a78bfa719fa1defc102ab879d8e3dc15cb.jpg" height="600" width="396" primary="true"/>
+      </promoArt>
+      <promoArt id="299064096" type="standard" width="200" src="http://media.npr.org/assets/bakertaylor/covers/a/an-idea-whose-time-has-come/9780805096729_custom-ee0920a78bfa719fa1defc102ab879d8e3dc15cb.jpg?s=12" hasBorder="false">
+        <title>An Idea Whose Time Has Come</title>
+        <caption/>
+        <link url=""/>
+        <producer/>
+        <provider url=""/>
+        <copyright>2014</copyright>
+        <crop type="custom" src="http://media.npr.org/assets/bakertaylor/covers/a/an-idea-whose-time-has-come/9780805096729_custom-ee0920a78bfa719fa1defc102ab879d8e3dc15cb.jpg" height="600" width="396" primary="true"/>
+      </promoArt>
+      <relatedLink id="299063997" type="internal">
+        <caption><![CDATA[ Rep. Gutierrez: I Am A Product Of The Civil Rights Movement]]></caption>
+        <link type="html">http://www.npr.org/2013/10/10/231446080/gutierrez-i-am-a-product-of-the-civil-rights-movement?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=231446080&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </relatedLink>
+      <relatedLink id="299064767" type="internal">
+        <caption><![CDATA[ The Saga Of The Civil Rights Act, An Idea Whose Time Came 50 Years Ago]]></caption>
+        <link type="html">http://www.npr.org/2014/03/31/297315146/the-saga-of-the-civil-rights-act-an-idea-whose-time-came-50-years-ago?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=297315146&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </relatedLink>
+      <relatedLink id="299064098" type="internal">
+        <caption><![CDATA[Read an excerpt]]></caption>
+        <link type="html">http://www.npr.org/books/titles/263486498/an-idea-whose-time-has-come-two-presidents-two-parties-and-the-battle-for-the-ci?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=263486498&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </relatedLink>
+      <text>
+        <paragraph num="1"><![CDATA[This interview was originally broadcast on Jan. 20, 2014.]]></paragraph>
+        <paragraph num="2"><![CDATA[Martin Luther King may not have had a vote in Congress, but he and the movement he helped lead were integral to getting the civil rights bill introduced. This year marks the 50th anniversary of the passage of that bill, now known as the Civil Rights Act.]]></paragraph>
+        <paragraph num="3"><![CDATA[Among other things, the act outlawed discrimination in public accommodations — including restaurants, hotels and motels — ending the era of legal segregation in those places.]]></paragraph>
+        <paragraph num="4"><![CDATA[Todd Purdum is the author of the book An Idea Whose Time Has Come: Two Presidents, Two Parties and the Battle for the Civil Rights Act of 1964.]]></paragraph>
+        <paragraph num="5"><![CDATA[Purdum is a contributing editor at Vanity Fair and a senior writer at Politico. He joins Fresh Air's Terry Gross to talk about the legislative and political battle to get the civil rights bill passed. Click the audio link above (available after 5 p.m. EST) to listen to the interview. [Copyright 2014 NPR]]]></paragraph>
+      </text>
+      <textWithHtml>
+        <paragraph num="1"><![CDATA[<em>This interview was originally broadcast on</em> <a href="http://www.npr.org/2014/01/20/263483489/the-politics-of-passing-1964-s-civil-rights-act">Jan. 20, 2014</a>.]]></paragraph>
+        <paragraph num="2"><![CDATA[Martin Luther King may not have had a vote in Congress, but he and the movement he helped lead were integral to getting the civil rights bill introduced. This year marks the 50th anniversary of the passage of that bill, now known as the Civil Rights Act.]]></paragraph>
+        <paragraph num="3"><![CDATA[Among other things, the act outlawed discrimination in public accommodations — including restaurants, hotels and motels — ending the era of legal segregation in those places.]]></paragraph>
+        <paragraph num="4"><![CDATA[Todd Purdum is the author of the book <a href="http://www.npr.org/books/titles/263486498/an-idea-whose-time-has-come-two-presidents-two-parties-and-the-battle-for-the-ci">An Idea Whose Time Has Come: Two Presidents, Two Parties and the Battle for the Civil Rights Act of 1964</a>.]]></paragraph>
+        <paragraph num="5"><![CDATA[Purdum is a contributing editor at <em>Vanity Fair</em> and a senior writer at Politico. He joins <em>Fresh Air</em>'s Terry Gross to talk about the legislative and political battle to get the civil rights bill passed. Click the audio link above (available after 5 p.m. EST) to listen to the interview.  <div class="fullattribution">Copyright 2014 NPR. To see more, visit <a href="http://www.npr.org/">http://www.npr.org/</a>.<img src="http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=The+Politics+Of+Passing+1964%27s+Civil+Rights+Act&utme=8(APIKey)9(MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001)"/></div>]]></paragraph>
+      </textWithHtml>
+      <bookEdition id="263486514">
+        <isbn>9780805096729</isbn>
+        <book id="263486498">
+          <title>An Idea Whose Time Has Come</title>
+          <link type="html">http://www.npr.org/books/titles/263486498/an-idea-whose-time-has-come-two-presidents-two-parties-and-the-battle-for-the-ci</link>
+          <link type="api">http://api.npr.org/query?id=263486498&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+          <link type="short">http://n.pr/1gWdoMG</link>
+        </book>
+        <publisher>Henry Holt &amp; Co</publisher>
+        <format>1</format>
+        <pubDate>2014-04-01 00:00:00</pubDate>
+        <pagination>400 pages</pagination>
+        <listPrice>$30</listPrice>
+      </bookEdition>
+    </story>
+    <story id="299060528">
+      <link type="html">http://www.npr.org/2014/04/04/299060528/carlene-carter-carries-the-heavy-burden-of-history-lightly?ft=3&amp;f=13</link>
+      <link type="api">http://api.npr.org/query?id=299060528&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      <link type="short">http://n.pr/OhJYiZ</link>
+      <title><![CDATA[Carlene Carter Carries The Heavy Burden Of History Lightly]]></title>
+      <subtitle/>
+      <shortTitle/>
+      <teaser><![CDATA[The country singer treats the classic songs on her new album like living, vital pieces of art that can withstand being taken apart, thought about and re-imagined.]]></teaser>
+      <miniTeaser><![CDATA[The country singer treats the classic songs on her new album like living, vital pieces of art.]]></miniTeaser>
+      <slug>Music Reviews</slug>
+      <thumbnail>
+        <medium>http://media.npr.org/assets/img/2014/04/04/carlene_carter_carter_girl_photo_4_sq-22227a5a69655cce5c59ac07d772de3a55664d39.jpg?s=13</medium>
+        <large>http://media.npr.org/assets/img/2014/04/04/carlene_carter_carter_girl_photo_4_sq-22227a5a69655cce5c59ac07d772de3a55664d39.jpg?s=11</large>
+        <provider>Courtesy of the artist</provider>
+      </thumbnail>
+      <storyDate>Fri, 04 Apr 2014 12:02:00 -0400</storyDate>
+      <pubDate>Fri, 04 Apr 2014 12:53:00 -0400</pubDate>
+      <lastModifiedDate>Fri, 04 Apr 2014 12:02:41 -0400</lastModifiedDate>
+      <show>
+        <program id="13" code="FA">Fresh Air</program>
+        <showDate>Fri, 04 Apr 2014 11:00:00 -0400</showDate>
+        <segNum>2</segNum>
+      </show>
+      <keywords/>
+      <priorityKeywords/>
+      <organization orgId="1" orgAbbr="NPR">
+        <name>NPR</name>
+        <website>http://www.npr.org/</website>
+      </organization>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=299060528&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </transcript>
+      <parent id="299065098" type="unknown">
+        <title>Fresh Air for April 4, 2014</title>
+        <link type="html">http://www.npr.org/programs/fresh-air/2014/04/04/299065098/fresh-air-for-april-4-2014?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=299065098&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="125638008" type="collection">
+        <title>Fresh Air Reviews</title>
+        <link type="html">http://www.npr.org/series/125638008/fresh-air-reviews?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=125638008&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="1104" type="primaryTopic" slug="true">
+        <title>Music Reviews</title>
+        <link type="html">http://www.npr.org/sections/music-reviews/?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=1104&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="1104" type="topic">
+        <title>Music Reviews</title>
+        <link type="html">http://www.npr.org/sections/music-reviews/?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=1104&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="1039" type="topic">
+        <title>Music</title>
+        <link type="html">http://www.npr.org/music/?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=1039&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="13" type="program">
+        <title>Fresh Air</title>
+        <link type="html">http://www.npr.org/programs/fresh-air/?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=13&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <parent id="92792712" type="genre">
+        <title>Country</title>
+        <link type="html">http://www.npr.org/series/92792712/spotlight-on-country?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=92792712&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </parent>
+      <audio id="299082043" type="primary">
+        <title/>
+        <duration>505</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1299082043-0e11d0.m3u?orgId=1&amp;topicId=1104&amp;ft=3&amp;f=13</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=299082043&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1104&amp;ft=3&amp;f=13</wm>
+          <mp4>http://pd.npr.org/npr-mp4/npr/fa/2014/04/20140404_fa_02.mp4?orgId=1&amp;topicId=1104&amp;ft=3&amp;f=13</mp4>
+          <mediastream>rtmp://flash.npr.org/ondemand/mp3:anon.npr-mp3/npr/fa/2014/04/20140404_fa_02.mp3</mediastream>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+        <stream active="false"/>
+      </audio>
+      <byline id="299060536">
+        <name personId="4473024">Ken Tucker</name>
+        <link type="html">http://www.npr.org/people/4473024/ken-tucker?ft=3&amp;f=13</link>
+        <link type="api">http://api.npr.org/query?id=4473024&amp;apiKey=MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001</link>
+      </byline>
+      <image id="299061381" type="primary" width="200" src="http://media.npr.org/assets/img/2014/04/04/carlene_carter_carter_girl_photo_4-8723782c6fb1d7daf1080c7afb32815405db00dc.jpg?s=12" hasBorder="false">
+        <title>Carlene Carter.</title>
+        <caption>Carlene Carter.</caption>
+        <link url=""/>
+        <producer>Marina Chavez</producer>
+        <provider url="">Courtesy of the artist</provider>
+        <copyright/>
+        <enlargement src="http://media.npr.org/assets/img/2014/04/04/carlene_carter_carter_girl_photo_4_enl-134067046df758afdfe0ea8c2488f76371d0ecd0.jpg">
+          <caption/>
+        </enlargement>
+        <crop type="standard" src="http://media.npr.org/assets/img/2014/04/04/carlene_carter_carter_girl_photo_4-8723782c6fb1d7daf1080c7afb32815405db00dc.jpg" height="1997" width="2658" primary="true"/>
+        <crop type="square" src="http://media.npr.org/assets/img/2014/04/04/carlene_carter_carter_girl_photo_4_sq-22227a5a69655cce5c59ac07d772de3a55664d39.jpg" height="1329" width="1329"/>
+        <crop type="wide" src="http://media.npr.org/assets/img/2014/04/04/carlene_carter_carter_girl_photo_4_wide-c968420c100bba7abc2340b061cbcdc39bab2dd5.jpg" height="1498" width="2658"/>
+        <crop type="enlargement" src="http://media.npr.org/assets/img/2014/04/04/carlene_carter_carter_girl_photo_4_enl-134067046df758afdfe0ea8c2488f76371d0ecd0.jpg" height="3672" width="2658"/>
+        <crop type="brick" src="http://media.npr.org/assets/img/2014/04/04/carlene_carter_carter_girl_photo_4_brick-59302694d3be279d3d116c683da31b80954525bf.jpg" height="918" width="1997"/>
+      </image>
+      <text>
+        <paragraph num="1"><![CDATA[Carlene Carter was born into country-music royalty: Her father, Carl Smith, was a fine country vocalist, and her mother June was not only famous for performing with husband Johnny Cash, but also as part of The Carter Family, the groundbreaking act that ushered in the modern era of country music in the 1920s. Carlene Carter has reached back to that rich material of the Carter Family for much of a new album, Carter Girl, which offers fresh takes on classic songs.]]></paragraph>
+        <paragraph num="2"><![CDATA[In the late 1970s, Carter made her initial impact as a country singer with a pop lilt. She hit upon the idea of boosting her country music with the energy she heard in the punk and new-wave music coming from England and New York City. In her personal life, this led to a decade-long marriage to the great pop-rocker Nick Lowe; in her professional life, she made a series of fine albums for Warner Bros. That was the music of a young artist; now in her 50s, Carter has developed a gratifying maturity in her singing. You can hear it showcased in the lovely, simple arrangements on this album courtesy of producer Don Was, as Carter interprets another Carter Family classic, "I'll Be All Smiles Tonight."]]></paragraph>
+        <paragraph num="3"><![CDATA[What Carlene Carter does on Carter Girl is significant. She doesn't approach these old songs as sacred relics to be enshrined with pious respect. Rather, she treats them like living, vital pieces of art that can withstand being taken apart, thought about and re-imagined. Take, for example, "Lonesome Valley." It's a song that was itself an interpretation of a public-domain composition when The Carter Family recorded it, and has subsequently been sung many different ways, by Woody Guthrie and Joan Baez and on the soundtrack of the Coen Brothers film O Brother Where Art Thou? to name just a few. Carter has taken back the song, added some of her own lyrics about deaths in her family, played some wonderful piano and sung harmony on the chorus with Vince Gill. In the process, she comes up with her own excellent piece of work.]]></paragraph>
+        <paragraph num="4"><![CDATA[These days, Carlene Carter's voice has taken on a slight huskiness that makes her sound more than ever like her mother, June. And in some respects, Carter Girl has the trappings of a comeback album, with Don Was giving the production a bright sheen and Willie Nelson, Kris Kristofferson and Elizabeth Cook putting in cameo appearances. But on its own terms, Carter Girl is as strong as anything Carter has ever recorded. It carries the heavy burden of history lightly, and yet never flinches at the seriousness of the lives she's singing about, including her own. [Copyright 2014 NPR]]]></paragraph>
+      </text>
+      <textWithHtml>
+        <paragraph num="1"><![CDATA[Carlene Carter was born into country-music royalty: Her father, Carl Smith, was a fine country vocalist, and her mother <a href="http://www.npr.org/artists/15301050/june-carter-cash">June</a> was not only famous for performing with husband <a href="http://www.npr.org/artists/15165794/johnny-cash">Johnny Cash</a>, but also as part of The Carter Family, the groundbreaking act that ushered in the modern era of country music in the 1920s. Carlene Carter has reached back to that rich material of the Carter Family for much of a new album, <em>Carter Girl</em>, which offers fresh takes on classic songs.]]></paragraph>
+        <paragraph num="2"><![CDATA[In the late 1970s, Carter made her initial impact as a country singer with a pop lilt. She hit upon the idea of boosting her country music with the energy she heard in the punk and new-wave music coming from England and New York City. In her personal life, this led to a decade-long marriage to the great pop-rocker <a href="http://www.npr.org/artists/15162907/nick-lowe">Nick Lowe</a>; in her professional life, she made a series of fine albums for Warner Bros. That was the music of a young artist; now in her 50s, Carter has developed a gratifying maturity in her singing. You can hear it showcased in the lovely, simple arrangements on this album courtesy of producer Don Was, as Carter interprets another Carter Family classic, "I'll Be All Smiles Tonight."]]></paragraph>
+        <paragraph num="3"><![CDATA[What Carlene Carter does on <em>Carter Girl</em> is significant. She doesn't approach these old songs as sacred relics to be enshrined with pious respect. Rather, she treats them like living, vital pieces of art that can withstand being taken apart, thought about and re-imagined. Take, for example, "Lonesome Valley." It's a song that was itself an interpretation of a public-domain composition when The Carter Family recorded it, and has subsequently been sung many different ways, by <a href="http://www.npr.org/artists/15394720/woody-guthrie">Woody Guthrie</a> and <a href="http://www.npr.org/artists/15199189/joan-baez">Joan Baez</a> and on the soundtrack of the Coen Brothers film <em>O Brother Where Art Thou?</em> to name just a few. Carter has taken back the song, added some of her own lyrics about deaths in her family, played some wonderful piano and sung harmony on the chorus with Vince Gill. In the process, she comes up with her own excellent piece of work.]]></paragraph>
+        <paragraph num="4"><![CDATA[These days, Carlene Carter's voice has taken on a slight huskiness that makes her sound more than ever like her mother, June. And in some respects, <em>Carter Girl</em> has the trappings of a comeback album, with Don Was giving the production a bright sheen and <a href="http://www.npr.org/artists/15396875/willie-nelson">Willie Nelson</a>, <a href="http://www.npr.org/artists/126894870/kris-kristofferson">Kris Kristofferson</a> and <a href="http://www.npr.org/artists/16525818/elizabeth-cook">Elizabeth Cook</a> putting in cameo appearances. But on its own terms, <em>Carter Girl</em> is as strong as anything Carter has ever recorded. It carries the heavy burden of history lightly, and yet never flinches at the seriousness of the lives she's singing about, including her own.  <div class="fullattribution">Copyright 2014 NPR. To see more, visit <a href="http://www.npr.org/">http://www.npr.org/</a>.<img src="http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Carlene+Carter+Carries+The+Heavy+Burden+Of+History+Lightly&utme=8(APIKey)9(MDEzNDc4MzE3MDEzOTYyMTExMzk3MjMwZQ001)"/></div>]]></paragraph>
+      </textWithHtml>
+      <externalAsset id="299061618" type="YouTube">
+        <url>http://www.youtube.com/watch?v=tbdrFYYgn3k</url>
+        <oEmbed>http://www.youtube.com/oembed?url=http%3A//www.youtube.com/watch%3Fv%3DtbdrFYYgn3k</oEmbed>
+        <externalId>tbdrFYYgn3k</externalId>
+        <credit/>
+        <parameters/>
+        <caption/>
+      </externalAsset>
+    </story>
+  </list>
+</nprml>
