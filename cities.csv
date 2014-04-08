@@ -52,7 +52,6 @@ Wrenshall,MN,1
 Prescott,AZ,2
 Columbia,MO,2
 Allentown,PA,1
-Crystal River,FL,1
 Chino Hills,CA,2
 Lexington,KY,3
 Tylie,TX,1
@@ -201,11 +200,12 @@ Salisbury,NC,1
 Webster,TX,1
 Lewisville,TX,3
 Valrico,FL,2
-Columbus,OH,6
 Frederick,MD,2
+Columbus,OH,6
+Crystal River,FL,1
 Hammond,LA,2
 Wichita,KS,1
-Jacksonville,FL,3
+Jacksonville,FL,4
 Cibolo,TX,2
 Omaha,NE,3
 Silverhill,AL,1
@@ -342,21 +342,21 @@ Decatur,GA,1
 Cedar Creek,TX,2
 Memphis,TN,2
 Yorkville,IL,1
-Sarasota,FL,2
-Somerset,KY,1
 Ardmore,OK,1
 Reeds Spring,MO,1
 Redding,CA,1
 Wenatchee,WA,1
 Palm Harbor,FL,1
-Wilson,OK,2
-Ward,CO,1
 Leander,TX,2
 Hialeah,FL,1
 Leland,NC,2
 Fort Lauderdale,FL,1
 Marietta,OH,1
 Lakeland,FL,1
+Ward,CO,1
+Wilson,OK,2
+Somerset,KY,1
+Sarasota,FL,2
 Mesa,AZ,1
 Krum,TX,1
 Baytown,TX,1
@@ -510,11 +510,11 @@ Beaumont,CA,1
 Milner,GA,1
 Apopka,FL,1
 Tacoma,WA,1
-Prior Lake,MN,1
 Laplace,LA,1
 Saraland,AL,1
 Mission,TX,2
 Mansfield,TX,1
+Prior Lake,MN,1
 Tonganoxie,KS,1
 Springfield,OR,2
 Dumont,CO,1
@@ -652,13 +652,13 @@ Wolfeboro,NH,1
 Brookfield,MO,1
 Mandeville,LA,1
 Lenoir City,TN,1
-King Of Prussia,PA,1
 Wilsonville,OR,1
 Vero Beach,FL,1
 Greeley,CO,1
 Lowell,AR,1
 South Beloit,IL,1
 Lake Wales,FL,1
+King Of Prussia,PA,1
 Reynoldsburg,OH,1
 New Braunfels,TX,1
 Boutte,LA,1

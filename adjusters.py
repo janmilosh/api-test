@@ -17,12 +17,18 @@ def print_raw_data(data):
     f.close()
 
 # Convert JSON data to a list and sort by number of adjusters (high to low)
-def convert_json_and_sort(json_obj):
-    for location in json_obj:
-        print location.city
+def convert_json_and_sort(data):
+    city_list = [[]]
+    counter = 0
+    for location in data:
+        city_list[counter].append(location['city'])
+        city_list[counter].append(location['state'])
+        city_list[counter].append(location['number'])
+        print('%s,%s,%s,%s' % (counter, city_list[counter][0], city_list[counter][1], city_list[counter][2]))
+        counter += 1
 
 # Remove all non-US cities from list and any back-slashes
-def clean_up_city_list:
+#def clean_up_city_list:
 
 # Get geodata and add to list
 def get_geodata():
@@ -44,6 +50,7 @@ def create_csv_file(data):
 # The main function that makes it all happen
 def main():
     raw_data = get_data()
+    convert_json_and_sort(raw_data)
     print_raw_data(raw_data)
     create_csv_file(raw_data)
     get_geodata()

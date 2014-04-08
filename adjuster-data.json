@@ -265,11 +265,6 @@
         "number": 1
     }, 
     {
-        "city": "crystal river", 
-        "state": "FL", 
-        "number": 1
-    }, 
-    {
         "city": "chino hills", 
         "state": "CA", 
         "number": 2
@@ -1010,14 +1005,19 @@
         "number": 2
     }, 
     {
+        "city": "frederick", 
+        "state": "MD", 
+        "number": 2
+    }, 
+    {
         "city": "columbus", 
         "state": "OH", 
         "number": 6
     }, 
     {
-        "city": "frederick", 
-        "state": "MD", 
-        "number": 2
+        "city": "crystal river", 
+        "state": "FL", 
+        "number": 1
     }, 
     {
         "city": "hammond", 
@@ -1032,7 +1032,7 @@
     {
         "city": "jacksonville", 
         "state": "FL", 
-        "number": 3
+        "number": 4
     }, 
     {
         "city": "cibolo", 
@@ -1715,16 +1715,6 @@
         "number": 1
     }, 
     {
-        "city": "sarasota", 
-        "state": "FL", 
-        "number": 2
-    }, 
-    {
-        "city": "somerset", 
-        "state": "KY", 
-        "number": 1
-    }, 
-    {
         "city": "ardmore", 
         "state": "OK", 
         "number": 1
@@ -1747,16 +1737,6 @@
     {
         "city": "palm harbor", 
         "state": "FL", 
-        "number": 1
-    }, 
-    {
-        "city": "wilson", 
-        "state": "OK", 
-        "number": 2
-    }, 
-    {
-        "city": "ward", 
-        "state": "CO", 
         "number": 1
     }, 
     {
@@ -1788,6 +1768,26 @@
         "city": "lakeland", 
         "state": "FL", 
         "number": 1
+    }, 
+    {
+        "city": "ward", 
+        "state": "CO", 
+        "number": 1
+    }, 
+    {
+        "city": "wilson", 
+        "state": "OK", 
+        "number": 2
+    }, 
+    {
+        "city": "somerset", 
+        "state": "KY", 
+        "number": 1
+    }, 
+    {
+        "city": "sarasota", 
+        "state": "FL", 
+        "number": 2
     }, 
     {
         "city": "mesa", 
@@ -2555,11 +2555,6 @@
         "number": 1
     }, 
     {
-        "city": "prior lake", 
-        "state": "MN", 
-        "number": 1
-    }, 
-    {
         "city": "laplace", 
         "state": "LA", 
         "number": 1
@@ -2577,6 +2572,11 @@
     {
         "city": "mansfield", 
         "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "prior lake", 
+        "state": "MN", 
         "number": 1
     }, 
     {
@@ -3265,11 +3265,6 @@
         "number": 1
     }, 
     {
-        "city": "king of prussia", 
-        "state": "PA", 
-        "number": 1
-    }, 
-    {
         "city": "wilsonville", 
         "state": "OR", 
         "number": 1
@@ -3297,6 +3292,11 @@
     {
         "city": "lake wales", 
         "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "king of prussia", 
+        "state": "PA", 
         "number": 1
     }, 
     {
