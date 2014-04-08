@@ -18,14 +18,30 @@ def print_raw_data(data):
 
 # Convert JSON data to a list and sort by number of adjusters (high to low)
 def convert_json_and_sort(data):
-    city_list = [[]]
+    city_list = []
+    states = ['AL', 'AK', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DC', 'DE', 'FL', 'GA', 
+          'HI', 'ID', 'IL', 'IN', 'IA', 'KS', 'KY', 'LA', 'ME', 'MD', 
+          'MA', 'MI', 'MN', 'MS', 'MO', 'MT', 'NE', 'NV', 'NH', 'NJ', 
+          'NM', 'NY', 'NC', 'ND', 'OH', 'OK', 'OR', 'PA', 'RI', 'SC', 
+          'SD', 'TN', 'TX', 'UT', 'VT', 'VA', 'WA', 'WV', 'WI', 'WY']
     counter = 0
     for location in data:
-        city_list[counter].append(location['city'])
-        city_list[counter].append(location['state'])
-        city_list[counter].append(location['number'])
-        print('%s,%s,%s,%s' % (counter, city_list[counter][0], city_list[counter][1], city_list[counter][2]))
-        counter += 1
+        if location['state'] in states:
+            city_list.append([location['city'].title().decode('string_escape'), location['state'], location['number']])
+
+            print('%s,%s,%s,%s' % (counter, city_list[counter][0], city_list[counter][1], city_list[counter][2]))
+            counter += 1
+        else :
+            print('ignored this one: %s,%s,%s' % (location['city'].title(), location['state'], location['number']))
+        
+        city_list.sort(key=lambda x: x[2], reverse=True)
+
+        f = open('cities.csv', 'w')
+        f.write('city,state,num,lon,lat\n')
+        for item in city_list:
+            f.write(item[0] + ',' + item[1] + ',' + str(item[2]) + '\n')
+        f.close()
+        
 
 # Remove all non-US cities from list and any back-slashes
 #def clean_up_city_list:
@@ -40,19 +56,19 @@ def get_geodata():
     xml_data.close()
 
 # Create csv file from list containing geodata
-def create_csv_file(data):
-    f = open('cities.csv', 'w')
-    f.write('city,state,num,lon,lat\n')
-    for location in data:
-        f.write(location['city'].title() + ',' + location['state'] + ',' + str(location['number']) + '\n')
-    f.close()
+# def create_csv_file(data):
+#     f = open('cities.csv', 'w')
+#     f.write('city,state,num,lon,lat\n')
+#     for location in data:
+#         f.write(location['city'].title().decode('string_escape') + ',' + location['state'] + ',' + str(location['number']) + '\n')
+#     f.close()
 
 # The main function that makes it all happen
 def main():
     raw_data = get_data()
     convert_json_and_sort(raw_data)
     print_raw_data(raw_data)
-    create_csv_file(raw_data)
+    # create_csv_file(raw_data)
     get_geodata()
 
 

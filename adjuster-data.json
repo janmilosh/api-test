@@ -130,16 +130,6 @@
         "number": 3
     }, 
     {
-        "city": "boca raton", 
-        "state": "FL", 
-        "number": 1
-    }, 
-    {
-        "city": "houston", 
-        "state": "TX", 
-        "number": 16
-    }, 
-    {
         "city": "mongomery", 
         "state": "TX", 
         "number": 1
@@ -153,21 +143,6 @@
         "city": "port orange", 
         "state": "FL", 
         "number": 2
-    }, 
-    {
-        "city": "bloomington", 
-        "state": "IL", 
-        "number": 1
-    }, 
-    {
-        "city": "concordia", 
-        "state": "KS", 
-        "number": 1
-    }, 
-    {
-        "city": "milton", 
-        "state": "FL", 
-        "number": 4
     }, 
     {
         "city": "jacksonville", 
@@ -235,11 +210,6 @@
         "number": 1
     }, 
     {
-        "city": "hillsboro", 
-        "state": "TN", 
-        "number": 1
-    }, 
-    {
         "city": "caldwell", 
         "state": "ID", 
         "number": 1
@@ -248,6 +218,11 @@
         "city": "wrenshall", 
         "state": "MN", 
         "number": 1
+    }, 
+    {
+        "city": "houston", 
+        "state": "TX", 
+        "number": 16
     }, 
     {
         "city": "prescott", 
@@ -273,11 +248,6 @@
         "city": "lexington", 
         "state": "KY", 
         "number": 3
-    }, 
-    {
-        "city": "tylie", 
-        "state": "TX", 
-        "number": 1
     }, 
     {
         "city": "bristol", 
@@ -398,6 +368,11 @@
         "city": "erie", 
         "state": "CO", 
         "number": 2
+    }, 
+    {
+        "city": "milton", 
+        "state": "FL", 
+        "number": 4
     }, 
     {
         "city": "cape coral", 
@@ -610,11 +585,6 @@
         "number": 1
     }, 
     {
-        "city": "weyers cave", 
-        "state": "VA", 
-        "number": 1
-    }, 
-    {
         "city": "sugar land", 
         "state": "TX", 
         "number": 1
@@ -728,16 +698,6 @@
         "city": "detroit", 
         "state": "MI", 
         "number": 1
-    }, 
-    {
-        "city": "belt buckle", 
-        "state": "TN", 
-        "number": 1
-    }, 
-    {
-        "city": "ormond beach", 
-        "state": "FL", 
-        "number": 3
     }, 
     {
         "city": "maurfreesboro", 
@@ -860,11 +820,6 @@
         "number": 2
     }, 
     {
-        "city": "kasson", 
-        "state": "MN", 
-        "number": 1
-    }, 
-    {
         "city": "miami beach", 
         "state": "FL", 
         "number": 1
@@ -970,11 +925,6 @@
         "number": 2
     }, 
     {
-        "city": "frisco", 
-        "state": "TX", 
-        "number": 5
-    }, 
-    {
         "city": "tayor", 
         "state": "AZ", 
         "number": 1
@@ -995,18 +945,8 @@
         "number": 1
     }, 
     {
-        "city": "lewisville", 
-        "state": "TX", 
-        "number": 3
-    }, 
-    {
         "city": "valrico", 
         "state": "FL", 
-        "number": 2
-    }, 
-    {
-        "city": "frederick", 
-        "state": "MD", 
         "number": 2
     }, 
     {
@@ -1015,8 +955,68 @@
         "number": 6
     }, 
     {
+        "city": "frederick", 
+        "state": "MD", 
+        "number": 2
+    }, 
+    {
         "city": "crystal river", 
         "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "belt buckle", 
+        "state": "TN", 
+        "number": 1
+    }, 
+    {
+        "city": "lewisville", 
+        "state": "TX", 
+        "number": 3
+    }, 
+    {
+        "city": "tylie", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "kasson", 
+        "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "frisco", 
+        "state": "TX", 
+        "number": 5
+    }, 
+    {
+        "city": "ormond beach", 
+        "state": "FL", 
+        "number": 3
+    }, 
+    {
+        "city": "concordia", 
+        "state": "KS", 
+        "number": 1
+    }, 
+    {
+        "city": "boca raton", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "bloomington", 
+        "state": "IL", 
+        "number": 1
+    }, 
+    {
+        "city": "hillsboro", 
+        "state": "TN", 
+        "number": 1
+    }, 
+    {
+        "city": "weyers cave", 
+        "state": "VA", 
         "number": 1
     }, 
     {
@@ -1200,11 +1200,6 @@
         "number": 1
     }, 
     {
-        "city": "mt. vernon", 
-        "state": "TX", 
-        "number": 1
-    }, 
-    {
         "city": "mckinney", 
         "state": "TX", 
         "number": 2
@@ -1265,19 +1260,9 @@
         "number": 1
     }, 
     {
-        "city": "durango", 
-        "state": "CO", 
-        "number": 2
-    }, 
-    {
         "city": "boynton beach", 
         "state": "FL", 
         "number": 1
-    }, 
-    {
-        "city": "knoxville", 
-        "state": "TN", 
-        "number": 2
     }, 
     {
         "city": "silsbee", 
@@ -1375,21 +1360,6 @@
         "number": 2
     }, 
     {
-        "city": "minnetonka", 
-        "state": "MN", 
-        "number": 1
-    }, 
-    {
-        "city": "hephzibah", 
-        "state": "GA", 
-        "number": 1
-    }, 
-    {
-        "city": "allen", 
-        "state": "TX", 
-        "number": 1
-    }, 
-    {
         "city": "chatfield", 
         "state": "TX", 
         "number": 1
@@ -1450,11 +1420,6 @@
         "number": 1
     }, 
     {
-        "city": "pasadena", 
-        "state": "MD", 
-        "number": 1
-    }, 
-    {
         "city": "overland park", 
         "state": "KS", 
         "number": 1
@@ -1492,16 +1457,6 @@
     {
         "city": "hobe sound", 
         "state": "FL", 
-        "number": 1
-    }, 
-    {
-        "city": "mesquite", 
-        "state": "TX", 
-        "number": 1
-    }, 
-    {
-        "city": "dodgeville", 
-        "state": "WI", 
         "number": 1
     }, 
     {
@@ -1552,11 +1507,6 @@
     {
         "city": "hendersonville", 
         "state": "TN", 
-        "number": 1
-    }, 
-    {
-        "city": "big spring", 
-        "state": "TX", 
         "number": 1
     }, 
     {
@@ -1680,6 +1630,11 @@
         "number": 1
     }, 
     {
+        "city": "knoxville", 
+        "state": "TN", 
+        "number": 2
+    }, 
+    {
         "city": "williamsburg", 
         "state": "AV", 
         "number": 1
@@ -1775,19 +1730,64 @@
         "number": 1
     }, 
     {
-        "city": "wilson", 
-        "state": "OK", 
-        "number": 2
-    }, 
-    {
         "city": "somerset", 
         "state": "KY", 
         "number": 1
     }, 
     {
+        "city": "wilson", 
+        "state": "OK", 
+        "number": 2
+    }, 
+    {
         "city": "sarasota", 
         "state": "FL", 
         "number": 2
+    }, 
+    {
+        "city": "durango", 
+        "state": "CO", 
+        "number": 2
+    }, 
+    {
+        "city": "hephzibah", 
+        "state": "GA", 
+        "number": 1
+    }, 
+    {
+        "city": "allen", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "minnetonka", 
+        "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "pasadena", 
+        "state": "MD", 
+        "number": 1
+    }, 
+    {
+        "city": "dodgeville", 
+        "state": "WI", 
+        "number": 1
+    }, 
+    {
+        "city": "mesquite", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "big spring", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "mt. vernon", 
+        "state": "TX", 
+        "number": 1
     }, 
     {
         "city": "mesa", 
@@ -1831,11 +1831,6 @@
     }, 
     {
         "city": "humble", 
-        "state": "TX", 
-        "number": 1
-    }, 
-    {
-        "city": "decatur", 
         "state": "TX", 
         "number": 1
     }, 
@@ -1970,11 +1965,6 @@
         "number": 3
     }, 
     {
-        "city": "willis", 
-        "state": "TX", 
-        "number": 2
-    }, 
-    {
         "city": "clearwater", 
         "state": "FL", 
         "number": 1
@@ -2010,11 +2000,6 @@
         "number": 1
     }, 
     {
-        "city": "chandler", 
-        "state": "AZ", 
-        "number": 2
-    }, 
-    {
         "city": "dallas", 
         "state": "GA", 
         "number": 2
@@ -2030,21 +2015,6 @@
         "number": 1
     }, 
     {
-        "city": "alvin", 
-        "state": "TX", 
-        "number": 1
-    }, 
-    {
-        "city": "davenport", 
-        "state": "FL", 
-        "number": 1
-    }, 
-    {
-        "city": "bastrop", 
-        "state": "TX", 
-        "number": 2
-    }, 
-    {
         "city": "lake mary", 
         "state": "FL", 
         "number": 1
@@ -2057,11 +2027,6 @@
     {
         "city": "marquand", 
         "state": "MO", 
-        "number": 1
-    }, 
-    {
-        "city": "texarkana", 
-        "state": "AR", 
         "number": 1
     }, 
     {
@@ -2135,6 +2100,11 @@
         "number": 1
     }, 
     {
+        "city": "chandler", 
+        "state": "AZ", 
+        "number": 2
+    }, 
+    {
         "city": "wrightsville beach", 
         "state": "NC", 
         "number": 1
@@ -2167,11 +2137,6 @@
     {
         "city": "corinth", 
         "state": "TX", 
-        "number": 1
-    }, 
-    {
-        "city": "wilcox", 
-        "state": "NE", 
         "number": 1
     }, 
     {
@@ -2245,16 +2210,6 @@
         "number": 1
     }, 
     {
-        "city": "laporte", 
-        "state": "TX", 
-        "number": 1
-    }, 
-    {
-        "city": "vincent", 
-        "state": "OH", 
-        "number": 1
-    }, 
-    {
         "city": "liverpool", 
         "state": "NY", 
         "number": 1
@@ -2272,11 +2227,6 @@
     {
         "city": "fargo", 
         "state": "ND", 
-        "number": 1
-    }, 
-    {
-        "city": "new branfels", 
-        "state": "TX", 
         "number": 1
     }, 
     {
@@ -2370,11 +2320,6 @@
         "number": 1
     }, 
     {
-        "city": "evergreen", 
-        "state": "CO", 
-        "number": 2
-    }, 
-    {
         "city": "mesquite", 
         "state": "NM", 
         "number": 1
@@ -2400,11 +2345,6 @@
         "number": 1
     }, 
     {
-        "city": "fort collins", 
-        "state": "CO", 
-        "number": 2
-    }, 
-    {
         "city": "pylesville", 
         "state": "MD", 
         "number": 1
@@ -2413,6 +2353,11 @@
         "city": "rochester", 
         "state": "MN", 
         "number": 1
+    }, 
+    {
+        "city": "willis", 
+        "state": "TX", 
+        "number": 2
     }, 
     {
         "city": "shoreacres", 
@@ -2435,13 +2380,13 @@
         "number": 1
     }, 
     {
-        "city": "knox", 
-        "state": "IN", 
-        "number": 1
+        "city": "evergreen", 
+        "state": "CO", 
+        "number": 2
     }, 
     {
-        "city": "shawnee", 
-        "state": "KS", 
+        "city": "knox", 
+        "state": "IN", 
         "number": 1
     }, 
     {
@@ -2577,6 +2522,61 @@
     {
         "city": "prior lake", 
         "state": "MN", 
+        "number": 1
+    }, 
+    {
+        "city": "wilcox", 
+        "state": "NE", 
+        "number": 1
+    }, 
+    {
+        "city": "shawnee", 
+        "state": "KS", 
+        "number": 1
+    }, 
+    {
+        "city": "bastrop", 
+        "state": "TX", 
+        "number": 2
+    }, 
+    {
+        "city": "vincent", 
+        "state": "OH", 
+        "number": 1
+    }, 
+    {
+        "city": "fort collins", 
+        "state": "CO", 
+        "number": 2
+    }, 
+    {
+        "city": "davenport", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "alvin", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "texarkana", 
+        "state": "AR", 
+        "number": 1
+    }, 
+    {
+        "city": "laporte", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "new branfels", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "decatur", 
+        "state": "TX", 
         "number": 1
     }, 
     {
@@ -2755,28 +2755,13 @@
         "number": 1
     }, 
     {
-        "city": "bailey", 
-        "state": "CO", 
-        "number": 1
-    }, 
-    {
         "city": "burbank", 
         "state": "CA", 
         "number": 1
     }, 
     {
-        "city": "kenosha", 
-        "state": "WI", 
-        "number": 1
-    }, 
-    {
         "city": "van buren", 
         "state": "AR", 
-        "number": 1
-    }, 
-    {
-        "city": "lake havasu city", 
-        "state": "AZ", 
         "number": 1
     }, 
     {
@@ -2822,11 +2807,6 @@
     {
         "city": "cedar park", 
         "state": "TX", 
-        "number": 1
-    }, 
-    {
-        "city": "madison", 
-        "state": "SD", 
         "number": 1
     }, 
     {
@@ -2925,11 +2905,6 @@
         "number": 1
     }, 
     {
-        "city": "san diego", 
-        "state": "CA", 
-        "number": 1
-    }, 
-    {
         "city": "pinehurst", 
         "state": "TX", 
         "number": 1
@@ -2947,16 +2922,6 @@
     {
         "city": "puyallup", 
         "state": "WA", 
-        "number": 1
-    }, 
-    {
-        "city": "napa", 
-        "state": "CA", 
-        "number": 1
-    }, 
-    {
-        "city": "rineyville", 
-        "state": "KY", 
         "number": 1
     }, 
     {
@@ -3030,11 +2995,6 @@
         "number": 1
     }, 
     {
-        "city": "weston", 
-        "state": "FL", 
-        "number": 1
-    }, 
-    {
         "city": "bloomington", 
         "state": "MN", 
         "number": 1
@@ -3072,11 +3032,6 @@
     {
         "city": "cocoa", 
         "state": "FL", 
-        "number": 1
-    }, 
-    {
-        "city": "littlefield", 
-        "state": "TX", 
         "number": 1
     }, 
     {
@@ -3280,11 +3235,6 @@
         "number": 1
     }, 
     {
-        "city": "lowell", 
-        "state": "AR", 
-        "number": 1
-    }, 
-    {
         "city": "south beloit", 
         "state": "IL", 
         "number": 1
@@ -3297,6 +3247,56 @@
     {
         "city": "king of prussia", 
         "state": "PA", 
+        "number": 1
+    }, 
+    {
+        "city": "san diego", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
+        "city": "lake havasu city", 
+        "state": "AZ", 
+        "number": 1
+    }, 
+    {
+        "city": "weston", 
+        "state": "FL", 
+        "number": 1
+    }, 
+    {
+        "city": "rineyville", 
+        "state": "KY", 
+        "number": 1
+    }, 
+    {
+        "city": "madison", 
+        "state": "SD", 
+        "number": 1
+    }, 
+    {
+        "city": "littlefield", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "bailey", 
+        "state": "CO", 
+        "number": 1
+    }, 
+    {
+        "city": "kenosha", 
+        "state": "WI", 
+        "number": 1
+    }, 
+    {
+        "city": "napa", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
+        "city": "lowell", 
+        "state": "AR", 
         "number": 1
     }, 
     {
