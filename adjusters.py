@@ -28,9 +28,9 @@ def get_geodata():
 
 def create_csv_file(data):
     f = open('cities.csv', 'w')
-    f.write('city,state,num,lon,lat')
+    f.write('city,state,num,lon,lat\n')
     for location in data:
-        print location['city'] + ',' + location['state'] + ',' + str(location['number'])
+        f.write(location['city'].title() + ',' + location['state'] + ',' + str(location['number']) + '\n')
     f.close()
 
 def main():

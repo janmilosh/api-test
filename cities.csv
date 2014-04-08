@@ -1,1 +1,664 @@
 city,state,num,lon,lat
+Greenfield,IN,2
+Wichita Falls,TX,3
+Peyton,CO,2
+El Paso,TX,2
+Brandon,MS,1
+Waskom,TX,1
+Phoenix,AZ,3
+Sylvania,OH,2
+Tampa,FL,4
+Flower Mound,TX,2
+Austin,TX,6
+Asheville,NC,2
+Tifton,GA,2
+Richardson,TX,2
+Denton,TX,5
+Orange Beach,AL,1
+Montgomery,AL,1
+Appleton,WI,1
+Asheeville,NC,1
+Colorado Springs,CO,14
+Normal,IL,1
+Aurora,CO,5
+Atlantic Beach,NC,1
+Valencia,CA,3
+Nashville,TN,1
+Port St. Lucie,FL,3
+Boca Raton,FL,1
+Houston,TX,16
+Mongomery,TX,1
+Oklahoma City,OK,4
+Port Orange,FL,2
+Bloomington,IL,1
+Concordia,KS,1
+Milton,FL,4
+Jacksonville,TX,1
+Stuart,FL,4
+Haines City,FL,1
+Smyrna,TN,1
+Park City,UT,1
+West Chester,OH,1
+Azle,TX,2
+Jordan,MN,1
+Keller,TX,6
+Oak Grove,MN,1
+Pleasant View,TN,1
+Euless,TX,3
+Story,WY,1
+Hillsboro,TN,1
+Caldwell,ID,1
+Wrenshall,MN,1
+Prescott,AZ,2
+Columbia,MO,2
+Allentown,PA,1
+Crystal River,FL,1
+Chino Hills,CA,2
+Lexington,KY,3
+Tylie,TX,1
+Bristol,TN,2
+Addison,TX,2
+Moore,SC,1
+Avilla,IN,1
+Avon By The Sea,NJ,1
+Texarkana,TX,2
+Bradenton,FL,5
+Denver,CO,13
+Mobile,AL,8
+Plano,TX,3
+San Marcos,TX,1
+Windermere,FL,1
+Springfield,MA,1
+Westminster,CO,4
+Silver Creek,WA,1
+Tucson,AZ,1
+Winchester,VA,1
+Oviedo,FL,2
+Dallas,TX,4
+Rockford,IL,1
+Indianapolis,IN,2
+South Elgin,IL,1
+Casselberry,FL,1
+Erie,CO,2
+Cape Coral,FL,4
+Destrehan,LA,1
+Brooksville,FL,3
+Canton,GA,1
+Des Moines,IA,1
+Joplin,MO,2
+Bozeman,MT,1
+Pompano Beach,FL,1
+Wadsworth,OH,1
+Aubrey,TX,1
+Saratoga,CA,1
+Devine,TX,1
+Ocala,FL,2
+Plainfield,IL,1
+Ralston,NE,1
+Largo,FL,2
+Niceville,FL,1
+Irving,TX,1
+Springtown,TX,1
+Midland,TX,4
+Lake Jackson,TX,1
+Coshocton,OH,1
+Littleton,CO,5
+Tomball,TX,2
+Owasso,OK,1
+League City,TX,2
+Panama City,FL,2
+Franklin,TN,1
+Altadena,CA,1
+N. Richland Hills,TX,1
+Burkburnett,TX,1
+Bowie,TX,1
+Conyers,GA,1
+Stephenville,TX,1
+Arlington,TX,6
+Clyde,TX,1
+Juno Beach,FL,1
+Broomfield,CO,2
+Rio Verde,AZ,1
+Gulf Shores,AL,2
+Middletown,OH,1
+Christine,ND,1
+Weyers Cave,VA,1
+Sugar Land,TX,1
+Pottsboro,TX,2
+Mcminnville,OR,1
+San Antonio,TX,11
+Charleston,SC,3
+Santa Clarita,CA,1
+Lockport,NY,1
+North Richland Hills,TX,2
+Warren,OH,1
+Boise,ID,1
+Tallahassee,FL,3
+Celebration,FL,1
+Conway,AR,1
+Mount Dora,FL,1
+Hichcock,TX,1
+Trenton,TN,1
+Elgin,SC,1
+Bolivar,MO,1
+Crowley,TX,1
+Statesboro,GA,1
+Lebanon,IN,2
+Maplewood,MN,1
+Detroit,MI,1
+Belt Buckle,TN,1
+Ormond Beach,FL,3
+Maurfreesboro,TN,1
+Las Vegas,NV,2
+Dunedin,FL,3
+Baton Rouge,LA,3
+Metairie,LA,3
+Weatherford,TX,2
+Marshfield,MO,1
+Lubbock,TX,5
+Talco,TX,1
+Spicewood,TX,1
+Garland,TX,3
+Graham,TX,1
+Dyersburg,TN,2
+Lancaster,OH,1
+Ellisville,MS,1
+Lawrenceville,GA,2
+Providence Village,TX,1
+Scottsdale,AZ,2
+Midlothian,VA,2
+Walnut,CA,1
+Merritt Island,FL,1
+Greenwood Village,CO,1
+Henrietta,TX,2
+Topeka,KS,2
+Kasson,MN,1
+Miami Beach,FL,1
+West Valley,UT,1
+Aledo,TX,4
+Los Angeles,CA,1
+Cypress,TX,3
+Griffin,GA,1
+Palm Beach Gardens,FL,2
+Hollywood,FL,2
+Tega Cay,SC,1
+Bolingbrook,IL,1
+Walker,LA,1
+Dillon,CO,1
+Rockledge,PA,1
+Clarkston,MI,1
+Conroe,TX,3
+Holly Hill,FL,1
+Lehigh Acres,FL,1
+Pensacola,FL,3
+Camp Wood,TX,1
+Pass Christian,MS,1
+Lumberton,TX,2
+Frisco,TX,5
+Tayor,AZ,1
+Buford,GA,1
+Salisbury,NC,1
+Webster,TX,1
+Lewisville,TX,3
+Valrico,FL,2
+Columbus,OH,6
+Frederick,MD,2
+Hammond,LA,2
+Wichita,KS,1
+Jacksonville,FL,3
+Cibolo,TX,2
+Omaha,NE,3
+Silverhill,AL,1
+Atlanta,GA,3
+Boulder City,NV,1
+Grove City,OH,1
+Altamonte Springs,FL,2
+Park City,KY,1
+Waxahachie,TX,1
+Newberg,OR,1
+Toledo,OH,2
+Billings,MT,1
+Northport,AL,1
+Boerne,TX,3
+Kissimmee,FL,3
+Wylie,TX,1
+Mission Viejo,CA,2
+Agate,CO,1
+Withee,WI,1
+Natalia,TX,1
+Golden,CO,1
+Englewood,CO,1
+Pearl River,LA,1
+Cleveland,TX,1
+Daytona Beach,FL,1
+Akron,OH,1
+Hesperia,CA,1
+Lafayette,LA,2
+Buffalo,TX,2
+Corpus Christi,TX,2
+Conover,NC,1
+Watkinsville,GA,2
+Richmond,KY,1
+Mt. Vernon,TX,1
+Mckinney,TX,2
+Kingwood,TX,1
+Peoria,AZ,1
+Valley Village,CA,1
+Ooltewah,TN,2
+Sea Bright,NJ,1
+Clovis,NM,1
+Castle Rock,CO,2
+Centennial,CO,2
+Imperial,MO,1
+Key Biscayne,FL,1
+Rocky Mount,NC,1
+Durango,CO,2
+Boynton Beach,FL,1
+Knoxville,TN,2
+Silsbee,TX,1
+Webster,NY,1
+Monson,MA,1
+Winchester,KY,1
+Spring Hope,NC,1
+Benton,KY,1
+Washington,MI,1
+Plymouth,NC,1
+Traverse City,MI,1
+Miami,FL,5
+Elkhart,IN,1
+Brownsburg,IN,1
+Starke,FL,1
+Rosemount,MN,1
+Breckenridge,CO,1
+Wellington,FL,1
+Bells,TX,1
+Montgomery,TX,2
+Waco,TX,2
+Minnetonka,MN,1
+Hephzibah,GA,1
+Allen,TX,1
+Chatfield,TX,1
+Fort Pierce,FL,1
+Missouri City,TX,2
+Coral Springs,FL,1
+Port Richey,FL,1
+Monroe,LA,1
+New Orleans,LA,2
+Katy,TX,3
+Glenallen,MO,1
+Swansboro,NC,1
+Muleshoe,TX,1
+Redwing,MN,1
+Pasadena,MD,1
+Overland Park,KS,1
+Cottage Grove,MN,1
+Pembroke Pines,FL,3
+Temple,GA,1
+Magnolia,TX,1
+Gibsonton,FL,1
+Medina,OH,1
+Hobe Sound,FL,1
+Mesquite,TX,1
+Dodgeville,WI,1
+Beavercreek,OR,2
+Seffner,FL,1
+Luling,LA,1
+Fort Worth,TX,7
+Millsboro,DE,1
+Henderson,NV,2
+Desoto,TX,1
+Ennis,MT,1
+Bethlehem,PA,1
+Hendersonville,TN,1
+Big Spring,TX,1
+Seminole,FL,2
+Sandy Springs,GA,1
+Jennings,LA,1
+Bardstown,KY,1
+Temple,TX,1
+Gulfport,MS,2
+Highlands Ranch,CO,4
+Cleveland,OH,1
+Leadville,CO,1
+Athens,AL,1
+Georgetown,TX,2
+Ferndale,WA,1
+Port O\'Connor,TX,1
+Rockvale,TN,1
+Brighton,CO,1
+Greencove Springs,FL,2
+Alpharetta,GA,1
+Bronson,FL,1
+Boones Mill,VA,1
+Charlotte,NC,3
+Slaton,TX,1
+Breckenridge,TX,1
+Summerfield,FL,2
+Platteville,CO,1
+Williamsburg,AV,1
+Arvada,CO,2
+Lakewood,CO,3
+Decatur,GA,1
+Cedar Creek,TX,2
+Memphis,TN,2
+Yorkville,IL,1
+Sarasota,FL,2
+Somerset,KY,1
+Ardmore,OK,1
+Reeds Spring,MO,1
+Redding,CA,1
+Wenatchee,WA,1
+Palm Harbor,FL,1
+Wilson,OK,2
+Ward,CO,1
+Leander,TX,2
+Hialeah,FL,1
+Leland,NC,2
+Fort Lauderdale,FL,1
+Marietta,OH,1
+Lakeland,FL,1
+Mesa,AZ,1
+Krum,TX,1
+Baytown,TX,1
+Saint Charles,MO,1
+Monclova,OH,1
+Mead,CO,1
+Hendersonville,NC,1
+Floyds Knobs,IN,1
+Humble,TX,1
+Decatur,TX,1
+Rock Island,TN,1
+Gulf Breeze,FL,3
+Milliken,CO,1
+Kodak,TN,1
+Safford,AZ,1
+Hawkins,TX,1
+Stillwater,OK,3
+Pittsburg,CA,1
+Palmetto,FL,1
+Fort Myers,FL,2
+Round Rock,TX,1
+Englishtown,NJ,1
+Springboro,OH,1
+Kemp,TX,1
+Everett,WA,1
+Custer,SD,1
+Myrtle Beach,SC,2
+Fort Walton Beach,FL,1
+Ball,LA,1
+Friendswood,TX,1
+Casper,WY,1
+Edgewood,TX,1
+Plainview,TX,1
+Grand Prairie,TX,2
+Albany,NY,1
+Saint Petersburg,FL,3
+Willis,TX,2
+Clearwater,FL,1
+Kettering,OH,1
+Cincinnati,OH,1
+Mullica Hill,NJ,1
+Cross Plains,TX,1
+Spring,TX,2
+Portland,OR,1
+Chandler,AZ,2
+Dallas,GA,2
+Palacios,TX,1
+Tavares,FL,1
+Alvin,TX,1
+Davenport,FL,1
+Bastrop,TX,2
+Lake Mary,FL,1
+Richmond,VA,1
+Marquand,MO,1
+Texarkana,AR,1
+Stouffville,ON,1
+Columbia,SC,1
+Guntersville,AL,1
+Sour Lake,TX,1
+Birdsboro,PA,1
+Brandon,FL,1
+Prattville,AL,1
+Sulphur,LA,1
+Thackerville,OK,1
+Rogers,AR,1
+Sherman,TX,2
+Blue Ridge,TX,1
+Downington,PA,1
+Calgary,AL,1
+Wrightsville Beach,NC,1
+Morristown,TN,1
+Southfield,MI,1
+Sanford,FL,1
+Sylmar,CA,1
+Kalispell,MT,1
+Corinth,TX,1
+Wilcox,NE,1
+St. Paul,MN,1
+Green Cove Springs,FL,1
+Parrish,FL,1
+Virginia Beach,VA,1
+Cedar Rapids,IA,1
+Port St Lucie,FL,2
+The Woodlands,TX,1
+Fairfield,IA,1
+Stanford,FL,1
+Marquette,MI,1
+East Longmeadow,MA,1
+South Hill,VA,1
+Deer Park,TX,1
+Winona,TX,1
+Laporte,TX,1
+Vincent,OH,1
+Liverpool,NY,1
+Woodland Park,CO,1
+Archer City,TX,1
+Fargo,ND,1
+New Branfels,TX,1
+Loveland,CO,2
+Lebaon,TN,1
+Woodstock,GA,1
+Columbia,LA,1
+Pine Knoll Shores,NC,1
+Lamesa,TX,1
+Murietta,GA,1
+Morgantown,WV,1
+Milwaukee,WI,1
+Pinckney,MI,1
+Myrtle,MS,1
+Lucedale,MS,1
+Indialantic,FL,1
+Poolville,TX,1
+Tappahannock,VA,1
+Worthington,OH,1
+Port Saint Lucie,FL,1
+San Ant5Onio,TX,1
+Evergreen,CO,2
+Mesquite,NM,1
+Palm Bay,FL,1
+Loudonville,OH,1
+Hastings,MN,1
+Kenner,LA,1
+Fort Collins,CO,2
+Pylesville,MD,1
+Rochester,MN,1
+Shoreacres,TX,1
+Oxford,AL,1
+Larkspur,CO,1
+Jackson,GA,1
+Knox,IN,1
+Shawnee,KS,1
+Slidell,LA,1
+Sonora,TX,1
+Ponchatoula,LA,2
+Wallingford,KY,1
+Corsicana,TX,1
+Longmont,CO,2
+Coppell,TX,1
+Southlake,TN,1
+Carrollton,TX,2
+Queen Creek,AZ,1
+Covington,LA,2
+Saint Cloud,FL,1
+Albuquerque,NM,1
+Ojai,CA,1
+Weeki Wachee,FL,1
+Hixson,TN,2
+Lake Hopatcong,NJ,1
+Snellville,GA,1
+Beaumont,CA,1
+Milner,GA,1
+Apopka,FL,1
+Tacoma,WA,1
+Prior Lake,MN,1
+Laplace,LA,1
+Saraland,AL,1
+Mission,TX,2
+Mansfield,TX,1
+Tonganoxie,KS,1
+Springfield,OR,2
+Dumont,CO,1
+Olivia,NC,1
+New Hope,AL,1
+Dandridge,TN,1
+Tiverton,RI,1
+Bedford,TX,1
+Anton,TX,1
+Seguin,TX,1
+New London,OH,1
+Hellertown,PA,1
+Lodi,CA,1
+Jensen Beach,FL,1
+Elizabethtown,KY,2
+Salem,AL,1
+Coldwater,MS,1
+Prosper,TX,1
+Brookfield,CT,1
+Perrysburg,OH,1
+Harrah,OK,1
+Moorestown,NJ,1
+Jefferson,WI,1
+Saint Augustine,FL,1
+Poplar Bluff,MO,1
+Fort Mill,SC,1
+Livingston,TX,1
+Marble Falls,TX,1
+Burlington,NC,1
+Hempstead,TX,1
+Lacombe,LA,1
+North Fort Myers,FL,1
+Poncha Springs,CO,1
+Cheyenne,WY,1
+Bullard,TX,1
+Bailey,CO,1
+Burbank,CA,1
+Kenosha,WI,1
+Van Buren,AR,1
+Lake Havasu City,AZ,1
+Elk River,MN,1
+Ocean Springs,MS,1
+Lilburn,GA,1
+Avondale,LA,1
+Newburgh,IN,1
+Maple Grove,MN,1
+Fairmont,WV,1
+Burlington,KY,1
+Cedar Park,TX,1
+Madison,SD,1
+Rockmart,GA,1
+Freeport,FL,1
+Indianola,OK,1
+Weir,TX,1
+Deerfield,OH,1
+Floral City,FL,1
+Wolfforth,TX,1
+Cookeville,TN,1
+Sunapee,NH,1
+Canal Winchester,OH,1
+E Providence,RI,1
+Oceanside,CA,1
+Easton,PA,1
+Ft. Mill,SC,1
+Cary,NC,1
+St George Island,FL,1
+Shreveport,LA,1
+Greenville,SC,1
+Seabrook,TX,1
+San Diego,CA,1
+Pinehurst,TX,1
+S. Cottage Grove,MN,1
+Sheffield,AL,1
+Puyallup,WA,1
+Napa,CA,1
+Rineyville,KY,1
+Prairieville,LA,1
+Mineral Wells,TX,2
+Clermont,FL,1
+Selkirk,NY,1
+Caballo,NM,1
+Abeline,TX,1
+Bonner Springs,KS,1
+Menifee,CA,1
+Onancock,VA,1
+Bellevue,WA,1
+Midland,NC,1
+Harrison,TN,1
+Chicago,IL,1
+Simpsonville,SC,1
+Weston,FL,1
+Bloomington,MN,1
+Long Beach,CA,1
+Georgetown,KY,1
+Stella,NC,1
+Ft. Myers,FL,1
+Winston,GA,1
+Glenn Heights,TX,1
+Cocoa,FL,1
+Littlefield,TX,1
+Anaconda,MT,1
+Florence,AL,1
+Murfreesboro,TN,3
+Moss Point,MS,1
+Seymour,MO,1
+Orlando,FL,2
+Crystal,MN,1
+Mooresville,IN,1
+Abelene,TX,1
+Dexter,MO,1
+Edmond,OK,2
+Pollock,LA,1
+Marietta,GA,1
+Fountain Hills,AZ,1
+Kings Mountain,NC,1
+Ingleside,TX,1
+Fairburn,GA,1
+Port Aransas,TX,1
+Yankton,SD,1
+Rathdrum,ID,1
+Calgary,AB,1
+Richmond,MO,1
+Hampton,VA,1
+Suffolk,VA,1
+Franklin,OH,1
+Cocoa Beach,FL,1
+Sandy,UT,1
+St. Charles,IL,1
+Kyle,TX,1
+Custer,WI,1
+Olathe,KS,1
+Minneapolis,MN,1
+North Miami Beach,FL,1
+Wolfeboro,NH,1
+Brookfield,MO,1
+Mandeville,LA,1
+Lenoir City,TN,1
+King Of Prussia,PA,1
+Wilsonville,OR,1
+Vero Beach,FL,1
+Greeley,CO,1
+Lowell,AR,1
+South Beloit,IL,1
+Lake Wales,FL,1
+Reynoldsburg,OH,1
+New Braunfels,TX,1
+Boutte,LA,1
