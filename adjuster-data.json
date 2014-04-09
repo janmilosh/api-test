@@ -1800,11 +1800,6 @@
         "number": 1
     }, 
     {
-        "city": "krum", 
-        "state": "TX", 
-        "number": 1
-    }, 
-    {
         "city": "baytown", 
         "state": "TX", 
         "number": 1
@@ -2575,12 +2570,17 @@
         "number": 1
     }, 
     {
-        "city": "new branfels", 
+        "city": "decatur", 
         "state": "TX", 
         "number": 1
     }, 
     {
-        "city": "decatur", 
+        "city": "krum", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
+        "city": "new branfels", 
         "state": "TX", 
         "number": 1
     }, 
@@ -2593,11 +2593,6 @@
         "city": "springfield", 
         "state": "OR", 
         "number": 2
-    }, 
-    {
-        "city": "dumont", 
-        "state": "CO", 
-        "number": 1
     }, 
     {
         "city": "olivia", 
@@ -2653,11 +2648,6 @@
         "city": "jensen beach", 
         "state": "FL", 
         "number": 1
-    }, 
-    {
-        "city": "elizabethtown", 
-        "state": "KY", 
-        "number": 2
     }, 
     {
         "city": "salem", 
@@ -2783,6 +2773,11 @@
         "city": "lilburn", 
         "state": "GA", 
         "number": 1
+    }, 
+    {
+        "city": "elizabethtown", 
+        "state": "KY", 
+        "number": 2
     }, 
     {
         "city": "avondale", 
@@ -3250,11 +3245,6 @@
         "number": 1
     }, 
     {
-        "city": "king of prussia", 
-        "state": "PA", 
-        "number": 1
-    }, 
-    {
         "city": "san diego", 
         "state": "CA", 
         "number": 1
@@ -3302,6 +3292,21 @@
     {
         "city": "lowell", 
         "state": "AR", 
+        "number": 1
+    }, 
+    {
+        "city": "dumont", 
+        "state": "CO", 
+        "number": 1
+    }, 
+    {
+        "city": "king of prussia", 
+        "state": "PA", 
+        "number": 1
+    }, 
+    {
+        "city": "peculiar", 
+        "state": "MO", 
         "number": 1
     }, 
     {

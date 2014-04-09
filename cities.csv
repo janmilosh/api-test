@@ -1,662 +1,113 @@
 city,state,num,lon,lat
-Houston,TX,16
-Colorado Springs,CO,14
-Denver,CO,13
-San Antonio,TX,11
-Mobile,AL,8
-Fort Worth,TX,7
-Austin,TX,6
-Keller,TX,6
-Arlington,TX,6
-Columbus,OH,6
-Denton,TX,5
-Aurora,CO,5
-Bradenton,FL,5
-Littleton,CO,5
-Lubbock,TX,5
-Frisco,TX,5
-Miami,FL,5
-Tampa,FL,4
-Oklahoma City,OK,4
-Stuart,FL,4
-Westminster,CO,4
-Dallas,TX,4
-Milton,FL,4
-Cape Coral,FL,4
-Midland,TX,4
-Aledo,TX,4
-Jacksonville,FL,4
-Highlands Ranch,CO,4
-Wichita Falls,TX,3
-Phoenix,AZ,3
-Valencia,CA,3
-Port St. Lucie,FL,3
-Euless,TX,3
-Lexington,KY,3
-Plano,TX,3
-Brooksville,FL,3
-Charleston,SC,3
-Tallahassee,FL,3
-Dunedin,FL,3
-Baton Rouge,LA,3
-Metairie,LA,3
-Garland,TX,3
-Cypress,TX,3
-Conroe,TX,3
-Pensacola,FL,3
-Lewisville,TX,3
-Ormond Beach,FL,3
-Omaha,NE,3
-Atlanta,GA,3
-Boerne,TX,3
-Kissimmee,FL,3
-Katy,TX,3
-Pembroke Pines,FL,3
-Charlotte,NC,3
-Lakewood,CO,3
-Gulf Breeze,FL,3
-Stillwater,OK,3
-Saint Petersburg,FL,3
-Murfreesboro,TN,3
-Greenfield,IN,2
-Peyton,CO,2
-El Paso,TX,2
-Sylvania,OH,2
-Flower Mound,TX,2
-Asheville,NC,2
-Tifton,GA,2
-Richardson,TX,2
-Port Orange,FL,2
-Azle,TX,2
-Prescott,AZ,2
-Columbia,MO,2
-Chino Hills,CA,2
-Bristol,TN,2
-Addison,TX,2
-Texarkana,TX,2
-Oviedo,FL,2
-Indianapolis,IN,2
-Erie,CO,2
-Joplin,MO,2
-Ocala,FL,2
-Largo,FL,2
-Tomball,TX,2
-League City,TX,2
-Panama City,FL,2
-Broomfield,CO,2
-Gulf Shores,AL,2
-Pottsboro,TX,2
-North Richland Hills,TX,2
-Lebanon,IN,2
-Las Vegas,NV,2
-Weatherford,TX,2
-Dyersburg,TN,2
-Lawrenceville,GA,2
-Scottsdale,AZ,2
-Midlothian,VA,2
-Henrietta,TX,2
-Topeka,KS,2
-Palm Beach Gardens,FL,2
-Hollywood,FL,2
-Lumberton,TX,2
-Valrico,FL,2
-Frederick,MD,2
-Hammond,LA,2
-Cibolo,TX,2
-Altamonte Springs,FL,2
-Toledo,OH,2
-Mission Viejo,CA,2
-Lafayette,LA,2
-Buffalo,TX,2
-Corpus Christi,TX,2
-Watkinsville,GA,2
-Mckinney,TX,2
-Ooltewah,TN,2
-Castle Rock,CO,2
-Centennial,CO,2
-Montgomery,TX,2
-Waco,TX,2
-Missouri City,TX,2
-New Orleans,LA,2
-Beavercreek,OR,2
-Henderson,NV,2
-Seminole,FL,2
-Gulfport,MS,2
-Georgetown,TX,2
-Greencove Springs,FL,2
-Summerfield,FL,2
-Knoxville,TN,2
-Arvada,CO,2
-Cedar Creek,TX,2
-Memphis,TN,2
-Leander,TX,2
-Leland,NC,2
-Wilson,OK,2
-Sarasota,FL,2
-Durango,CO,2
-Fort Myers,FL,2
-Myrtle Beach,SC,2
-Grand Prairie,TX,2
-Spring,TX,2
-Dallas,GA,2
-Sherman,TX,2
-Chandler,AZ,2
-Port St Lucie,FL,2
-Loveland,CO,2
-Willis,TX,2
-Evergreen,CO,2
-Ponchatoula,LA,2
-Longmont,CO,2
-Carrollton,TX,2
-Covington,LA,2
-Hixson,TN,2
-Mission,TX,2
-Bastrop,TX,2
-Fort Collins,CO,2
-Springfield,OR,2
-Elizabethtown,KY,2
-Mineral Wells,TX,2
-Orlando,FL,2
-Edmond,OK,2
-Brandon,MS,1
-Waskom,TX,1
-Orange Beach,AL,1
-Montgomery,AL,1
-Appleton,WI,1
-Asheeville,NC,1
-Normal,IL,1
-Atlantic Beach,NC,1
-Nashville,TN,1
-Mongomery,TX,1
-Jacksonville,TX,1
-Haines City,FL,1
-Smyrna,TN,1
-Park City,UT,1
-West Chester,OH,1
-Jordan,MN,1
-Oak Grove,MN,1
-Pleasant View,TN,1
-Story,WY,1
-Caldwell,ID,1
-Wrenshall,MN,1
-Allentown,PA,1
-Moore,SC,1
-Avilla,IN,1
-Avon By The Sea,NJ,1
-San Marcos,TX,1
-Windermere,FL,1
-Springfield,MA,1
-Silver Creek,WA,1
-Tucson,AZ,1
-Winchester,VA,1
-Rockford,IL,1
-South Elgin,IL,1
-Casselberry,FL,1
-Destrehan,LA,1
-Canton,GA,1
-Des Moines,IA,1
-Bozeman,MT,1
-Pompano Beach,FL,1
-Wadsworth,OH,1
-Aubrey,TX,1
-Saratoga,CA,1
-Devine,TX,1
-Plainfield,IL,1
-Ralston,NE,1
-Niceville,FL,1
-Irving,TX,1
-Springtown,TX,1
-Lake Jackson,TX,1
-Coshocton,OH,1
-Owasso,OK,1
-Franklin,TN,1
-Altadena,CA,1
-N. Richland Hills,TX,1
-Burkburnett,TX,1
-Bowie,TX,1
-Conyers,GA,1
-Stephenville,TX,1
-Clyde,TX,1
-Juno Beach,FL,1
-Rio Verde,AZ,1
-Middletown,OH,1
-Christine,ND,1
-Sugar Land,TX,1
-Mcminnville,OR,1
-Santa Clarita,CA,1
-Lockport,NY,1
-Warren,OH,1
-Boise,ID,1
-Celebration,FL,1
-Conway,AR,1
-Mount Dora,FL,1
-Hichcock,TX,1
-Trenton,TN,1
-Elgin,SC,1
-Bolivar,MO,1
-Crowley,TX,1
-Statesboro,GA,1
-Maplewood,MN,1
-Detroit,MI,1
-Maurfreesboro,TN,1
-Marshfield,MO,1
-Talco,TX,1
-Spicewood,TX,1
-Graham,TX,1
-Lancaster,OH,1
-Ellisville,MS,1
-Providence Village,TX,1
-Walnut,CA,1
-Merritt Island,FL,1
-Greenwood Village,CO,1
-Miami Beach,FL,1
-West Valley,UT,1
-Los Angeles,CA,1
-Griffin,GA,1
-Tega Cay,SC,1
-Bolingbrook,IL,1
-Walker,LA,1
-Dillon,CO,1
-Rockledge,PA,1
-Clarkston,MI,1
-Holly Hill,FL,1
-Lehigh Acres,FL,1
-Camp Wood,TX,1
-Pass Christian,MS,1
-Tayor,AZ,1
-Buford,GA,1
-Salisbury,NC,1
-Webster,TX,1
-Crystal River,FL,1
-Belt Buckle,TN,1
-Tylie,TX,1
-Kasson,MN,1
-Concordia,KS,1
-Boca Raton,FL,1
-Bloomington,IL,1
-Hillsboro,TN,1
-Weyers Cave,VA,1
-Wichita,KS,1
-Silverhill,AL,1
-Boulder City,NV,1
-Grove City,OH,1
-Park City,KY,1
-Waxahachie,TX,1
-Newberg,OR,1
-Billings,MT,1
-Northport,AL,1
-Wylie,TX,1
-Agate,CO,1
-Withee,WI,1
-Natalia,TX,1
-Golden,CO,1
-Englewood,CO,1
-Pearl River,LA,1
-Cleveland,TX,1
-Daytona Beach,FL,1
-Akron,OH,1
-Hesperia,CA,1
-Conover,NC,1
-Richmond,KY,1
-Kingwood,TX,1
-Peoria,AZ,1
-Valley Village,CA,1
-Sea Bright,NJ,1
-Clovis,NM,1
-Imperial,MO,1
-Key Biscayne,FL,1
-Rocky Mount,NC,1
-Boynton Beach,FL,1
-Silsbee,TX,1
-Webster,NY,1
-Monson,MA,1
-Winchester,KY,1
-Spring Hope,NC,1
-Benton,KY,1
-Washington,MI,1
-Plymouth,NC,1
-Traverse City,MI,1
-Elkhart,IN,1
-Brownsburg,IN,1
-Starke,FL,1
-Rosemount,MN,1
-Breckenridge,CO,1
-Wellington,FL,1
-Bells,TX,1
-Chatfield,TX,1
-Fort Pierce,FL,1
-Coral Springs,FL,1
-Port Richey,FL,1
-Monroe,LA,1
-Glenallen,MO,1
-Swansboro,NC,1
-Muleshoe,TX,1
-Redwing,MN,1
-Overland Park,KS,1
-Cottage Grove,MN,1
-Temple,GA,1
-Magnolia,TX,1
-Gibsonton,FL,1
-Medina,OH,1
-Hobe Sound,FL,1
-Seffner,FL,1
-Luling,LA,1
-Millsboro,DE,1
-Desoto,TX,1
-Ennis,MT,1
-Bethlehem,PA,1
-Hendersonville,TN,1
-Sandy Springs,GA,1
-Jennings,LA,1
-Bardstown,KY,1
-Temple,TX,1
-Cleveland,OH,1
-Leadville,CO,1
-Athens,AL,1
-Ferndale,WA,1
-Port O'Connor,TX,1
-Rockvale,TN,1
-Brighton,CO,1
-Alpharetta,GA,1
-Bronson,FL,1
-Boones Mill,VA,1
-Slaton,TX,1
-Breckenridge,TX,1
-Platteville,CO,1
-Decatur,GA,1
-Yorkville,IL,1
-Ardmore,OK,1
-Reeds Spring,MO,1
-Redding,CA,1
-Wenatchee,WA,1
-Palm Harbor,FL,1
-Hialeah,FL,1
-Fort Lauderdale,FL,1
-Marietta,OH,1
-Lakeland,FL,1
-Ward,CO,1
-Somerset,KY,1
-Hephzibah,GA,1
-Allen,TX,1
-Minnetonka,MN,1
-Pasadena,MD,1
-Dodgeville,WI,1
-Mesquite,TX,1
-Big Spring,TX,1
-Mt. Vernon,TX,1
-Concord,NC,1
-Mesa,AZ,1
-Krum,TX,1
-Baytown,TX,1
-Saint Charles,MO,1
-Monclova,OH,1
-Mead,CO,1
-Hendersonville,NC,1
-Floyds Knobs,IN,1
-Humble,TX,1
-Rock Island,TN,1
-Milliken,CO,1
-Kodak,TN,1
-Safford,AZ,1
-Hawkins,TX,1
-Pittsburg,CA,1
-Palmetto,FL,1
-Round Rock,TX,1
-Englishtown,NJ,1
-Springboro,OH,1
-Kemp,TX,1
-Everett,WA,1
-Custer,SD,1
-Fort Walton Beach,FL,1
-Ball,LA,1
-Friendswood,TX,1
-Casper,WY,1
-Edgewood,TX,1
-Plainview,TX,1
-Albany,NY,1
-Clearwater,FL,1
-Kettering,OH,1
-Cincinnati,OH,1
-Mullica Hill,NJ,1
-Cross Plains,TX,1
-Portland,OR,1
-Palacios,TX,1
-Tavares,FL,1
-Lake Mary,FL,1
-Richmond,VA,1
-Marquand,MO,1
-Columbia,SC,1
-Guntersville,AL,1
-Sour Lake,TX,1
-Birdsboro,PA,1
-Brandon,FL,1
-Prattville,AL,1
-Sulphur,LA,1
-Thackerville,OK,1
-Rogers,AR,1
-Blue Ridge,TX,1
-Downington,PA,1
-Calgary,AL,1
-Wrightsville Beach,NC,1
-Morristown,TN,1
-Southfield,MI,1
-Sanford,FL,1
-Sylmar,CA,1
-Kalispell,MT,1
-Corinth,TX,1
-St. Paul,MN,1
-Green Cove Springs,FL,1
-Parrish,FL,1
-Virginia Beach,VA,1
-Cedar Rapids,IA,1
-The Woodlands,TX,1
-Fairfield,IA,1
-Stanford,FL,1
-Marquette,MI,1
-East Longmeadow,MA,1
-South Hill,VA,1
-Deer Park,TX,1
-Winona,TX,1
-Liverpool,NY,1
-Woodland Park,CO,1
-Archer City,TX,1
-Fargo,ND,1
-Lebaon,TN,1
-Woodstock,GA,1
-Columbia,LA,1
-Pine Knoll Shores,NC,1
-Lamesa,TX,1
-Murietta,GA,1
-Morgantown,WV,1
-Milwaukee,WI,1
-Pinckney,MI,1
-Myrtle,MS,1
-Lucedale,MS,1
-Indialantic,FL,1
-Poolville,TX,1
-Tappahannock,VA,1
-Worthington,OH,1
-Port Saint Lucie,FL,1
-San Ant5Onio,TX,1
-Mesquite,NM,1
-Palm Bay,FL,1
-Loudonville,OH,1
-Hastings,MN,1
-Kenner,LA,1
-Pylesville,MD,1
-Rochester,MN,1
-Shoreacres,TX,1
-Oxford,AL,1
-Larkspur,CO,1
-Jackson,GA,1
-Knox,IN,1
-Slidell,LA,1
-Sonora,TX,1
-Wallingford,KY,1
-Corsicana,TX,1
-Coppell,TX,1
-Southlake,TN,1
-Queen Creek,AZ,1
-Saint Cloud,FL,1
-Albuquerque,NM,1
-Ojai,CA,1
-Weeki Wachee,FL,1
-Lake Hopatcong,NJ,1
-Snellville,GA,1
-Beaumont,CA,1
-Milner,GA,1
-Apopka,FL,1
-Tacoma,WA,1
-Laplace,LA,1
-Saraland,AL,1
-Mansfield,TX,1
-Prior Lake,MN,1
-Wilcox,NE,1
-Shawnee,KS,1
-Vincent,OH,1
-Davenport,FL,1
-Alvin,TX,1
-Texarkana,AR,1
-Laporte,TX,1
-New Branfels,TX,1
-Decatur,TX,1
-Tonganoxie,KS,1
-Dumont,CO,1
-Olivia,NC,1
-New Hope,AL,1
-Dandridge,TN,1
-Tiverton,RI,1
-Bedford,TX,1
-Anton,TX,1
-Seguin,TX,1
-New London,OH,1
-Hellertown,PA,1
-Lodi,CA,1
-Jensen Beach,FL,1
-Salem,AL,1
-Coldwater,MS,1
-Prosper,TX,1
-Brookfield,CT,1
-Perrysburg,OH,1
-Harrah,OK,1
-Moorestown,NJ,1
-Jefferson,WI,1
-Saint Augustine,FL,1
-Poplar Bluff,MO,1
-Fort Mill,SC,1
-Livingston,TX,1
-Marble Falls,TX,1
-Burlington,NC,1
-Hempstead,TX,1
-Lacombe,LA,1
-North Fort Myers,FL,1
-Poncha Springs,CO,1
-Cheyenne,WY,1
-Bullard,TX,1
-Burbank,CA,1
-Van Buren,AR,1
-Elk River,MN,1
-Ocean Springs,MS,1
-Lilburn,GA,1
-Avondale,LA,1
-Newburgh,IN,1
-Maple Grove,MN,1
-Fairmont,WV,1
-Burlington,KY,1
-Cedar Park,TX,1
-Rockmart,GA,1
-Freeport,FL,1
-Indianola,OK,1
-Weir,TX,1
-Deerfield,OH,1
-Floral City,FL,1
-Wolfforth,TX,1
-Cookeville,TN,1
-Sunapee,NH,1
-Canal Winchester,OH,1
-E Providence,RI,1
-Oceanside,CA,1
-Easton,PA,1
-Ft. Mill,SC,1
-Cary,NC,1
-St George Island,FL,1
-Shreveport,LA,1
-Greenville,SC,1
-Seabrook,TX,1
-Pinehurst,TX,1
-S. Cottage Grove,MN,1
-Sheffield,AL,1
-Puyallup,WA,1
-Prairieville,LA,1
-Clermont,FL,1
-Selkirk,NY,1
-Caballo,NM,1
-Abeline,TX,1
-Bonner Springs,KS,1
-Menifee,CA,1
-Onancock,VA,1
-Bellevue,WA,1
-Midland,NC,1
-Harrison,TN,1
-Chicago,IL,1
-Simpsonville,SC,1
-Bloomington,MN,1
-Long Beach,CA,1
-Georgetown,KY,1
-Stella,NC,1
-Ft. Myers,FL,1
-Winston,GA,1
-Glenn Heights,TX,1
-Cocoa,FL,1
-Anaconda,MT,1
-Florence,AL,1
-Moss Point,MS,1
-Seymour,MO,1
-Crystal,MN,1
-Mooresville,IN,1
-Abelene,TX,1
-Dexter,MO,1
-Pollock,LA,1
-Marietta,GA,1
-Fountain Hills,AZ,1
-Kings Mountain,NC,1
-Ingleside,TX,1
-Fairburn,GA,1
-Port Aransas,TX,1
-Yankton,SD,1
-Rathdrum,ID,1
-Richmond,MO,1
-Hampton,VA,1
-Suffolk,VA,1
-Franklin,OH,1
-Cocoa Beach,FL,1
-Sandy,UT,1
-St. Charles,IL,1
-Kyle,TX,1
-Custer,WI,1
-Olathe,KS,1
-Minneapolis,MN,1
-North Miami Beach,FL,1
-Wolfeboro,NH,1
-Brookfield,MO,1
-Mandeville,LA,1
-Lenoir City,TN,1
-Wilsonville,OR,1
-Vero Beach,FL,1
-Greeley,CO,1
-South Beloit,IL,1
-Lake Wales,FL,1
-King Of Prussia,PA,1
-San Diego,CA,1
-Lake Havasu City,AZ,1
-Weston,FL,1
-Rineyville,KY,1
-Madison,SD,1
-Littlefield,TX,1
-Bailey,CO,1
-Kenosha,WI,1
-Napa,CA,1
-Lowell,AR,1
-Reynoldsburg,OH,1
-New Braunfels,TX,1
-Boutte,LA,1
+Houston,TX,16,29.7601927,-95.3693896
+Colorado Springs,CO,14,38.8338816,-104.8213634
+Denver,CO,13,39.737567,-104.9847179
+Mobile,AL,8,30.6943566,-88.0430541
+Austin,TX,6,30.267153,-97.7430608
+Keller,TX,6,32.9345701,-97.251682
+Arlington,TX,6,32.735687,-97.1080656
+Denton,TX,5,33.2148412,-97.1330683
+Aurora,CO,5,39.7294319,-104.8319195
+Bradenton,FL,5,27.4989278,-82.5748194
+Littleton,CO,5,39.613321,-105.0166498
+Tampa,FL,4,27.950575,-82.4571776
+Oklahoma City,OK,4,35.4675602,-97.5164276
+Stuart,FL,4,27.197548,-80.2528257
+Westminster,CO,4,39.8366528,-105.0372046
+Dallas,TX,4,32.7801399,-96.8004511
+Milton,FL,4,30.6324149,-87.0396881
+Cape Coral,FL,4,26.5628537,-81.9495331
+Midland,TX,4,31.9973456,-102.0779146
+Wichita Falls,TX,3,33.9137085,-98.4933873
+Phoenix,AZ,3,33.4483771,-112.0740373
+Valencia,CA,3,34.3898162,-118.5642291
+Port St. Lucie,FL,3,27.2758333,-80.355
+Euless,TX,3,32.8370727,-97.0819541
+Lexington,KY,3,38.0405837,-84.5037164
+Plano,TX,3,33.0198431,-96.6988856
+Brooksville,FL,3,28.5552719,-82.3878709
+Greenfield,IN,2,39.785043,-85.7694226
+Peyton,CO,2,39.0284685,-104.4841284
+El Paso,TX,2,31.7699559,-106.4968055
+Sylvania,OH,2,41.7189392,-83.7129935
+Flower Mound,TX,2,33.0145673,-97.0969552
+Asheville,NC,2,35.5950581,-82.5514869
+Tifton,GA,2,31.4504629,-83.5084973
+Richardson,TX,2,32.9481789,-96.7297205
+Port Orange,FL,2,29.1383165,-80.9956105
+Azle,TX,2,32.8951262,-97.5458565
+Prescott,AZ,2,34.5400242,-112.4685025
+Columbia,MO,2,38.9517053,-92.3340724
+Chino Hills,CA,2,33.9898188,-117.7325848
+Bristol,TN,2,36.5951059,-82.1887444
+Addison,TX,2,32.96179,-96.8291685
+Texarkana,TX,2,33.425125,-94.0476882
+Oviedo,FL,2,28.669997,-81.2081203
+Indianapolis,IN,2,39.768403,-86.158068
+Erie,CO,2,40.0502623,-105.0499817
+Joplin,MO,2,37.0842271,-94.513281
+Ocala,FL,2,29.1871986,-82.1400923
+Largo,FL,2,27.9094665,-82.7873244
+Tomball,TX,2,30.0971621,-95.6160549
+League City,TX,2,29.5074538,-95.0949303
+Panama City,FL,2,30.1588129,-85.6602058
+Brandon,MS,1,32.2732024,-89.9859158
+Waskom,TX,1,32.4787644,-94.0596305
+Orange Beach,AL,1,30.2697033,-87.5867598
+Montgomery,AL,1,32.3668052,-86.2999689
+Appleton,WI,1,44.2619309,-88.4153847
+Asheeville,NC,1,35.5950581,-82.5514869
+Normal,IL,1,40.5142026,-88.9906312
+Atlantic Beach,NC,1,34.6990505,-76.7402108
+Nashville,TN,1,36.1666667,-86.7833333
+Mongomery,TX,1,30.3882613,-95.6963355
+Jacksonville,TX,1,31.963778,-95.2705042
+Haines City,FL,1,28.1141841,-81.6178536
+Smyrna,TN,1,35.9828412,-86.5186045
+Park City,UT,1,40.6460622,-111.4979729
+West Chester,OH,1,39.0875777,-81.9226372
+Jordan,MN,1,44.6711949,-93.6294286
+Oak Grove,MN,1,45.3407981,-93.326897
+Pleasant View,TN,1,36.3942164,-87.0366685
+Story,WY,1,44.574694,-106.8867261
+Caldwell,ID,1,43.6629384,-116.6873596
+Wrenshall,MN,1,46.6166577,-92.3853613
+Allentown,PA,1,40.6084305,-75.4901833
+Moore,SC,1,34.8334579,-81.9920463
+Avilla,IN,1,41.3658823,-85.2388634
+Avon By The Sea,NJ,1,40.1923357,-74.0159703
+San Marcos,TX,1,29.8832749,-97.9413941
+Windermere,FL,1,28.4955593,-81.5347952
+Springfield,MA,1,42.1014831,-72.589811
+Silver Creek,WA,1,46.525385,-122.5903908
+Tucson,AZ,1,32.2217429,-110.926479
+Winchester,VA,1,39.1856597,-78.1633341
+Rockford,IL,1,42.2711311,-89.0939952
+South Elgin,IL,1,41.9941938,-88.2922996
+Casselberry,FL,1,28.677775,-81.3278455
+Destrehan,LA,1,29.9429828,-90.3517469
+Canton,GA,1,34.2367621,-84.4907621
+Des Moines,IA,1,41.6005448,-93.6091064
+Bozeman,MT,1,45.6834599,-111.050499
+Pompano Beach,FL,1,26.2378597,-80.1247667
+Wadsworth,OH,1,41.0256101,-81.7298519
+Aubrey,TX,1,33.3042834,-96.986118
+Saratoga,CA,1,37.2638324,-122.0230146
+Devine,TX,1,29.1399633,-98.905306
+Plainfield,IL,1,41.615915,-88.204069
+Ralston,NE,1,41.2002566,-96.031987
+Niceville,FL,1,30.5168639,-86.482172
+Irving,TX,1,32.8140177,-96.9488945
+Springtown,TX,1,32.9659566,-97.6836384
+Lake Jackson,TX,1,29.0338575,-95.4343859
+Coshocton,OH,1,40.2720151,-81.8595756
+Owasso,OK,1,36.2695388,-95.8547119
+Franklin,TN,1,35.9250637,-86.8688899
+Altadena,CA,1,34.1897274,-118.1311819
+N. Richland Hills,TX,1,32.8342952,-97.2289029
+Burkburnett,TX,1,34.0978711,-98.5706134
+Bowie,TX,1,33.5589953,-97.8486457
+Conyers,GA,1,33.6676103,-84.0176904
+Stephenville,TX,1,32.2206958,-98.2022633
+Clyde,TX,1,32.4059605,-99.4936912
+Juno Beach,FL,1,26.8797819,-80.0533743

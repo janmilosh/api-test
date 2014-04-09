@@ -31,11 +31,16 @@ def convert_json_and_sort(data):
             city = location['city'].title().decode('string_escape')
             state = location['state']
             location = location['number']
-            city_list.append([city, state, location])
 
-            # Now that we have the city and state, go get latitude and longitude
-            # This currently just prints xml to the console, but it's a good start
-            get_geodata(city.replace(' ', '%20'), state)
+            # Get latitude and longitude
+            geolocation = get_geodata(city.replace(' ', '+'), state)
+            latitude = geolocation[0]
+            longitude = geolocation[1]
+
+            # Create the complete list describing a location
+            city_list.append([city, state, location, latitude, longitude])
+            
+            print(city_list)
 
         # Reverse sort the list by number of adjusters    
         city_list.sort(key=lambda x: x[2], reverse=True)
@@ -43,27 +48,24 @@ def convert_json_and_sort(data):
         f = open('cities.csv', 'w')
         f.write('city,state,num,lon,lat\n')
         for item in city_list:
-            f.write(item[0] + ',' + item[1] + ',' + str(item[2]) + '\n')
+            f.write(item[0] + ',' + item[1] + ',' + str(item[2]) + ',' + str(item[3]) + ',' + str(item[4]) + '\n')
         f.close()
         
-# Get geodata and add to list
+# Get geodata and return list containing latitude and longitude
 def get_geodata(city, state):
-    url = 'http://geoservices.tamu.edu/Services/Geocode/WebService/GeocoderWebServiceHttpNonParsed_V04_01.aspx?city=' + city + '&state=' + state + '&apikey=demo&format=XML&census=false&notStore=false&version=4.01'
+    url = 'https://maps.googleapis.com/maps/api/geocode/json?address=' + city + ',+' + state + '&sensor=false&key=AIzaSyDe1fq7oib8shkDokkXzJ8H1txRTLjR8k8'
     response = urlopen(url)
-    output = response.read()
-    print(output)
-    # xml_data = open('xml_response.xml', 'w')
-    # xml_data.write(output)
-    # xml_data.close()
+    json_obj = load(response)
+    latitude = json_obj['results'][0]['geometry']['location']['lat']
+    longitude = json_obj['results'][0]['geometry']['location']['lng']
+    location = [latitude, longitude]
+    return location
 
 # The main function that makes it all happen
 def main():
     raw_data = get_data()
-    convert_json_and_sort(raw_data)
     print_raw_data(raw_data)
-
-    # get_geodata()
-
-
+    convert_json_and_sort(raw_data)
+    
 if __name__ == '__main__':
     main()
