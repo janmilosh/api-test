@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from urllib2 import urlopen
 from json import load, dumps
+import time
 
 # Get the Mariposa data in JSON format (city, state, and number of adjusters)
 def get_data():
@@ -26,13 +27,17 @@ def convert_json_and_sort(data):
           'SD', 'TN', 'TX', 'UT', 'VT', 'VA', 'WA', 'WV', 'WI', 'WY']
     
     # Create the city list array and get the geodata
-    for location in data:
+    for index, location in enumerate(data):
         if location['state'] in states:
             city = location['city'].title().decode('string_escape')
             state = location['state']
             location = location['number']
 
-            # Get latitude and longitude
+            # We need to put in pauses because Google's geolocator throttles us
+            if index % 100 == 0:
+                time.sleep(60)
+
+            # Get latitude and longitude from Google geolocation api
             geolocation = get_geodata(city.replace(' ', '+'), state)
             latitude = geolocation[0]
             longitude = geolocation[1]
@@ -46,7 +51,7 @@ def convert_json_and_sort(data):
         city_list.sort(key=lambda x: x[2], reverse=True)
 
         f = open('cities.csv', 'w')
-        f.write('city,state,num,lon,lat\n')
+        f.write('city,state,num,lat,lon\n')
         for item in city_list:
             f.write(item[0] + ',' + item[1] + ',' + str(item[2]) + ',' + str(item[3]) + ',' + str(item[4]) + '\n')
         f.close()
