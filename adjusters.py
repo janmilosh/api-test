@@ -1,7 +1,15 @@
 #!/usr/bin/env python3
+
+'''Gets the city, state, and number of adjusters from Mariposa portal;
+   obtains latitude and longitude for each city in the data set; and
+   writes the values to a csv file that is used in the coverage map
+   on mariposaltd.com'''
+
+
 from urllib2 import urlopen
 from json import load, dumps
 import time
+from datetime import datetime
 
 # Get the Mariposa data in JSON format (city, state, and number of adjusters)
 def get_data():
@@ -18,6 +26,8 @@ def print_raw_data(data):
     f.close()
 
 # Convert JSON data to a list and sort by number of adjusters (high to low)
+# Weeds out non-us cities by comparing state values, gets latitude and longitude
+# Prints the data to a csv file called cities.csv
 def convert_json_and_sort(data):
     city_list = []
     states = ['AL', 'AK', 'AZ', 'AR', 'CA', 'CO', 'CT', 'DC', 'DE', 'FL', 'GA', 
@@ -31,10 +41,10 @@ def convert_json_and_sort(data):
         if location['state'] in states:
             city = location['city'].title().decode('string_escape')
             state = location['state']
-            location = location['number']
+            number = location['number']
 
             # We need to put in pauses because Google's geolocator throttles us
-            if index % 100 == 0:
+            if index % 100 == 0 and index != 0:
                 time.sleep(60)
 
             # Get latitude and longitude from Google geolocation api
@@ -43,18 +53,21 @@ def convert_json_and_sort(data):
             longitude = geolocation[1]
 
             # Create the complete list describing a location
-            city_list.append([city, state, location, latitude, longitude])
-            
-            print(city_list)
+            city_list.append([city, state, number, latitude, longitude])
 
-        # Reverse sort the list by number of adjusters    
-        city_list.sort(key=lambda x: x[2], reverse=True)
+            # Print the results to the console, including the time
+            access_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+            print(access_time + ', ' + str(index) + ', ' + city + ', ' + state + ', ' + str(number) + ', ' + str(latitude) + ', ' + str(longitude))
 
-        f = open('cities.csv', 'w')
-        f.write('city,state,num,lat,lon\n')
-        for item in city_list:
-            f.write(item[0] + ',' + item[1] + ',' + str(item[2]) + ',' + str(item[3]) + ',' + str(item[4]) + '\n')
-        f.close()
+    # Reverse sort the list by number of adjusters    
+    city_list.sort(key=lambda x: x[2], reverse=True)
+
+    # Print to the csv file
+    f = open('cities.csv', 'w')
+    f.write('city,state,num,lat,lon\n')
+    for item in city_list:
+        f.write(item[0] + ',' + item[1] + ',' + str(item[2]) + ',' + str(item[3]) + ',' + str(item[4]) + '\n')
+    f.close()
         
 # Get geodata and return list containing latitude and longitude
 def get_geodata(city, state):
