@@ -260,11 +260,6 @@
         "number": 2
     }, 
     {
-        "city": "moore", 
-        "state": "SC", 
-        "number": 1
-    }, 
-    {
         "city": "avilla", 
         "state": "IN", 
         "number": 1
@@ -950,11 +945,6 @@
         "number": 2
     }, 
     {
-        "city": "columbus", 
-        "state": "OH", 
-        "number": 6
-    }, 
-    {
         "city": "frederick", 
         "state": "MD", 
         "number": 2
@@ -1018,6 +1008,16 @@
         "city": "weyers cave", 
         "state": "VA", 
         "number": 1
+    }, 
+    {
+        "city": "moore", 
+        "state": "SC", 
+        "number": 1
+    }, 
+    {
+        "city": "columbus", 
+        "state": "OH", 
+        "number": 6
     }, 
     {
         "city": "hammond", 
@@ -1582,7 +1582,7 @@
     {
         "city": "brighton", 
         "state": "CO", 
-        "number": 1
+        "number": 2
     }, 
     {
         "city": "greencove springs", 
@@ -2585,6 +2585,11 @@
         "number": 1
     }, 
     {
+        "city": "mc kinney", 
+        "state": "TX", 
+        "number": 1
+    }, 
+    {
         "city": "tonganoxie", 
         "state": "KS", 
         "number": 1
@@ -3310,6 +3315,11 @@
         "number": 1
     }, 
     {
+        "city": "woodland hills", 
+        "state": "CA", 
+        "number": 1
+    }, 
+    {
         "city": "reynoldsburg", 
         "state": "OH", 
         "number": 1
@@ -3322,6 +3332,11 @@
     {
         "city": "boutte", 
         "state": "LA", 
+        "number": 1
+    }, 
+    {
+        "city": "lexington", 
+        "state": "SC", 
         "number": 1
     }
 ]
